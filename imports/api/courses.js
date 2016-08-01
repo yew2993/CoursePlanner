@@ -1,11 +1,14 @@
 import { Meteor } from 'meteor/meteor';
 import { Mongo } from 'meteor/mongo';
 import { check } from 'meteor/check';
- 
+
+export const Courses = new Mongo.Collection('Courses');
 export const YeshivaCourses = new Mongo.Collection('YeshivaCourses');
 export const SternCourses = new Mongo.Collection('SternCourses');
 
 if (Meteor.isServer) {
+  // basic aggregation pipeline restructures courses into department > course > offering
+  // hierarchy for UI
   const aggregateByDept = [
     { $match: { "display.dow": { $not: /^$/}} },
     { $group: {_id: {department: "$department", code: "$code", crn: "$id"},
@@ -36,6 +39,8 @@ if (Meteor.isServer) {
      }},
      { $sort: {_id: 1}}
     ];
+  // pipeline generator that accepts user searchTerms to filter courses that are aggregated.
+  // Currently not in use due to jQuery show/hiding of matches that avoids extra server requests
   var generatePipeline = function(searchTerms) {
     var pipeline = [],
       matchArr = [], matcher = '', advancedMatcher = '', basicMatcher = '';
@@ -90,6 +95,9 @@ if (Meteor.isServer) {
     }
     return pipeline;
   };
+  Meteor.publish('Courses', function CoursesPublication() {
+    return Courses.find({})
+  })
   Meteor.methods({
     'YeshivaCourses.byDept'(searchTerms) {
       return YeshivaCourses.aggregate(generatePipeline(searchTerms));
@@ -97,5 +105,24 @@ if (Meteor.isServer) {
     'SternCourses.byDept'(searchTerms) {
       return SternCourses.aggregate(generatePipeline(searchTerms));
     },
+    'Courses.getUniversities'() {
+      return Courses.aggregate([
+        {$group: {_id: "$university"}}
+      ]);
+    },
+    'Courses.getSemesters'({university}) {
+      // check(university, 'String');
+      return Courses.aggregate([
+        {$match: {"university": university}},
+        {$group: {_id: "$semester"}}
+      ]);
+    },
+    'Courses.getColleges'({university, semester}) {
+      // check(semester, 'String');
+      return Courses.aggregate([
+        {$match: {"university": university, "semester": semester}},
+        {$group: {_id: "$college"}}
+      ]);
+    }
   });
 }

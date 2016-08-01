@@ -10,28 +10,39 @@
       <form>
           <div class="row">
             <div class="input-field col s12 m12">
-              <select id="selSchool">
-                <option value="" disabled selected>Select a school</option>
-                <option value="wilf">YU - Wilf Campus</option>
-                <option value="beren">YU - Beren Campus</option>
+              <select id="select-university">
+                <option value="" disabled selected>Select a university</option>
+                {{#if getUniversities}}
+                  {{#each getUniversities}}
+                    <option value="{{_id}}">{{_id}}</option>
+                  {{/each}}
+                {{/if}}
               </select>
-              <label>School Select</label>
+              <label>University Select</label>
             </div>
           </div>
           <div class="row">
             <div class="input-field col s12 m12">
-              <select id="selLevel">
-                <option value="undergrad">Undergraduate</option>
-              </select>
-              <label>Level Select</label>
-            </div>
-          </div>
-          <div class="row">
-            <div class="input-field col s12 m12">
-              <select id="selSemester">
-                <option value="fall16">Fall 2016</option>
+              <select id="select-semester">
+                <option value="" disabled selected>Select a semester</option>
+                {{#if getSemesters}}
+                  {{#each getSemesters}}
+                    <option value="{{_id}}">{{_id}}</option>
+                  {{/each}}
+                {{/if}}
               </select>
               <label>Semester</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12 m12">
+              <select multiple id="select-college">
+                <option value="" disabled selected>Select one or more college(s)</option>
+                {{#each getColleges}}
+                  <option value="{{_id}}">{{_id}}</option>
+                {{/each}}
+              </select>
+              <label>College</label>
             </div>
           </div>
           {{#if currentUser}}

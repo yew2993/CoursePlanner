@@ -72,29 +72,13 @@ Template.calendar.onRendered( () => {
           }, {crn: event.id});
           Session.set('events', newEvents);
         }
-        $('.toggleCourse.' + event.id).text('Add');
+        $('.toggle-offering-button.' + event.id).text('Add');
       });
       return (Session.get('ranges').filter(function(range){
           return (event.start.isBefore(range.end) &&
                   event.end.isAfter(range.start));
       })).length > 0;
-    },
-    // eventAfterRender:function( event, element, view ) { 
-    //   element.qtip({ // Grab some elements to apply the tooltip to
-    //     content: {
-    //       text: function(e, api, thisEvent) {
-    //         return JSON.stringify(event, null, 3) + '<br><button class="removeEvent">Remove</button>';
-    //       }(event),
-    //     },
-    //     hide: {
-    //       fixed: true
-    //     },
-    //     position: {
-    //       at: 'bottom center',
-    //       my: 'top center'
-    //     }
-    //   })
-    // },
+    }
   });
 
   Tracker.autorun( () => {
@@ -104,8 +88,6 @@ Template.calendar.onRendered( () => {
     else {
       Session.get('events');
     }
-    // Session.get('minTime');
-    // Session.get('maxTime');
     $( '#events-calendar' ).fullCalendar('viewRender');
     $( '#events-calendar' ).fullCalendar('refetchEvents');
   });
@@ -121,26 +103,3 @@ Template.calendar.helpers({
 })
 Template.calendar.events({
 });
-
-``  // slider for resizing cal dimensions
-  // $(function() {
-  //   $( "#slider" ).slider({
-  //     value:100,
-  //     min: 20,
-  //     max: 80,
-  //     step: 20,
-  //     value: 20,
-  //     slide: function( event, ui ) {
-  //       heightmod(ui.value);
-
-  //     }
-  //   });
-  //   heightmod( $( "#slider" ).slider( "value" ) );
-
-  // });
-
-  // function heightmod(value)
-  // {
-  //     $(window).trigger('resize');
-  //     $('.fc-time-grid .fc-slats td').css('height', value+'px');
-  // }

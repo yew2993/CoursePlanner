@@ -1,7 +1,5 @@
 import './listing.html';
 import { Session } from 'meteor/session';
-// import { Calendars } from '../api/calendars.js';
-// import { YeshivaCourses, SternCourses } from '../api/courses.js';
 
 if (Meteor.isClient) {
   function getEvents(settings) {
@@ -47,8 +45,6 @@ if (Meteor.isClient) {
 
   Template.listing.events({
     'keyup #omniSearch' : function (e) {
-      // var searchTerms = {basic: $('input.search').val()};
-      // fetchData( YeshivaCourses );//, Template.instance().courses, searchTerms );
 
       $("#omniSearch").keyup(function(){ 
         var searchTerms = $('input.search').val();
@@ -79,45 +75,6 @@ if (Meteor.isClient) {
        
 
     },
-    // 'click #toggleCurrent': function (e) {
-    //   // var currentCourses = Session.get('events').map(function(elt) {
-    //   //   return elt.title;
-    //   // });
-    //   var box = $('#listingAux');
-    //   var bool = box.is(':visible');
-    //   if (!bool) {
-    //     // box.append(currentCourses.join(', '));
-    //     box.show();
-    //   }
-    //   else {
-    //     // box.empty();
-    //     box.hide();
-    //   }
-    // },
-    // 'click #newFilter' : function (e) {
-    //   e.preventDefault();
-    //   var select = "<div class='row'>" +
-    //                 "<input class='col m6 search filterCriteria' placeholder='search'>" +
-    //                 "<select class='col m4 filterType'>" +
-    //                   "<option value='' disabled selected>Select</option>" +
-    //                   "<option value='title'>Title</title>" +
-    //                 "</select>" +
-    //                 "<i class='material-icons addFilter col m2'>done</i></div>";
-    //   $(e.target).after(select);
-    //   $('select').material_select();
-    // },
-    // 'click .addFilter': function (e) {
-    //   e.preventDefault();
-    //   var current = e.currentTarget.parentNode;
-    //   var chip = "<div class='chip'>" + current.childNodes[1].value() + ": " + current.childNodes[0].value +
-    //               "<i class='material-icons'>close</i>" +
-    //              "</div>";
-    //   $("#newFilter").before(chip);
-    // },
-    // 'click .toggleCourse': function (e) {
-    //   e.preventDefault();
-
-    // }
   });
 }
 

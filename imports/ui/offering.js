@@ -11,7 +11,7 @@ Template.offering.helpers({
 });
 
 Template.offering.events({
-  'click .toggleCourse'(e) {
+  'click .toggle-offering-button'(e) {
     e.preventDefault();
     var settings = Session.get('schedulerSettings');
     var events = (Meteor.userId() ? getEvents(settings) : Session.get('events'));

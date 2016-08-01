@@ -14,7 +14,7 @@
   margin: 15px;
 
 }
-.departmentHeader {
+.department-header {
   text-align: center;
   
 }
@@ -24,7 +24,7 @@
   padding: 0px 10px;
   box-shadow: 0px 0px 2px black;;
 }
-.toggleCourse {
+.toggle-offering-button {
   float: right;
 }
 .listing {

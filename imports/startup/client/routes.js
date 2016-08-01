@@ -1,10 +1,9 @@
 import { Router } from 'meteor/iron:router';
 import { Templating } from 'meteor/templating';
 import { Session } from 'meteor/session';
-import { YeshivaCourses, SternCourses } from '../../api/courses.js';
+import { Courses, YeshivaCourses, SternCourses } from '../../api/courses.js';
 import { Calendars } from '../../api/calendars.js';
 
-// import '../../ui/calTheme.css';
 import '../../ui/calendar.js';
 import '../../ui/course.js';
 import '../../ui/dashboard.js';
@@ -15,16 +14,18 @@ import '../../ui/loading.js';
 import '../../ui/nav.js';
 import '../../ui/offering.js';
 import '../../ui/scheduler.js';
-import '../../ui/schedulerNav.js';
 
 Router.route('/', function() {
   this.render('Home');
 });
 
 Router.route('/dashboard', function() {
+  var universities;
+
   this.render('Dashboard');
   
 });
+
 
 Router.route('/scheduler/:school/:level/:semester', function() {
   var school = this.params.school;
@@ -78,14 +79,3 @@ Router.route('/scheduler/:school/:level/:semester', function() {
     }
   }
 });
-
-
-
-    // this.subscribe(collection).wait();
-    // if (this.ready()) {
-    // }
-    // else {
-
-    //   this.render('Loading', {to: 'Listing'});
-    //   console.log("Router: loading " + collection);
-    // }
