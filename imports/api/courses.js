@@ -9,8 +9,15 @@ export const SternCourses = new Mongo.Collection('SternCourses');
 if (Meteor.isServer) {
   // basic aggregation pipeline restructures courses into department > course > offering
   // hierarchy for UI
-  const aggregateByDept = [
-    { $match: { "display.dow": { $not: /^$/}} },
+  const aggregateByDept = function({university, semester, colleges}) {
+    return [
+
+    { $match: { $and: [
+      { "display.dow": { $not: /^$/}},
+      { "university": university },
+      { "semester": semester },
+      { "college": {$in: colleges} },
+    ]}},
     { $group: {_id: {department: "$department", code: "$code", crn: "$id"},
                code: {$first: "$code"},
                credits: {$first: "$credits"},
@@ -39,6 +46,7 @@ if (Meteor.isServer) {
      }},
      { $sort: {_id: 1}}
     ];
+  };
   // pipeline generator that accepts user searchTerms to filter courses that are aggregated.
   // Currently not in use due to jQuery show/hiding of matches that avoids extra server requests
   var generatePipeline = function(searchTerms) {
@@ -104,6 +112,9 @@ if (Meteor.isServer) {
     },
     'SternCourses.byDept'(searchTerms) {
       return SternCourses.aggregate(generatePipeline(searchTerms));
+    },
+    'Courses.byDept'(params) {
+      return Courses.aggregate(aggregateByDept(params));
     },
     'Courses.getUniversities'() {
       return Courses.aggregate([

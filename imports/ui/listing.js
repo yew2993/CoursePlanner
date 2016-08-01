@@ -22,11 +22,12 @@ if (Meteor.isClient) {
   };
 
   Template.listing.onCreated( () => {
+    console.log("Listing template created");
   });
 
   Template.listing.onRendered( () => {
-    fetchData( Session.get('schedulerSettings').method ); //, Template.instance().courses );
-    $('#listingAux').hide();
+    fetchData( 'Courses.byDept', Session.get('query') ); //, Template.instance().courses );
+    console.log("Listing template rendered");
   });
 
   Template.listing.helpers({

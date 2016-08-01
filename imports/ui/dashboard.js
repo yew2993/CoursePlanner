@@ -86,13 +86,14 @@ Template.dashboard.helpers({
 Template.dashboard.events({
   'click #new-schedule'(e) {
     e.preventDefault();
-    var university = $('#select-university').val();
-    var semester = $('#select-semester').val();
-    var colleges = $('#select-college').val().join("&colleges[]=");
+    var university = $('#select-university').val().replace(/ /g, "+");
+    var semester = $('#select-semester').val().replace(/ /g, "+");
+    var colleges = $('#select-college').val().join("&colleges[]=").replace(/ /g, "+");
     if (university && semester  && colleges ) {
       // NOTE: consider adding a server-side check to ensure all 3 are compatible
       var query = 'university=' + university + '&semester=' + semester + '&colleges[]=' + colleges;
-      Router.go('/scheduler', {query: query});
+      console.log(query);
+      Router.go('/scheduler?' + query);
     }
     else {
       // add a notification to complete the form

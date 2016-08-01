@@ -20,12 +20,17 @@ Router.route('/', function() {
 });
 
 Router.route('/dashboard', function() {
-  var universities;
-
   this.render('Dashboard');
   
 });
 
+Router.route('/scheduler', function() {
+  var query = this.params.query;
+  Session.set('query', query);
+  this.layout('Scheduler');
+  this.render('Calendar', { to: 'calendar' });
+  this.render('Listing', {to: 'listing' });
+})
 
 Router.route('/scheduler/:school/:level/:semester', function() {
   var school = this.params.school;
