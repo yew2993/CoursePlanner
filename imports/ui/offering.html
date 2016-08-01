@@ -1,0 +1,10 @@
+<template name="offering">
+  <div class="offering" id="{{crn}}">
+    <a class="waves-effect waves-light btn toggleCourse {{crn}}" >Add</a>
+    <h6 class="blue-text offeringHeader">CRN: {{crn}} | {{instructor}}</h6>
+    {{#each slots}}
+      <h6 class="blue-text text-darken-2">{{display.dow}} {{display.start}}-{{display.end}}</h6>
+    {{/each}}
+    <hr class="col s12 m4 offset-m4"><br>
+  </div>
+</template>

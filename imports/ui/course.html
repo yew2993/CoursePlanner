@@ -1,0 +1,12 @@
+<template name="course">
+  <div class="course">
+    <h5 class="courseHeader">{{title}}</h5>
+    <h6 class="courseInfo">{{subject}} {{code}} | Credits: {{credits}}</h6>
+    <div class="offerings">
+      {{#each offerings}}
+        {{>offering this}}
+      {{/each}}
+    </div>
+    <br>
+  </div>
+</template>

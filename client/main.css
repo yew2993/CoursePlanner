@@ -1,0 +1,47 @@
+/* CSS declarations go here */
+
+/*.fc-title {
+  display: none;
+}*/
+.fc-time-grid .fc-slats td {
+  height: 40px;
+}
+.fc-toolbar {
+  /*display: none;*/
+}
+#events-calendar {
+  position: fixed;
+  margin: 15px;
+
+}
+.departmentHeader {
+  text-align: center;
+  
+}
+.offerings {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 0px 10px;
+  box-shadow: 0px 0px 2px black;;
+}
+.toggleCourse {
+  float: right;
+}
+.listing {
+  border-right: solid thin;
+}
+a.remove {
+  float: right;
+  cursor: pointer;
+  color: white;
+}
+
+/* Hide the cancel button */
+::-webkit-search-cancel-button { 
+    -webkit-appearance: none; 
+}
+
+/* Hide the magnifying glass */
+::-webkit-search-results-button {
+     -webkit-appearance: none; 
+}

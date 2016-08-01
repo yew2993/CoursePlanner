@@ -1,0 +1,32 @@
+<template name="listing">
+  <div class="fixed-action-btn">
+      <a class="btn-floating btn-large red">
+        <i class="large material-icons">mode_edit</i>
+      </a>
+      <ul>
+        <li><a class="btn-floating red">Hi</a></li>
+        <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+        <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+        <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+      </ul>
+    </div>
+  <input id="omniSearch" class="search" placeholder="search">
+  <div id="advancedFilters">
+    <a class="waves-effect waves-light btn" id="newFilter">Add filter...</a>
+    <!-- {{#if selected}}
+      <a class="waves-effect waves-light btn" id="toggleCurrent">Current Courses</a>
+    {{/if}} -->
+  </div>
+  <div id="listing">
+    <!-- <div id="listingAux">
+      {{#each selected}}
+        {{>offering}}
+      {{/each}}
+    </div> -->
+    <div id="listingMain">
+    {{#each getList}}
+        {{>department this}}
+    {{/each}}
+    </div>
+  </div>
+</template>
