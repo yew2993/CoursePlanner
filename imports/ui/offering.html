@@ -1,7 +1,7 @@
 <template name="offering">
   <div class="offering" id="{{crn}}">
     <a class="waves-effect waves-light btn toggle-offering-button {{crn}}" >Add</a>
-    <h6 class="blue-text offeringHeader">CRN: {{crn}} | {{instructor}}</h6>
+    <h6 class="blue-text offering-header">CRN: {{crn}} | {{instructor}}</h6>
     {{#each slots}}
       <h6 class="blue-text text-darken-2">{{display.dow}} {{display.start}}-{{display.end}}</h6>
     {{/each}}

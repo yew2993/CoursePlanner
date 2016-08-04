@@ -1,44 +1,46 @@
 import { Session } from 'meteor/session'
-// import { Calendars } from '../api/calenders.js';
 import './offering.html';
 
-function getEvents(settings) {
-  return Calendars.findOne({_id: settings.calId})[settings.reference];
-}
-
-Template.offering.helpers({
-
-});
+var noConflicts = (events, newSlots) => {
+  return newSlots.every( (slot) => {
+    let newDow = slot.dow, newStart = parseInt(slot.start.replace(":", ""), 10), 
+        newEnd = parseInt(slot.end.replace(":", ""), 10);
+    return events.every( (event) => {
+      let dow = event.dow, start = parseInt(event.start.replace(":", ""), 10), 
+        end = parseInt(event.end.replace(":", ""), 10);
+      let isOnTheSameDay = newDow.some( (day) => dow.indexOf(day) >= 0),
+          startsInTheMiddle = newStart >= start && newStart <= end,
+          endsInTheMiddle = newEnd <= end && newEnd >= start,
+          envelops = newStart <= start && newEnd >= end;
+      // false return value indicates that there was a conflict
+      return !(isOnTheSameDay && (startsInTheMiddle || endsInTheMiddle || envelops));
+    });
+  });
+};
 
 Template.offering.events({
   'click .toggle-offering-button'(e) {
     e.preventDefault();
-    var settings = Session.get('schedulerSettings');
-    var events = (Meteor.userId() ? getEvents(settings) : Session.get('events'));
-    
-    var origLength = events.length;
+    var events = Session.get('events');
     var newEvents = events.filter(function(event) {
       return event.id !== this.crn;
     }, {crn: this.crn});
     
-    if (newEvents.length === origLength) { // add the offering
-      newEvents = $.merge(events, this.slots);
-      e.target.innerHTML = "Remove";
-    }
-    else {  // remove the offering
+    if (newEvents.length !== events.length) { // remove the offering
       e.target.innerHTML = "Add";
     }
-    if (Meteor.userId()) {
-      var newEventsIds = {}
-      newEventsObj[settings.reference] = newEvents.map( (event) => event._id );
-      Meteor.call('events.update', {newEventsObj, calId: settings.calId }, (err, res) => {
-            if (err) {
-              console.log(err);
-            }
-          });
+    else {  // add the offering
+      if (Session.get("allowConflicts") || noConflicts(events, this.slots)) {
+        newEvents = $.merge(events, this.slots);
+        e.target.innerHTML = "Remove";
+      }
+      else {
+        e.target.innerHTML = "Time Conflict";
+        Meteor.setTimeout( () => {
+          e.target.innerHTML = "Add"
+        }, 2000)
+      }
     }
-    else {
-      Session.set('events', newEvents);
-    }
+    Session.set('events', newEvents);
   }
 });

@@ -1,9 +1,11 @@
 <template name="department">
   <div class="department" id="{{_id}}">
     <h5 class="department-header teal-text text-darken-4">{{_id}}</h5>
-    {{#each courses}}
-      {{>course this}}
-    {{/each}}
+    <div class="courses">
+      {{#each courses}}
+        {{>course this}}
+      {{/each}}
+    </div>
     <br>
   </div>
 </template>

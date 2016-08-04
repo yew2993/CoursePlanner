@@ -15,7 +15,6 @@ let getUniversities = () => {
       console.log(err);
     }
     else {
-      console.log(res)
       Session.set('universities', res);
       Meteor.setTimeout(function() {
         $('select').material_select();
@@ -24,17 +23,14 @@ let getUniversities = () => {
   });
 };
 let getColleges = () => {
-  var university = $("#select-university").find(":selected").text();
-  var semester = $("#select-semester").find(":selected").text();
-  console.log(university);
-  console.log(semester);
+  let university = $("#select-university").find(":selected").text(),
+   semester = $("#select-semester").find(":selected").text();
   if (university && semester) {
     Meteor.call('Courses.getColleges', {university, semester}, (err,res) => {
       if (err) {
         console.log(err)
       }
       else {
-        console.log(res)
         Session.set('colleges', res);
         Meteor.setTimeout(function() {
           $('select').material_select();
@@ -45,14 +41,12 @@ let getColleges = () => {
 };
 let getSemesters = () => {
   var university = $("#select-university").find(":selected").text();
-  console.log(university);
   if (university) {
     Meteor.call('Courses.getSemesters', {university}, (err,res) => {
       if (err) {
         console.log(err)
       }
       else {
-        console.log(res)
         Session.set('semesters', res);
         Meteor.setTimeout(function() {
           $('select').material_select();
@@ -86,13 +80,12 @@ Template.dashboard.helpers({
 Template.dashboard.events({
   'click #new-schedule'(e) {
     e.preventDefault();
-    var university = $('#select-university').val().replace(/ /g, "+");
-    var semester = $('#select-semester').val().replace(/ /g, "+");
-    var colleges = $('#select-college').val().join("&colleges[]=").replace(/ /g, "+");
+    const university = $('#select-university').val().replace(/ /g, "+"),
+          semester = $('#select-semester').val().replace(/ /g, "+"),
+          colleges = $('#select-college').val().join("&colleges[]=").replace(/ /g, "+")
     if (university && semester  && colleges ) {
       // NOTE: consider adding a server-side check to ensure all 3 are compatible
-      var query = 'university=' + university + '&semester=' + semester + '&colleges[]=' + colleges;
-      console.log(query);
+      var query = `university=${university}&semester=${semester}&colleges[]=${colleges}`;
       Router.go('/scheduler?' + query);
     }
     else {

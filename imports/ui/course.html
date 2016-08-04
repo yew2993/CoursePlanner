@@ -1,7 +1,9 @@
 <template name="course">
-  <div class="course">
-    <h5 class="courseHeader">{{title}}</h5>
-    <h6 class="courseInfo">{{subject}} {{code}} | Credits: {{credits}}</h6>
+  <div class="course" id="{{code}}">
+    <div class="course-header">
+      <h5>{{title}}</h5>
+      <h6 class="course-info">{{subject}} {{code}} | Credits: {{credits}} | {{college}}</h6>
+    </div>
     <div class="offerings">
       {{#each offerings}}
         {{>offering this}}
