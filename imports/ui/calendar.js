@@ -9,7 +9,8 @@ Template.calendar.created = function calendarOnCreated() {
     maxTime: "22:00",
     fullWeek: "2016-09-11",
     ranges: [ { start: '2016-08-29', end: '2016-12-26' } ],
-    events: []
+    events: [],
+    allowConflicts: false,
   });
   
 };
@@ -47,6 +48,7 @@ Template.calendar.onRendered( () => {
           return event.id !== this.crn;
         }, {crn: event.id});
         Session.set('events', newEvents);
+        Materialize.toast("Removed " + event.id, 2500, 'rounded blue lighten-2');
         $('.toggle-offering-button.' + event.id).text('Add');
       });
       return (Session.get('ranges').filter(function(range){

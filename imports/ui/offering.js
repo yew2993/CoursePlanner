@@ -28,17 +28,20 @@ Template.offering.events({
     
     if (newEvents.length !== events.length) { // remove the offering
       e.target.innerHTML = "Add";
+      Materialize.toast("Removed " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
     }
     else {  // add the offering
       if (Session.get("allowConflicts") || noConflicts(events, this.slots)) {
         newEvents = $.merge(events, this.slots);
+        Materialize.toast("Added " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
         e.target.innerHTML = "Remove";
       }
       else {
         e.target.innerHTML = "Time Conflict";
+        Materialize.toast(this.crn + " was not added due to time conflict", 2500, 'red darken-2 rounded');
         Meteor.setTimeout( () => {
           e.target.innerHTML = "Add"
-        }, 2000)
+        }, 2500)
       }
     }
     Session.set('events', newEvents);

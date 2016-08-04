@@ -73,6 +73,9 @@ if (Meteor.isClient) {
         $('.department, .course, .offering').show();
       }
     }, 2000),
+  'change #allow-conflicts'(e) {
+    Session.set('allowConflicts', e.target.checked);
+  },
   });
 }
 

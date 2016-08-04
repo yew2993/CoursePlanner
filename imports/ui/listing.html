@@ -1,5 +1,7 @@
 <template name="listing">
   <input id="omniSearch" class="search" placeholder="search">
+  <input id="allow-conflicts" type="checkbox" />
+  <label for="allow-conflicts">Allow course conflicts</label>
   <div id="listing">
     <div id="listingMain">
     {{#each getList}}
