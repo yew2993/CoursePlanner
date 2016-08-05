@@ -26,7 +26,7 @@ if (Meteor.isClient) {
   });
 
   Template.listing.onRendered( () => {
-    fetchData( 'Courses.byDept', Session.get('query') ); //, Template.instance().courses );
+    Meteor.setTimeout( () => fetchData( 'Courses.byDept', Session.get('query'), 100) ); //, Template.instance().courses );
   });
 
   Template.listing.helpers({
@@ -34,12 +34,7 @@ if (Meteor.isClient) {
       return Session.get('list');
     },
     selected() { 
-      if (Meteor.userId()) {
-        return getEvents(Session.get('schedulerSettings'));
-      }
-      else {
-        return Session.get('events');
-      }
+      return Session.get('events');
     }
   });
 

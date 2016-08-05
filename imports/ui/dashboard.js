@@ -23,10 +23,9 @@ let getUniversities = () => {
   });
 };
 let getColleges = () => {
-  let university = $("#select-university").find(":selected").text(),
-   semester = $("#select-semester").find(":selected").text();
-  if (university && semester) {
-    Meteor.call('Courses.getColleges', {university, semester}, (err,res) => {
+  let university = $("#select-university").find(":selected").text();
+  if (university) {
+    Meteor.call('Courses.getColleges', {university}, (err,res) => {
       if (err) {
         console.log(err)
       }
@@ -62,7 +61,7 @@ Template.dashboard.rendered = function() {
 };
 Template.dashboard.helpers({
   'calendars'() {
-    return Calendars.find({}).fetch()
+    return Calendars.find({}).fetch();
   },
   'username'() {
     return Meteor.user().username;
@@ -78,7 +77,7 @@ Template.dashboard.helpers({
   },
 });
 Template.dashboard.events({
-  'click #new-schedule'(e) {
+  'click #new-schedule-button'(e) {
     e.preventDefault();
     const university = $('#select-university').val().replace(/ /g, "+"),
           semester = $('#select-semester').val().replace(/ /g, "+"),
@@ -93,12 +92,16 @@ Template.dashboard.events({
     }
   },
   'change #select-university'(e) {
-    Session.set('semesters', '')
-    Session.set('colleges', '')
+    Session.set('semesters', '');
+    Session.set('colleges', '');
     getSemesters();
+    getColleges();
+    $('#select-semester-wrapper').show();
   },
   'change #select-semester'(e) {
-    Session.set('colleges', '')
-    getColleges();
+    $('#select-college-wrapper').show();
+  },
+  'change #select-college'(e) {
+    $('#new-schedule-button-wrapper').show();
   }
 });

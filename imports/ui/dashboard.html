@@ -7,19 +7,21 @@
         <h4>Create a schedule</h4>
         <br>
         <form>
-          <div class="input-field">
+          <div class="input-field" id="select-university-wrapper">
             <select id="select-university">
-              <option value="" disabled selected>Select a university</option>
               {{#if getUniversities}}
+                <option value="" disabled selected>Select a university</option>
                 {{#each getUniversities}}
                   <option value="{{_id}}">{{_id}}</option>
                 {{/each}}
+              {{else}}
+                  <option value="" disabled selected>Loading universities...</option>
               {{/if}}
             </select>
             <label>University</label>
           </div>
           <br>
-          <div class="input-field">
+          <div style="display:none" class="input-field" id="select-semester-wrapper">
             <select id="select-semester">
               <option value="" disabled selected>Select a semester</option>
               {{#if getSemesters}}
@@ -31,7 +33,7 @@
             <label>Semester</label>
           </div>
           <br>
-          <div class="input-field">
+          <div style="display:none" class="input-field" id="select-college-wrapper">
             <select multiple id="select-college">
               <option value="" disabled selected>Select one or more college(s)</option>
               {{#each getColleges}}
@@ -40,7 +42,9 @@
             </select>
             <label>College</label>
           </div>
-          <button class="btn waves-effect waves-light" id="new-schedule" type="submit" name="action">Create Schedule</button>
+          <div style="display:none" id="new-schedule-button-wrapper">
+            <button class="btn waves-effect waves-light" id="new-schedule-button" type="submit" name="action">Create Schedule</button>
+          </div>
         </form>
       </div>
     </div>

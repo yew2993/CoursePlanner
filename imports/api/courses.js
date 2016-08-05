@@ -128,10 +128,10 @@ if (Meteor.isServer) {
         {$group: {_id: "$semester"}}
       ]);
     },
-    'Courses.getColleges'({university, semester}) {
+    'Courses.getColleges'({university}) {
       // check(semester, 'String');
       return Courses.aggregate([
-        {$match: {"university": university, "semester": semester}},
+        {$match: {"university": university}},
         {$group: {_id: "$college"}}
       ]);
     }
