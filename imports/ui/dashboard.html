@@ -23,11 +23,13 @@
           <br>
           <div style="display:none" class="input-field" id="select-semester-wrapper">
             <select id="select-semester">
-              <option value="" disabled selected>Select a semester</option>
               {{#if getSemesters}}
+                <option value="" disabled selected>Select a semester</option>
                 {{#each getSemesters}}
                   <option value="{{_id}}">{{_id}}</option>
                 {{/each}}
+              {{else}}
+                <option value="" disabled selected>Loading semesters...</option>
               {{/if}}
             </select>
             <label>Semester</label>
@@ -35,10 +37,14 @@
           <br>
           <div style="display:none" class="input-field" id="select-college-wrapper">
             <select multiple id="select-college">
-              <option value="" disabled selected>Select one or more college(s)</option>
-              {{#each getColleges}}
-                <option value="{{_id}}">{{_id}}</option>
-              {{/each}}
+              {{#if getColleges}}  
+                <option value="" disabled selected>Select one or more college(s)</option>
+                {{#each getColleges}}
+                  <option value="{{_id}}">{{_id}}</option>
+                {{/each}}
+              {{else}}
+                <option value="" disabled selected>Loading colleges...</option>
+              {{/if}}
             </select>
             <label>College</label>
           </div>
