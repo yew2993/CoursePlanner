@@ -10,7 +10,6 @@ import '../../ui/dashboard.js';
 import '../../ui/department.js';
 import '../../ui/home.js';
 import '../../ui/listing.js';
-import '../../ui/loading.js';
 import '../../ui/nav.js';
 import '../../ui/offering.js';
 import '../../ui/scheduler.js';

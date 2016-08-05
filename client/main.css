@@ -9,7 +9,9 @@
 .fc-toolbar {
   /*display: none;*/
 }
-
+#listing-loading {
+  text-align: center;
+}
 #events-calendar {
   position: fixed;
   margin: 15px;
