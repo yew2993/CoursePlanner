@@ -29,6 +29,7 @@ Template.calendar.onRendered( () => {
     editable:    false,
     minTime:     Session.get('minTime'),
     maxTime:     Session.get('maxTime'),
+    hiddenDays: [6],
     header: {
         left:   '',//'prev,next today',
         center: '',//'title',
@@ -42,7 +43,8 @@ Template.calendar.onRendered( () => {
       }
     },
     eventRender(event, element) {
-      element.append(event.subject + " " + event.code);
+      element.append("CRN: " + event.id); //"<p>" + event.subject + " " + event.code + "\n\n
+
       element.bind('dblclick', function() {    
         var newEvents = Session.get('events').filter(function(event) {
           return event.id !== this.crn;

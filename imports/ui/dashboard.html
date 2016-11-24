@@ -23,14 +23,16 @@
           <br>
           <div style="display:none" class="input-field" id="select-semester-wrapper">
             <select id="select-semester">
-              {{#if getSemesters}}
+              <option value="Spring 2017">Spring 2017</option>
+              <option value="Fall 2016">Fall 2016</option>
+              <!-- {{#if getSemesters}}
                 <option value="" disabled selected>Select a semester</option>
                 {{#each getSemesters}}
                   <option value="{{_id}}">{{_id}}</option>
                 {{/each}}
               {{else}}
                 <option value="" disabled selected>Loading semesters...</option>
-              {{/if}}
+              {{/if}} -->
             </select>
             <label>Semester</label>
           </div>

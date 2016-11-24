@@ -1,7 +1,10 @@
 <template name="listing">
-  <input id="omniSearch" class="search" placeholder="search">
-  <input id="allow-conflicts" type="checkbox" />
-  <label for="allow-conflicts">Allow course conflicts</label>
+  <div style=" position: fixed; top: 0px; background: white; z-index: 1000000;" class="col s12 m4">
+    <input id="omniSearch" class="search" placeholder="search">
+    <input id="allow-conflicts" type="checkbox" />
+    <label for="allow-conflicts">Allow course conflicts</label>
+  </div>
+  <br><br><br><br>
   <div id="listing">
     <div id="listingMain">
     {{#if getList}}
