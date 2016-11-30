@@ -36,7 +36,7 @@ Template.offering.events({
     }
     else {  // add the offering
       if (Session.get("allowConflicts") || noConflicts(events, this.slots)) {
-        if (Session.get("credits") + this.credits <= 17) {
+        if (Session.get("allowCredits") || Session.get("credits") + this.credits <= 17) {
           newEvents = $.merge(events, this.slots);
           Materialize.toast("Added " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
           e.target.innerHTML = "Remove";

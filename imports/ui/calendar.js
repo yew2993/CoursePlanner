@@ -17,7 +17,7 @@ Template.calendar.created = function calendarOnCreated() {
 
 Template.calendar.onRendered( () => {
   $( '.events-calendar' ).fullCalendar({
-    allDaySlots: false,
+    allDaySlot: false,
     // aspectRatio:  1.5,
     // buttonText: {
     //   agendaWeek: "Agenda",

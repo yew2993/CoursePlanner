@@ -2,7 +2,9 @@
   <div style=" position: fixed; top: 0px; background: white; z-index: 1000;" class="col s12 m4">
     <input id="omniSearch" class="search" placeholder="search">
     <input id="allow-conflicts" type="checkbox" />
-    <label for="allow-conflicts">Allow course conflicts</label>
+    <label for="allow-conflicts">Allow course conflicts</label> <br>
+    <input id="allow-credits" type="checkbox" />
+    <label for="allow-credits">Allow extra credits</label>
     <div>Credit Count: {{getCredits}} / 17</div>
 
     <!-- Modal Trigger -->
@@ -11,7 +13,7 @@
     </div>
   </div>
   <br class="hide-on-med-and-up"><br class="hide-on-med-and-up">
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
   <div id="listing">
     <div id="listingMain">
     {{#if getList}}

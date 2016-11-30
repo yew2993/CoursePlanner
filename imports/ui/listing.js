@@ -86,6 +86,9 @@ if (Meteor.isClient) {
     'change #allow-conflicts'(e) {
       Session.set('allowConflicts', e.target.checked);
     },
+    'change #allow-credits'(e) {
+      Session.set('allowCredits', e.target.checked);
+    },
     'click #modal-trigger'(e) {
       
     }
