@@ -12,20 +12,25 @@
 #listing-loading {
   text-align: center;
 }
-#events-calendar {
+.events-calendar {
   position: fixed;
   margin: 15px;
-
 }
+
+#modal-calendar {
+  height: 75%;
+  max-height: 75%;
+}
+
 .department-header {
   text-align: center;
   
 }
 .offerings {
-  border: 1px solid black;
-  border-radius: 10px;
+  border-top: 1px solid black;
+  /*border-radius: 10px;
   padding: 0px 10px;
-  box-shadow: 0px 0px 2px black;;
+  box-shadow: 0px 0px 2px black;;*/
 }
 .toggle-offering-button {
   float: right;

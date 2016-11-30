@@ -7,53 +7,59 @@
         <h4>Create a schedule</h4>
         <br>
         <form>
-          <div class="input-field" id="select-university-wrapper">
-            <select id="select-university">
-              {{#if getUniversities}}
-                <option value="" disabled selected>Select a university</option>
-                {{#each getUniversities}}
-                  <option value="{{_id}}">{{_id}}</option>
-                {{/each}}
-              {{else}}
-                  <option value="" disabled selected>Loading universities...</option>
-              {{/if}}
-            </select>
-            <label>University</label>
-          </div>
-          <br>
-          <div style="display:none" class="input-field" id="select-semester-wrapper">
-            <select id="select-semester">
-              {{#if getSemesters}}
+          <div class="col m9">
+            <div class="input-field" id="select-university-wrapper">
+              <select id="select-university">
+                {{#if getUniversities}}
+                  <option value="" disabled selected>Select a university</option>
+                  {{#each getUniversities}}
+                    <option value="{{_id}}">{{_id}}</option>
+                  {{/each}}
+                {{else}}
+                    <option value="" disabled selected>Loading universities...</option>
+                {{/if}}
+              </select>
+              <label>University</label>
+            </div>
+            <br>
+            <div style="display:none" class="input-field" id="select-semester-wrapper">
+              <select id="select-semester">
                 <option value="" disabled selected>Select a semester</option>
-                {{#each getSemesters}}
-                  <option value="{{_id}}">{{_id}}</option>
-                {{/each}}
-              {{else}}
-                <option value="" disabled selected>Loading semesters...</option>
-              {{/if}}
-            </select>
-            <label>Semester</label>
-          </div>
-          <br>
-          <div style="display:none" class="input-field" id="select-college-wrapper">
-            <select multiple id="select-college">
-              {{#if getColleges}}  
-                <option value="" disabled selected>Select one or more college(s)</option>
-                {{#each getColleges}}
-                  <option value="{{_id}}">{{_id}}</option>
-                {{/each}}
-              {{else}}
-                <option value="" disabled selected>Loading colleges...</option>
-              {{/if}}
-            </select>
-            <label>College</label>
-          </div>
-          <div style="display:none" id="new-schedule-button-wrapper">
-            <button class="btn waves-effect waves-light" id="new-schedule-button" type="submit" name="action">Create Schedule</button>
+                <option value="Spring 2017">Spring 2017</option>
+                <option value="Fall 2016">Fall 2016</option>
+                <!-- {{#if getSemesters}}
+                  
+                  {{#each getSemesters}}
+                    <option value="{{_id}}">{{_id}}</option>
+                  {{/each}}
+                {{else}}
+                  <option value="" disabled selected>Loading semesters...</option>
+                {{/if}} -->
+              </select>
+              <label>Semester</label>
+            </div>
+            <br>
+            <div style="display:none" class="input-field" id="select-college-wrapper">
+              <select multiple id="select-college">
+                {{#if getColleges}}  
+                  <option value="" disabled selected>Select one or more college(s)</option>
+                  {{#each getColleges}}
+                    <option value="{{_id}}">{{_id}}</option>
+                  {{/each}}
+                {{else}}
+                  <option value="" disabled selected>Loading colleges...</option>
+                {{/if}}
+              </select>
+              <label>College</label>
+            </div>
+            </div>
+          <div class="col m3">
+            <div style="display:none" id="new-schedule-button-wrapper">
+              <button class="btn waves-effect waves-light" id="new-schedule-button" type="submit" name="action">Create Schedule</button>
+            </div>
           </div>
         </form>
       </div>
     </div>
-
   </div>
 </template>

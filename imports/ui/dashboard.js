@@ -81,7 +81,7 @@ Template.dashboard.events({
     e.preventDefault();
     const university = $('#select-university').val().replace(/ /g, "+"),
           semester = $('#select-semester').val().replace(/ /g, "+"),
-          colleges = $('#select-college').val().join("&colleges[]=").replace(/ /g, "+")
+          colleges = $('#select-college').val().join("&colleges[]=").replace(/ /g, "+");
     if (university && semester  && colleges ) {
       // NOTE: consider adding a server-side check to ensure all 3 are compatible
       var query = `university=${university}&semester=${semester}&colleges[]=${colleges}`;
@@ -94,7 +94,7 @@ Template.dashboard.events({
   'change #select-university'(e) {
     Session.set('semesters', '');
     Session.set('colleges', '');
-    getSemesters();
+    // getSemesters();
     getColleges();
     $('#select-semester-wrapper').show();
   },
