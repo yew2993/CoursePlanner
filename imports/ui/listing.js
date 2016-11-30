@@ -27,6 +27,7 @@ if (Meteor.isClient) {
 
   Template.listing.onRendered( () => {
     Meteor.setTimeout( () => fetchData( 'Courses.byDept', Session.get('query'), 100) ); //, Template.instance().courses );
+    
   });
 
   Template.listing.helpers({
@@ -68,9 +69,12 @@ if (Meteor.isClient) {
         $('.department, .course, .offering').show();
       }
     }, 2000),
-  'change #allow-conflicts'(e) {
-    Session.set('allowConflicts', e.target.checked);
-  },
+    'change #allow-conflicts'(e) {
+      Session.set('allowConflicts', e.target.checked);
+    },
+    'click #modal-trigger'(e) {
+      
+    }
   });
 }
 

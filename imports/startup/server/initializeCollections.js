@@ -22,7 +22,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52807",
          "id": "52807",
          "instructor": "Meir Fulda",
          "location": "TBA",
@@ -51,7 +50,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52808",
          "id": "52808",
          "instructor": "Meir Fulda",
          "location": "TBA",
@@ -78,7 +76,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52906",
          "id": "52906",
          "instructor": "Yosef Zvi Bronstein",
          "location": "TBA",
@@ -107,7 +104,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52523",
          "id": "52523",
          "instructor": "Reuven Fink",
          "location": "TBA",
@@ -136,7 +132,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52524",
          "id": "52524",
          "instructor": "Zvi D. Romm",
          "location": "TBA",
@@ -165,7 +160,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52525",
          "id": "52525",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -192,7 +186,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:55",
-         "_id": "53028",
          "id": "53028",
          "instructor": "Dan Moshe Cohen",
          "location": "TBA",
@@ -219,7 +212,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "51411",
          "id": "51411",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -246,7 +238,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "52902",
          "id": "52902",
          "instructor": "David Horwitz",
          "location": "TBA",
@@ -273,7 +264,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "52528",
          "id": "52528",
          "instructor": "Aaron J. Koller",
          "location": "TBA",
@@ -300,7 +290,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52507",
          "id": "52507",
          "instructor": "Joseph L. Angel",
          "location": "TBA",
@@ -327,7 +316,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52508",
          "id": "52508",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -354,7 +342,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "52897",
          "id": "52897",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -383,7 +370,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "51415",
          "id": "51415",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -410,7 +396,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51425",
          "id": "51425",
          "instructor": "Nathaniel Wiederblank",
          "location": "TBA",
@@ -437,7 +422,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "52530",
          "id": "52530",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -464,7 +448,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "51422",
          "id": "51422",
          "instructor": "Daniel Tsadik",
          "location": "TBA",
@@ -491,7 +474,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52899",
          "id": "52899",
          "instructor": "Mordecai Paldiel",
          "location": "TBA",
@@ -520,7 +502,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52519",
          "id": "52519",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -547,7 +528,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "51423",
          "id": "51423",
          "instructor": "Leonard Moskowitz",
          "location": "TBA",
@@ -573,7 +553,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:55",
-         "_id": "51432",
          "id": "51432",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -602,7 +581,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "51431",
          "id": "51431",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -629,7 +607,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "51413",
          "id": "51413",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -656,7 +633,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "51414",
          "id": "51414",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -685,7 +661,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52806",
          "id": "52806",
          "instructor": "Zev Reichman",
          "location": "TBA",
@@ -712,7 +687,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52520",
          "id": "52520",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -741,7 +715,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "53027",
          "id": "53027",
          "instructor": "Mordechai Arnold Becher",
          "location": "TBA",
@@ -770,7 +743,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52527",
          "id": "52527",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -799,7 +771,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52521",
          "id": "52521",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -828,7 +799,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "51420",
          "id": "51420",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -857,7 +827,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "8:55",
-         "_id": "51421",
          "id": "51421",
          "instructor": "Joseph Kalinsky",
          "location": "TBA",
@@ -886,7 +855,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "51426",
          "id": "51426",
          "instructor": "Reuven Fink",
          "location": "TBA",
@@ -913,7 +881,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51424",
          "id": "51424",
          "instructor": "Howard L. Packer",
          "location": "TBA",
@@ -940,7 +907,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:44",
-         "_id": "51412",
          "id": "51412",
          "instructor": "Akiva Koenigsberg",
          "location": "TBA",
@@ -967,7 +933,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52522",
          "id": "52522",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -994,7 +959,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52911",
          "id": "52911",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -1023,7 +987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52531",
          "id": "52531",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -1050,7 +1013,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52918",
          "id": "52918",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -1077,7 +1039,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52811",
          "id": "52811",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -1104,7 +1065,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52526",
          "id": "52526",
          "instructor": "TBA",
          "location": "TBA",
@@ -1128,7 +1088,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51391",
          "id": "51391",
          "instructor": "TBA",
          "location": "TBA",
@@ -1152,7 +1111,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51405",
          "id": "51405",
          "instructor": "TBA",
          "location": "TBA",
@@ -1176,7 +1134,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51404",
          "id": "51404",
          "instructor": "TBA",
          "location": "TBA",
@@ -1200,7 +1157,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51392",
          "id": "51392",
          "instructor": "TBA",
          "location": "TBA",
@@ -1224,7 +1180,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51393",
          "id": "51393",
          "instructor": "TBA",
          "location": "TBA",
@@ -1248,7 +1203,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51403",
          "id": "51403",
          "instructor": "TBA",
          "location": "TBA",
@@ -1272,7 +1226,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51410",
          "id": "51410",
          "instructor": "TBA",
          "location": "TBA",
@@ -1296,7 +1249,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51387",
          "id": "51387",
          "instructor": "TBA",
          "location": "TBA",
@@ -1320,7 +1272,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51389",
          "id": "51389",
          "instructor": "TBA",
          "location": "TBA",
@@ -1344,7 +1295,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51388",
          "id": "51388",
          "instructor": "TBA",
          "location": "TBA",
@@ -1368,7 +1318,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51406",
          "id": "51406",
          "instructor": "TBA",
          "location": "TBA",
@@ -1392,7 +1341,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51407",
          "id": "51407",
          "instructor": "TBA",
          "location": "TBA",
@@ -1416,7 +1364,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51408",
          "id": "51408",
          "instructor": "TBA",
          "location": "TBA",
@@ -1440,7 +1387,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51401",
          "id": "51401",
          "instructor": "TBA",
          "location": "TBA",
@@ -1464,7 +1410,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51390",
          "id": "51390",
          "instructor": "TBA",
          "location": "TBA",
@@ -1488,7 +1433,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51394",
          "id": "51394",
          "instructor": "TBA",
          "location": "TBA",
@@ -1512,7 +1456,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51395",
          "id": "51395",
          "instructor": "TBA",
          "location": "TBA",
@@ -1536,7 +1479,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51396",
          "id": "51396",
          "instructor": "TBA",
          "location": "TBA",
@@ -1560,7 +1502,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51398",
          "id": "51398",
          "instructor": "TBA",
          "location": "TBA",
@@ -1584,7 +1525,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51397",
          "id": "51397",
          "instructor": "TBA",
          "location": "TBA",
@@ -1608,7 +1548,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51402",
          "id": "51402",
          "instructor": "TBA",
          "location": "TBA",
@@ -1632,7 +1571,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51409",
          "id": "51409",
          "instructor": "TBA",
          "location": "TBA",
@@ -1656,7 +1594,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51399",
          "id": "51399",
          "instructor": "TBA",
          "location": "TBA",
@@ -1680,7 +1617,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51400",
          "id": "51400",
          "instructor": "TBA",
          "location": "TBA",
@@ -1706,7 +1642,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52668",
          "id": "52668",
          "instructor": "Carl Auerbach",
          "location": "TBA",
@@ -1732,7 +1667,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52687",
          "id": "52687",
          "instructor": "Catherine Eubanks-Carter",
          "location": "TBA",
@@ -1758,7 +1692,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "52700",
          "id": "52700",
          "instructor": "Vicki Passman",
          "location": "TBA",
@@ -1784,7 +1717,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52541",
          "id": "52541",
          "instructor": "William Salton",
          "location": "TBA",
@@ -1810,7 +1742,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52693",
          "id": "52693",
          "instructor": "Errol Rodriguez",
          "location": "TBA",
@@ -1836,7 +1767,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52692",
          "id": "52692",
          "instructor": "Richard A. Zweig",
          "location": "TBA",
@@ -1862,7 +1792,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52542",
          "id": "52542",
          "instructor": "Richard A. Zweig",
          "location": "TBA",
@@ -1888,7 +1817,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52691",
          "id": "52691",
          "instructor": "Jeannette R. Mahoney",
          "location": "TBA",
@@ -1914,7 +1842,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52699",
          "id": "52699",
          "instructor": "Shelly Goldklank",
          "location": "TBA",
@@ -1940,7 +1867,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52685",
          "id": "52685",
          "instructor": "Shelly Goldklank",
          "location": "TBA",
@@ -1966,7 +1892,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52696",
          "id": "52696",
          "instructor": "Lata K. McGinn",
          "location": "TBA",
@@ -1992,7 +1917,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52551",
          "id": "52551",
          "instructor": "Lata K. McGinn",
          "location": "TBA",
@@ -2018,7 +1942,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52575",
          "id": "52575",
          "instructor": "Michael Wheaton",
          "location": "TBA",
@@ -2044,7 +1967,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "53043",
          "id": "53043",
          "instructor": "Kate Walsh",
          "location": "TBA",
@@ -2070,7 +1992,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52540",
          "id": "52540",
          "instructor": "Martin Rock",
          "location": "TBA",
@@ -2096,7 +2017,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52572",
          "id": "52572",
          "instructor": "Leslie E. Warfield",
          "location": "TBA",
@@ -2122,7 +2042,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "53042",
          "id": "53042",
          "instructor": "Ron Aviram",
          "location": "TBA",
@@ -2148,7 +2067,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52571",
          "id": "52571",
          "instructor": "Shelly Goldklank",
          "location": "TBA",
@@ -2174,7 +2092,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52697",
          "id": "52697",
          "instructor": "Martin Rock",
          "location": "TBA",
@@ -2200,7 +2117,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52573",
          "id": "52573",
          "instructor": "Mary T. Carnesale",
          "location": "TBA",
@@ -2226,7 +2142,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52574",
          "id": "52574",
          "instructor": "Laura R. Silberstein",
          "location": "TBA",
@@ -2252,7 +2167,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:55",
-         "_id": "52567",
          "id": "52567",
          "instructor": "Jamie L. Schumpf",
          "location": "TBA",
@@ -2278,7 +2192,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52550",
          "id": "52550",
          "instructor": "Martin Rock",
          "location": "TBA",
@@ -2304,7 +2217,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52552",
          "id": "52552",
          "instructor": "Catherine Eubanks-Carter",
          "location": "TBA",
@@ -2330,7 +2242,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52558",
          "id": "52558",
          "instructor": "Richard A. Zweig",
          "location": "TBA",
@@ -2356,7 +2267,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52688",
          "id": "52688",
          "instructor": "Michael Wheaton",
          "location": "TBA",
@@ -2382,7 +2292,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52698",
          "id": "52698",
          "instructor": "William Arsenio",
          "location": "TBA",
@@ -2408,7 +2317,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52553",
          "id": "52553",
          "instructor": "Carl Auerbach",
          "location": "TBA",
@@ -2434,7 +2342,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52559",
          "id": "52559",
          "instructor": "Michael Wheaton",
          "location": "TBA",
@@ -2460,7 +2367,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52675",
          "id": "52675",
          "instructor": "Kate Walsh",
          "location": "TBA",
@@ -2486,7 +2392,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:55",
-         "_id": "52533",
          "id": "52533",
          "instructor": "Jamie L. Schumpf",
          "location": "TBA",
@@ -2512,7 +2417,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:55",
-         "_id": "52534",
          "id": "52534",
          "instructor": "Jamie L. Schumpf",
          "location": "TBA",
@@ -2538,7 +2442,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52694",
          "id": "52694",
          "instructor": "Jamie L. Schumpf",
          "location": "TBA",
@@ -2564,7 +2467,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52695",
          "id": "52695",
          "instructor": "Jamie L. Schumpf",
          "location": "TBA",
@@ -2590,7 +2492,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52560",
          "id": "52560",
          "instructor": "Catherine Eubanks-Carter",
          "location": "TBA",
@@ -2614,7 +2515,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50333",
          "id": "50333",
          "instructor": "TBA",
          "location": "TBA",
@@ -2638,7 +2538,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50365",
          "id": "50365",
          "instructor": "TBA",
          "location": "TBA",
@@ -2662,7 +2561,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50179",
          "id": "50179",
          "instructor": "TBA",
          "location": "TBA",
@@ -2686,7 +2584,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50181",
          "id": "50181",
          "instructor": "TBA",
          "location": "TBA",
@@ -2710,7 +2607,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50335",
          "id": "50335",
          "instructor": "TBA",
          "location": "TBA",
@@ -2734,7 +2630,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50334",
          "id": "50334",
          "instructor": "TBA",
          "location": "TBA",
@@ -2758,7 +2653,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50184",
          "id": "50184",
          "instructor": "TBA",
          "location": "TBA",
@@ -2782,7 +2676,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50366",
          "id": "50366",
          "instructor": "TBA",
          "location": "TBA",
@@ -2806,7 +2699,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50186",
          "id": "50186",
          "instructor": "TBA",
          "location": "TBA",
@@ -2830,7 +2722,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50198",
          "id": "50198",
          "instructor": "TBA",
          "location": "TBA",
@@ -2854,7 +2745,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50338",
          "id": "50338",
          "instructor": "TBA",
          "location": "TBA",
@@ -2878,7 +2768,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50180",
          "id": "50180",
          "instructor": "TBA",
          "location": "TBA",
@@ -2902,7 +2791,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51583",
          "id": "51583",
          "instructor": "TBA",
          "location": "TBA",
@@ -2926,7 +2814,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51391",
          "id": "51391",
          "instructor": "TBA",
          "location": "TBA",
@@ -2950,7 +2837,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51405",
          "id": "51405",
          "instructor": "TBA",
          "location": "TBA",
@@ -2974,7 +2860,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51404",
          "id": "51404",
          "instructor": "TBA",
          "location": "TBA",
@@ -3003,7 +2888,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52807",
          "id": "52807",
          "instructor": "Meir Fulda",
          "location": "TBA",
@@ -3032,7 +2916,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52808",
          "id": "52808",
          "instructor": "Meir Fulda",
          "location": "TBA",
@@ -3056,7 +2939,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51392",
          "id": "51392",
          "instructor": "TBA",
          "location": "TBA",
@@ -3080,7 +2962,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51393",
          "id": "51393",
          "instructor": "TBA",
          "location": "TBA",
@@ -3109,7 +2990,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51492",
          "id": "51492",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -3138,7 +3018,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51498",
          "id": "51498",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK BMIDRASH",
@@ -3167,7 +3046,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51504",
          "id": "51504",
          "instructor": "Jonathan Schachter",
          "location": "ZYSMAN Z111",
@@ -3196,7 +3074,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51510",
          "id": "51510",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z111",
@@ -3225,7 +3102,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51516",
          "id": "51516",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z111",
@@ -3254,7 +3130,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51522",
          "id": "51522",
          "instructor": "Daniel Rapp",
          "location": "GLUECK BMIDRASH",
@@ -3283,7 +3158,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51528",
          "id": "51528",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z111",
@@ -3312,7 +3186,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51534",
          "id": "51534",
          "instructor": "Etan Moshe Berman",
          "location": "ZYSMAN Z111",
@@ -3341,7 +3214,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51540",
          "id": "51540",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -3365,7 +3237,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51403",
          "id": "51403",
          "instructor": "TBA",
          "location": "TBA",
@@ -3392,7 +3263,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52906",
          "id": "52906",
          "instructor": "Yosef Zvi Bronstein",
          "location": "TBA",
@@ -3421,7 +3291,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52523",
          "id": "52523",
          "instructor": "Reuven Fink",
          "location": "TBA",
@@ -3450,7 +3319,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52524",
          "id": "52524",
          "instructor": "Zvi D. Romm",
          "location": "TBA",
@@ -3479,7 +3347,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52525",
          "id": "52525",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -3506,7 +3373,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:55",
-         "_id": "53028",
          "id": "53028",
          "instructor": "Dan Moshe Cohen",
          "location": "TBA",
@@ -3535,7 +3401,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51493",
          "id": "51493",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -3563,7 +3428,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51499",
          "id": "51499",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -3589,7 +3453,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:55",
-         "_id": "51499",
          "id": "51499",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G303",
@@ -3618,7 +3481,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51505",
          "id": "51505",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -3647,7 +3509,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51511",
          "id": "51511",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -3675,7 +3536,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51517",
          "id": "51517",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -3701,7 +3561,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51517",
          "id": "51517",
          "instructor": "Eli Belizon",
          "location": "GLUECK G516",
@@ -3730,7 +3589,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51523",
          "id": "51523",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -3758,7 +3616,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51529",
          "id": "51529",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -3784,7 +3641,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51529",
          "id": "51529",
          "instructor": "Matthew Eric Weinberg",
          "location": "GLUECK G416",
@@ -3813,7 +3669,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51535",
          "id": "51535",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -3842,7 +3697,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51541",
          "id": "51541",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -3870,7 +3724,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -3898,7 +3751,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -3924,7 +3776,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -3950,7 +3801,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -3978,7 +3828,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -4006,7 +3855,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -4032,7 +3880,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -4058,7 +3905,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -4084,7 +3930,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -4110,7 +3955,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -4138,7 +3982,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -4166,7 +4009,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -4192,7 +4034,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -4218,7 +4059,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -4244,7 +4084,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -4270,7 +4109,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -4298,7 +4136,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -4326,7 +4163,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z102",
@@ -4352,7 +4188,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -4378,7 +4213,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G517",
@@ -4404,7 +4238,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -4430,7 +4263,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z102",
@@ -4458,7 +4290,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -4486,7 +4317,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -4512,7 +4342,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -4538,7 +4367,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -4564,7 +4392,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -4590,7 +4417,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -4618,7 +4444,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4646,7 +4471,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4672,7 +4496,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4698,7 +4521,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4724,7 +4546,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4750,7 +4571,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -4778,7 +4598,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -4806,7 +4625,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -4832,7 +4650,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -4858,7 +4675,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -4884,7 +4700,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -4910,7 +4725,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -4938,7 +4752,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -4966,7 +4779,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -4992,7 +4804,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -5018,7 +4829,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -5044,7 +4854,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -5070,7 +4879,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -5098,7 +4906,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -5126,7 +4933,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -5152,7 +4958,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -5178,7 +4983,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -5204,7 +5008,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -5230,7 +5033,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -5258,7 +5060,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -5286,7 +5087,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -5312,7 +5112,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -5338,7 +5137,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -5364,7 +5162,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -5390,7 +5187,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -5418,7 +5214,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -5446,7 +5241,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -5472,7 +5266,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -5498,7 +5291,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -5524,7 +5316,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -5550,7 +5341,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -5578,7 +5368,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -5606,7 +5395,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -5632,7 +5420,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -5658,7 +5445,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -5684,7 +5470,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -5710,7 +5495,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -5738,7 +5522,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -5766,7 +5549,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -5792,7 +5574,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -5818,7 +5599,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -5844,7 +5624,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -5870,7 +5649,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -5898,7 +5676,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -5926,7 +5703,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -5952,7 +5728,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -5978,7 +5753,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -6004,7 +5778,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -6030,7 +5803,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -6058,7 +5830,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -6086,7 +5857,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -6112,7 +5882,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -6138,7 +5907,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -6164,7 +5932,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -6190,7 +5957,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -6218,7 +5984,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -6246,7 +6011,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -6272,7 +6036,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -6298,7 +6061,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -6324,7 +6086,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -6350,7 +6111,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -6378,7 +6138,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -6406,7 +6165,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -6432,7 +6190,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -6458,7 +6215,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -6484,7 +6240,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -6510,7 +6265,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "14:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -6538,7 +6292,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -6566,7 +6319,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -6592,7 +6344,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -6618,7 +6369,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -6644,7 +6394,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -6670,7 +6419,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -6698,7 +6446,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -6726,7 +6473,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -6752,7 +6498,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -6778,7 +6523,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -6804,7 +6548,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -6830,7 +6573,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -6858,7 +6600,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -6886,7 +6627,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -6912,7 +6652,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -6938,7 +6677,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -6964,7 +6702,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -6990,7 +6727,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -7018,7 +6754,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -7046,7 +6781,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -7072,7 +6806,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -7098,7 +6831,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -7124,7 +6856,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -7150,7 +6881,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -7178,7 +6908,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -7206,7 +6935,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -7232,7 +6960,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -7258,7 +6985,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -7284,7 +7010,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -7310,7 +7035,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -7338,7 +7062,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -7366,7 +7089,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -7392,7 +7114,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -7418,7 +7139,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -7444,7 +7164,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -7470,7 +7189,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -7498,7 +7216,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -7526,7 +7243,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -7552,7 +7268,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -7578,7 +7293,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -7604,7 +7318,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -7630,7 +7343,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -7654,7 +7366,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50352",
          "id": "50352",
          "instructor": "TBA",
          "location": "TBA",
@@ -7678,7 +7389,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50353",
          "id": "50353",
          "instructor": "TBA",
          "location": "TBA",
@@ -7702,7 +7412,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50354",
          "id": "50354",
          "instructor": "TBA",
          "location": "TBA",
@@ -7726,7 +7435,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50355",
          "id": "50355",
          "instructor": "TBA",
          "location": "TBA",
@@ -7753,7 +7461,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51041",
          "id": "51041",
          "instructor": "Joseph John Kerstein",
          "location": "TBA",
@@ -7780,7 +7487,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51081",
          "id": "51081",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -7807,7 +7513,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50620",
          "id": "50620",
          "instructor": "Joseph John Kerstein",
          "location": "LEX215 LX210",
@@ -7834,7 +7539,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51052",
          "id": "51052",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -7861,7 +7565,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51048",
          "id": "51048",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -7888,7 +7591,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51007",
          "id": "51007",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -7915,7 +7617,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51006",
          "id": "51006",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -7942,7 +7643,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50570",
          "id": "50570",
          "instructor": "Joel A. Hochman",
          "location": "LEX215 LX314",
@@ -7969,7 +7669,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51710",
          "id": "51710",
          "instructor": "Joseph John Kerstein",
          "location": "TBA",
@@ -7996,7 +7695,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51008",
          "id": "51008",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -8023,7 +7721,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51038",
          "id": "51038",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -8050,7 +7747,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51733",
          "id": "51733",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "TBA",
@@ -8077,7 +7773,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50571",
          "id": "50571",
          "instructor": "David Hornung",
          "location": "LEX215 LX314",
@@ -8104,7 +7799,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51009",
          "id": "51009",
          "instructor": "He Huang",
          "location": "TBA",
@@ -8130,7 +7824,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50757",
          "id": "50757",
          "instructor": "He Huang",
          "location": "LEX215 LX313",
@@ -8156,7 +7849,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50757",
          "id": "50757",
          "instructor": "He Huang",
          "location": "LEX215 LX313",
@@ -8183,7 +7875,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51011",
          "id": "51011",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -8210,7 +7901,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51010",
          "id": "51010",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -8237,7 +7927,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50621",
          "id": "50621",
          "instructor": "Martin A. Leibowitz",
          "location": "LEX215 LX403",
@@ -8263,7 +7952,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51060",
          "id": "51060",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -8289,7 +7977,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:30",
-         "_id": "53140",
          "id": "53140",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -8316,7 +8003,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "53143",
          "id": "53143",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -8342,7 +8028,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "52516",
          "id": "52516",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "LEX215 ",
@@ -8368,7 +8053,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "52513",
          "id": "52513",
          "instructor": "Michael A. Palley",
          "location": "LEX215 LX209",
@@ -8394,7 +8078,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:30",
-         "_id": "52514",
          "id": "52514",
          "instructor": "Moses L. Pava, Francine Mellors-Rothenstein ",
          "location": "LEX215 LX314",
@@ -8420,7 +8103,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "52511",
          "id": "52511",
          "instructor": "Constance J. Crawford",
          "location": "LEX215 LX208",
@@ -8446,7 +8128,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:55",
-         "_id": "51724",
          "id": "51724",
          "instructor": "Irene Javors",
          "location": "TBA",
@@ -8472,7 +8153,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:55",
-         "_id": "51716",
          "id": "51716",
          "instructor": "Irene Javors",
          "location": "TBA",
@@ -8498,7 +8178,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:55",
-         "_id": "51719",
          "id": "51719",
          "instructor": "Irene Javors",
          "location": "TBA",
@@ -8524,7 +8203,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:55",
-         "_id": "51714",
          "id": "51714",
          "instructor": "Gary McClain",
          "location": "TBA",
@@ -8550,7 +8228,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "9:55",
-         "_id": "51713",
          "id": "51713",
          "instructor": "Gary McClain",
          "location": "TBA",
@@ -8576,7 +8253,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:55",
-         "_id": "51715",
          "id": "51715",
          "instructor": "Jody Resko",
          "location": "TBA",
@@ -8602,7 +8278,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:55",
-         "_id": "51718",
          "id": "51718",
          "instructor": "Gary McClain",
          "location": "TBA",
@@ -8628,7 +8303,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:55",
-         "_id": "51725",
          "id": "51725",
          "instructor": "David Bergstein",
          "location": "TBA",
@@ -8654,7 +8328,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:30",
-         "_id": "51721",
          "id": "51721",
          "instructor": "Raquel A. Crespo",
          "location": "TBA",
@@ -8680,7 +8353,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:55",
-         "_id": "51726",
          "id": "51726",
          "instructor": "Rosemarie A. Chatterton",
          "location": "TBA",
@@ -8706,7 +8378,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "51722",
          "id": "51722",
          "instructor": "Michael Gill",
          "location": "TBA",
@@ -8732,7 +8403,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "51723",
          "id": "51723",
          "instructor": "Michael Gill",
          "location": "TBA",
@@ -8758,7 +8428,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51350",
          "id": "51350",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -8784,7 +8453,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "51658",
          "id": "51658",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -8810,7 +8478,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "51662",
          "id": "51662",
          "instructor": "Carla Aurich",
          "location": "TBA",
@@ -8836,7 +8503,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:35",
-         "_id": "51196",
          "id": "51196",
          "instructor": "Carla Aurich",
          "location": "TBA",
@@ -8863,7 +8529,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50531",
          "id": "50531",
          "instructor": "Michele Wijegoonaratna",
          "location": "LEX215 LX717",
@@ -8890,7 +8555,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50770",
          "id": "50770",
          "instructor": "Melanie Hanan",
          "location": "TBA",
@@ -8917,7 +8581,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50577",
          "id": "50577",
          "instructor": "Marnin Young",
          "location": "LEX215 ",
@@ -8944,7 +8607,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50569",
          "id": "50569",
          "instructor": "Jacob Wisse",
          "location": "LEX215 LX717",
@@ -8971,7 +8633,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50532",
          "id": "50532",
          "instructor": "Marnin Young",
          "location": "LEX215 ",
@@ -8998,7 +8659,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51643",
          "id": "51643",
          "instructor": "Margaret Samu",
          "location": "TBA",
@@ -9024,7 +8684,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50617",
          "id": "50617",
          "instructor": "John Kriskiewicz",
          "location": "LEX215 LX717",
@@ -9050,7 +8709,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "53029",
          "id": "53029",
          "instructor": "Steven Fine",
          "location": "TBA",
@@ -9077,7 +8735,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51611",
          "id": "51611",
          "instructor": "Marnin Young",
          "location": "TBA",
@@ -9104,7 +8761,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50533",
          "id": "50533",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX802",
@@ -9131,7 +8787,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50534",
          "id": "50534",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -9157,7 +8812,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "50878",
          "id": "50878",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -9184,7 +8838,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50586",
          "id": "50586",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -9210,7 +8863,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50880",
          "id": "50880",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -9236,7 +8888,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:10",
-         "_id": "50881",
          "id": "50881",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -9262,7 +8913,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:10",
-         "_id": "51570",
          "id": "51570",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -9288,7 +8938,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:10",
-         "_id": "51572",
          "id": "51572",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -9314,7 +8963,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "51573",
          "id": "51573",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -9341,7 +8989,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50632",
          "id": "50632",
          "instructor": "TBA",
          "location": "TBA",
@@ -9367,7 +9014,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:00",
-         "_id": "50883",
          "id": "50883",
          "instructor": "Terttu Uibopuu",
          "location": "LEX215 LX809",
@@ -9393,7 +9039,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "50716",
          "id": "50716",
          "instructor": "Barbara L Suhr",
          "location": "LEX215 LX802",
@@ -9420,7 +9065,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "51574",
          "id": "51574",
          "instructor": "TBA",
          "location": "TBA",
@@ -9447,7 +9091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51575",
          "id": "51575",
          "instructor": "John Jerard",
          "location": "TBA",
@@ -9473,7 +9116,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51175",
          "id": "51175",
          "instructor": "Jeremy Wieder",
          "location": "TBA",
@@ -9499,7 +9141,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51176",
          "id": "51176",
          "instructor": "Yaakov Elman",
          "location": "TBA",
@@ -9526,7 +9167,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "51411",
          "id": "51411",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -9552,7 +9192,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51216",
          "id": "51216",
          "instructor": "Elazar Hurvitz",
          "location": "TBA",
@@ -9579,7 +9218,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "52902",
          "id": "52902",
          "instructor": "David Horwitz",
          "location": "TBA",
@@ -9605,7 +9243,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "53133",
          "id": "53133",
          "instructor": "David Horwitz",
          "location": "TBA",
@@ -9631,7 +9268,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "53034",
          "id": "53034",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -9658,7 +9294,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52771",
          "id": "52771",
          "instructor": "Barry L. Eichler",
          "location": "TBA",
@@ -9685,7 +9320,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "52528",
          "id": "52528",
          "instructor": "Aaron J. Koller",
          "location": "TBA",
@@ -9711,7 +9345,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "52772",
          "id": "52772",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -9737,7 +9370,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52773",
          "id": "52773",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -9763,7 +9395,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "52769",
          "id": "52769",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -9789,7 +9420,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52770",
          "id": "52770",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -9816,7 +9446,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52507",
          "id": "52507",
          "instructor": "Joseph L. Angel",
          "location": "TBA",
@@ -9842,7 +9471,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "53141",
          "id": "53141",
          "instructor": "Joseph L. Angel",
          "location": "TBA",
@@ -9869,7 +9497,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52508",
          "id": "52508",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -9895,7 +9522,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52774",
          "id": "52774",
          "instructor": "Elazar Hurvitz",
          "location": "TBA",
@@ -9921,7 +9547,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:30",
-         "_id": "52894",
          "id": "52894",
          "instructor": "Sid Z. Leiman",
          "location": "FURST ",
@@ -9947,7 +9572,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:30",
-         "_id": "52895",
          "id": "52895",
          "instructor": "Aaron J. Koller",
          "location": "FURST ",
@@ -9973,7 +9597,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "53100",
          "id": "53100",
          "instructor": "Barry L. Eichler",
          "location": "TBA",
@@ -9999,7 +9622,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:30",
-         "_id": "52896",
          "id": "52896",
          "instructor": "Barry L. Eichler",
          "location": "FURST ",
@@ -10025,7 +9647,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "52936",
          "id": "52936",
          "instructor": "Shalom E. Holtz",
          "location": "FURST ",
@@ -10051,7 +9672,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:30",
-         "_id": "52937",
          "id": "52937",
          "instructor": "Mordechai Z. Cohen",
          "location": "FURST ",
@@ -10075,7 +9695,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50029",
          "id": "50029",
          "instructor": "TBA",
          "location": "TBA",
@@ -10099,7 +9718,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50207",
          "id": "50207",
          "instructor": "TBA",
          "location": "TBA",
@@ -10123,7 +9741,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50208",
          "id": "50208",
          "instructor": "TBA",
          "location": "TBA",
@@ -10147,7 +9764,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50296",
          "id": "50296",
          "instructor": "TBA",
          "location": "TBA",
@@ -10171,7 +9787,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50107",
          "id": "50107",
          "instructor": "TBA",
          "location": "TBA",
@@ -10198,7 +9813,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51674",
          "id": "51674",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -10222,7 +9836,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50301",
          "id": "50301",
          "instructor": "TBA",
          "location": "TBA",
@@ -10249,7 +9862,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51676",
          "id": "51676",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -10273,7 +9885,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50315",
          "id": "50315",
          "instructor": "TBA",
          "location": "TBA",
@@ -10297,7 +9908,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50314",
          "id": "50314",
          "instructor": "TBA",
          "location": "TBA",
@@ -10321,7 +9931,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50316",
          "id": "50316",
          "instructor": "TBA",
          "location": "TBA",
@@ -10345,7 +9954,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50209",
          "id": "50209",
          "instructor": "TBA",
          "location": "TBA",
@@ -10369,7 +9977,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50297",
          "id": "50297",
          "instructor": "TBA",
          "location": "TBA",
@@ -10396,7 +10003,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51675",
          "id": "51675",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -10420,7 +10026,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50210",
          "id": "50210",
          "instructor": "TBA",
          "location": "TBA",
@@ -10444,7 +10049,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50273",
          "id": "50273",
          "instructor": "TBA",
          "location": "TBA",
@@ -10468,7 +10072,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50030",
          "id": "50030",
          "instructor": "TBA",
          "location": "TBA",
@@ -10492,7 +10095,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50211",
          "id": "50211",
          "instructor": "TBA",
          "location": "TBA",
@@ -10516,7 +10118,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50324",
          "id": "50324",
          "instructor": "TBA",
          "location": "TBA",
@@ -10540,7 +10141,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50325",
          "id": "50325",
          "instructor": "TBA",
          "location": "TBA",
@@ -10564,7 +10164,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50313",
          "id": "50313",
          "instructor": "TBA",
          "location": "TBA",
@@ -10591,7 +10190,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51677",
          "id": "51677",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -10618,7 +10216,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50596",
          "id": "50596",
          "instructor": "Shoshana Schechter",
          "location": "SCW 406",
@@ -10645,7 +10242,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51678",
          "id": "51678",
          "instructor": "Nechama Esther Price",
          "location": "TBA",
@@ -10669,7 +10265,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50212",
          "id": "50212",
          "instructor": "TBA",
          "location": "TBA",
@@ -10693,7 +10288,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50274",
          "id": "50274",
          "instructor": "TBA",
          "location": "TBA",
@@ -10717,7 +10311,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50031",
          "id": "50031",
          "instructor": "TBA",
          "location": "TBA",
@@ -10741,7 +10334,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50275",
          "id": "50275",
          "instructor": "TBA",
          "location": "TBA",
@@ -10765,7 +10357,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50110",
          "id": "50110",
          "instructor": "TBA",
          "location": "TBA",
@@ -10789,7 +10380,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50032",
          "id": "50032",
          "instructor": "TBA",
          "location": "TBA",
@@ -10813,7 +10403,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50033",
          "id": "50033",
          "instructor": "TBA",
          "location": "TBA",
@@ -10837,7 +10426,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50034",
          "id": "50034",
          "instructor": "TBA",
          "location": "TBA",
@@ -10861,7 +10449,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50035",
          "id": "50035",
          "instructor": "TBA",
          "location": "TBA",
@@ -10888,7 +10475,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51679",
          "id": "51679",
          "instructor": "Smadar Rosensweig",
          "location": "TBA",
@@ -10914,7 +10500,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51680",
          "id": "51680",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -10940,7 +10525,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51680",
          "id": "51680",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -10964,7 +10548,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50312",
          "id": "50312",
          "instructor": "TBA",
          "location": "TBA",
@@ -10991,7 +10574,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50742",
          "id": "50742",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -11018,7 +10600,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50576",
          "id": "50576",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -11042,7 +10623,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50213",
          "id": "50213",
          "instructor": "TBA",
          "location": "TBA",
@@ -11066,7 +10646,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50203",
          "id": "50203",
          "instructor": "TBA",
          "location": "TBA",
@@ -11093,7 +10672,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50561",
          "id": "50561",
          "instructor": "Elozor Preil",
          "location": "SCW 306",
@@ -11117,7 +10695,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50036",
          "id": "50036",
          "instructor": "TBA",
          "location": "TBA",
@@ -11141,7 +10718,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50037",
          "id": "50037",
          "instructor": "TBA",
          "location": "TBA",
@@ -11165,7 +10741,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50038",
          "id": "50038",
          "instructor": "TBA",
          "location": "TBA",
@@ -11189,7 +10764,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50039",
          "id": "50039",
          "instructor": "TBA",
          "location": "TBA",
@@ -11213,7 +10787,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50111",
          "id": "50111",
          "instructor": "TBA",
          "location": "TBA",
@@ -11237,7 +10810,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50112",
          "id": "50112",
          "instructor": "TBA",
          "location": "TBA",
@@ -11261,7 +10833,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50040",
          "id": "50040",
          "instructor": "TBA",
          "location": "TBA",
@@ -11285,7 +10856,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50041",
          "id": "50041",
          "instructor": "TBA",
          "location": "TBA",
@@ -11309,7 +10879,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50042",
          "id": "50042",
          "instructor": "TBA",
          "location": "TBA",
@@ -11333,7 +10902,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50113",
          "id": "50113",
          "instructor": "TBA",
          "location": "TBA",
@@ -11360,7 +10928,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51681",
          "id": "51681",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -11384,7 +10951,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50043",
          "id": "50043",
          "instructor": "TBA",
          "location": "TBA",
@@ -11408,7 +10974,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50044",
          "id": "50044",
          "instructor": "TBA",
          "location": "TBA",
@@ -11432,7 +10997,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50024",
          "id": "50024",
          "instructor": "TBA",
          "location": "TBA",
@@ -11459,7 +11023,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50856",
          "id": "50856",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 418",
@@ -11483,7 +11046,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50045",
          "id": "50045",
          "instructor": "TBA",
          "location": "TBA",
@@ -11507,7 +11069,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50114",
          "id": "50114",
          "instructor": "TBA",
          "location": "TBA",
@@ -11531,7 +11092,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50214",
          "id": "50214",
          "instructor": "TBA",
          "location": "TBA",
@@ -11555,7 +11115,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50215",
          "id": "50215",
          "instructor": "TBA",
          "location": "TBA",
@@ -11579,7 +11138,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50046",
          "id": "50046",
          "instructor": "TBA",
          "location": "TBA",
@@ -11606,7 +11164,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:15",
-         "_id": "51682",
          "id": "51682",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -11630,7 +11187,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50115",
          "id": "50115",
          "instructor": "TBA",
          "location": "TBA",
@@ -11654,7 +11210,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50047",
          "id": "50047",
          "instructor": "TBA",
          "location": "TBA",
@@ -11681,7 +11236,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51683",
          "id": "51683",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -11705,7 +11259,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50216",
          "id": "50216",
          "instructor": "TBA",
          "location": "TBA",
@@ -11729,7 +11282,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50217",
          "id": "50217",
          "instructor": "TBA",
          "location": "TBA",
@@ -11753,7 +11305,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50218",
          "id": "50218",
          "instructor": "TBA",
          "location": "TBA",
@@ -11777,7 +11328,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50271",
          "id": "50271",
          "instructor": "TBA",
          "location": "TBA",
@@ -11801,7 +11351,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50295",
          "id": "50295",
          "instructor": "TBA",
          "location": "TBA",
@@ -11828,7 +11377,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50743",
          "id": "50743",
          "instructor": "Smadar Rosensweig",
          "location": "SCW 819",
@@ -11852,7 +11400,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50219",
          "id": "50219",
          "instructor": "TBA",
          "location": "TBA",
@@ -11876,7 +11423,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50116",
          "id": "50116",
          "instructor": "TBA",
          "location": "TBA",
@@ -11900,7 +11446,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50048",
          "id": "50048",
          "instructor": "TBA",
          "location": "TBA",
@@ -11924,7 +11469,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50049",
          "id": "50049",
          "instructor": "TBA",
          "location": "TBA",
@@ -11948,7 +11492,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50220",
          "id": "50220",
          "instructor": "TBA",
          "location": "TBA",
@@ -11975,7 +11518,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51684",
          "id": "51684",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -11999,7 +11541,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50221",
          "id": "50221",
          "instructor": "TBA",
          "location": "TBA",
@@ -12023,7 +11564,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50150",
          "id": "50150",
          "instructor": "TBA",
          "location": "TBA",
@@ -12050,7 +11590,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50639",
          "id": "50639",
          "instructor": "Elozor Preil",
          "location": "SCW 306",
@@ -12077,7 +11616,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51685",
          "id": "51685",
          "instructor": "Ian Shaffer",
          "location": "TBA",
@@ -12101,7 +11639,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50050",
          "id": "50050",
          "instructor": "TBA",
          "location": "TBA",
@@ -12125,7 +11662,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50051",
          "id": "50051",
          "instructor": "TBA",
          "location": "TBA",
@@ -12152,7 +11688,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "51686",
          "id": "51686",
          "instructor": "Ian Shaffer",
          "location": "TBA",
@@ -12176,7 +11711,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50052",
          "id": "50052",
          "instructor": "TBA",
          "location": "TBA",
@@ -12203,7 +11737,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51687",
          "id": "51687",
          "instructor": "Smadar Rosensweig",
          "location": "TBA",
@@ -12227,7 +11760,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50117",
          "id": "50117",
          "instructor": "TBA",
          "location": "TBA",
@@ -12251,7 +11783,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50053",
          "id": "50053",
          "instructor": "TBA",
          "location": "TBA",
@@ -12275,7 +11806,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50118",
          "id": "50118",
          "instructor": "TBA",
          "location": "TBA",
@@ -12302,7 +11832,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "51688",
          "id": "51688",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -12326,7 +11855,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50222",
          "id": "50222",
          "instructor": "TBA",
          "location": "TBA",
@@ -12350,7 +11878,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50054",
          "id": "50054",
          "instructor": "TBA",
          "location": "TBA",
@@ -12374,7 +11901,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50317",
          "id": "50317",
          "instructor": "TBA",
          "location": "TBA",
@@ -12398,7 +11924,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50276",
          "id": "50276",
          "instructor": "TBA",
          "location": "TBA",
@@ -12422,7 +11947,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50318",
          "id": "50318",
          "instructor": "TBA",
          "location": "TBA",
@@ -12446,7 +11970,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50055",
          "id": "50055",
          "instructor": "TBA",
          "location": "TBA",
@@ -12470,7 +11993,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50153",
          "id": "50153",
          "instructor": "TBA",
          "location": "TBA",
@@ -12494,7 +12016,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50056",
          "id": "50056",
          "instructor": "TBA",
          "location": "TBA",
@@ -12518,7 +12039,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50302",
          "id": "50302",
          "instructor": "TBA",
          "location": "TBA",
@@ -12545,7 +12065,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50862",
          "id": "50862",
          "instructor": "Gideon I. Shloush",
          "location": "SCW 102",
@@ -12569,7 +12088,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50204",
          "id": "50204",
          "instructor": "TBA",
          "location": "TBA",
@@ -12593,7 +12111,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50277",
          "id": "50277",
          "instructor": "TBA",
          "location": "TBA",
@@ -12617,7 +12134,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50223",
          "id": "50223",
          "instructor": "TBA",
          "location": "TBA",
@@ -12641,7 +12157,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50278",
          "id": "50278",
          "instructor": "TBA",
          "location": "TBA",
@@ -12665,7 +12180,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50224",
          "id": "50224",
          "instructor": "TBA",
          "location": "TBA",
@@ -12689,7 +12203,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50140",
          "id": "50140",
          "instructor": "TBA",
          "location": "TBA",
@@ -12713,7 +12226,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50057",
          "id": "50057",
          "instructor": "TBA",
          "location": "TBA",
@@ -12737,7 +12249,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50058",
          "id": "50058",
          "instructor": "TBA",
          "location": "TBA",
@@ -12761,7 +12272,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50326",
          "id": "50326",
          "instructor": "TBA",
          "location": "TBA",
@@ -12785,7 +12295,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50225",
          "id": "50225",
          "instructor": "TBA",
          "location": "TBA",
@@ -12809,7 +12318,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50226",
          "id": "50226",
          "instructor": "TBA",
          "location": "TBA",
@@ -12833,7 +12341,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50059",
          "id": "50059",
          "instructor": "TBA",
          "location": "TBA",
@@ -12859,7 +12366,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50718",
          "id": "50718",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -12885,7 +12391,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50718",
          "id": "50718",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -12909,7 +12414,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50060",
          "id": "50060",
          "instructor": "TBA",
          "location": "TBA",
@@ -12936,7 +12440,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50683",
          "id": "50683",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -12960,7 +12463,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50098",
          "id": "50098",
          "instructor": "TBA",
          "location": "TBA",
@@ -12984,7 +12486,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50061",
          "id": "50061",
          "instructor": "TBA",
          "location": "TBA",
@@ -13008,7 +12509,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50279",
          "id": "50279",
          "instructor": "TBA",
          "location": "TBA",
@@ -13035,7 +12535,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50864",
          "id": "50864",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -13059,7 +12558,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50227",
          "id": "50227",
          "instructor": "TBA",
          "location": "TBA",
@@ -13086,7 +12584,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51689",
          "id": "51689",
          "instructor": "Mordechai Z. Cohen",
          "location": "TBA",
@@ -13110,7 +12607,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50062",
          "id": "50062",
          "instructor": "TBA",
          "location": "TBA",
@@ -13134,7 +12630,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50199",
          "id": "50199",
          "instructor": "TBA",
          "location": "TBA",
@@ -13158,7 +12653,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50119",
          "id": "50119",
          "instructor": "TBA",
          "location": "TBA",
@@ -13182,7 +12676,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50063",
          "id": "50063",
          "instructor": "TBA",
          "location": "TBA",
@@ -13206,7 +12699,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50228",
          "id": "50228",
          "instructor": "TBA",
          "location": "TBA",
@@ -13230,7 +12722,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50200",
          "id": "50200",
          "instructor": "TBA",
          "location": "TBA",
@@ -13254,7 +12745,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50154",
          "id": "50154",
          "instructor": "TBA",
          "location": "TBA",
@@ -13278,7 +12768,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50322",
          "id": "50322",
          "instructor": "TBA",
          "location": "TBA",
@@ -13302,7 +12791,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50298",
          "id": "50298",
          "instructor": "TBA",
          "location": "TBA",
@@ -13326,7 +12814,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50145",
          "id": "50145",
          "instructor": "TBA",
          "location": "TBA",
@@ -13350,7 +12837,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50144",
          "id": "50144",
          "instructor": "TBA",
          "location": "TBA",
@@ -13376,7 +12862,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:05",
-         "_id": "51089",
          "id": "51089",
          "instructor": "Danielle Wasserman",
          "location": "TBA",
@@ -13402,7 +12887,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "51088",
          "id": "51088",
          "instructor": "Aaron Kogut",
          "location": "TBA",
@@ -13428,7 +12912,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51090",
          "id": "51090",
          "instructor": "Chayim Z. Goldberg",
          "location": "TBA",
@@ -13454,7 +12937,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51091",
          "id": "51091",
          "instructor": "Aaron Kogut",
          "location": "TBA",
@@ -13481,7 +12963,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51092",
          "id": "51092",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -13507,7 +12988,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51093",
          "id": "51093",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -13534,7 +13014,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51094",
          "id": "51094",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -13560,7 +13039,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:15",
-         "_id": "51335",
          "id": "51335",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -13586,7 +13064,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:15",
-         "_id": "51335",
          "id": "51335",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -13613,7 +13090,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51181",
          "id": "51181",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -13639,7 +13115,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51181",
          "id": "51181",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -13666,7 +13141,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51180",
          "id": "51180",
          "instructor": "Josefa M. Steinhauer",
          "location": "TBA",
@@ -13692,7 +13166,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51180",
          "id": "51180",
          "instructor": "Josefa M. Steinhauer",
          "location": "TBA",
@@ -13718,7 +13191,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:40",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13744,7 +13216,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13770,7 +13241,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:20",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13797,7 +13267,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51664",
          "id": "51664",
          "instructor": "Sumanta Goswami",
          "location": "TBA",
@@ -13823,7 +13292,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:05",
-         "_id": "51664",
          "id": "51664",
          "instructor": "Sumanta Goswami",
          "location": "TBA",
@@ -13849,7 +13317,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13875,7 +13342,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13901,7 +13367,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -13927,7 +13392,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:10",
-         "_id": "51160",
          "id": "51160",
          "instructor": "Moses D. Tendler",
          "location": "TBA",
@@ -13953,7 +13417,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51368",
          "id": "51368",
          "instructor": "Ido Davidesco",
          "location": "TBA",
@@ -13979,7 +13442,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "53030",
          "id": "53030",
          "instructor": "Ari Shechter",
          "location": "TBA",
@@ -14006,7 +13468,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51212",
          "id": "51212",
          "instructor": "Toni M Schwarz",
          "location": "TBA",
@@ -14030,7 +13491,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51197",
          "id": "51197",
          "instructor": "TBA",
          "location": "TBA",
@@ -14054,7 +13514,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50293",
          "id": "50293",
          "instructor": "TBA",
          "location": "TBA",
@@ -14081,7 +13540,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50684",
          "id": "50684",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 518",
@@ -14107,7 +13565,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:05",
-         "_id": "50692",
          "id": "50692",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW LB441",
@@ -14133,7 +13590,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:10",
-         "_id": "50693",
          "id": "50693",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -14159,7 +13615,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:50",
-         "_id": "50685",
          "id": "50685",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -14186,7 +13641,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50536",
          "id": "50536",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -14213,7 +13667,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50738",
          "id": "50738",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -14240,7 +13693,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50737",
          "id": "50737",
          "instructor": "Marina Kaufman Holz",
          "location": "SCW 606",
@@ -14266,7 +13718,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50537",
          "id": "50537",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -14292,7 +13743,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:05",
-         "_id": "50574",
          "id": "50574",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -14318,7 +13768,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50740",
          "id": "50740",
          "instructor": "Mana Mirjany",
          "location": "SCW LB444",
@@ -14344,7 +13793,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50739",
          "id": "50739",
          "instructor": "Anna Alayev",
          "location": "SCW LB444",
@@ -14370,7 +13818,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:00",
-         "_id": "50627",
          "id": "50627",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -14396,7 +13843,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "50538",
          "id": "50538",
          "instructor": "Mana Mirjany",
          "location": "SCW LB444",
@@ -14423,7 +13869,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50939",
          "id": "50939",
          "instructor": "Evan Mintzer",
          "location": "SCW ",
@@ -14450,7 +13895,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:45",
-         "_id": "50659",
          "id": "50659",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 501",
@@ -14477,7 +13921,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50604",
          "id": "50604",
          "instructor": "Jennifer Kathryn Odien",
          "location": "SCW 518",
@@ -14504,7 +13947,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:10",
-         "_id": "50613",
          "id": "50613",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -14531,7 +13973,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "50612",
          "id": "50612",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -14558,7 +13999,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:55",
-         "_id": "50660",
          "id": "50660",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -14585,7 +14025,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50667",
          "id": "50667",
          "instructor": "Margarita Vigodner",
          "location": "SCW 518",
@@ -14611,7 +14050,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "50767",
          "id": "50767",
          "instructor": "Anna Alayev",
          "location": "SCW LB343",
@@ -14637,7 +14075,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "50723",
          "id": "50723",
          "instructor": "Margarita Vigodner",
          "location": "SCW LB343",
@@ -14663,7 +14100,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50741",
          "id": "50741",
          "instructor": "Raizy Weinreb",
          "location": "SCW 306",
@@ -14690,7 +14126,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50668",
          "id": "50668",
          "instructor": "Harvey J. Babich",
          "location": "SCW 1015",
@@ -14717,7 +14152,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50724",
          "id": "50724",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -14744,7 +14178,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50725",
          "id": "50725",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -14771,7 +14204,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50661",
          "id": "50661",
          "instructor": "Marina Kaufman Holz",
          "location": "SCW 619",
@@ -14798,7 +14230,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50661",
          "id": "50661",
          "instructor": "Anna Alayev ",
          "location": "SCW 619",
@@ -14825,7 +14256,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50539",
          "id": "50539",
          "instructor": "Levy Sztark Amar",
          "location": "SCW 1015",
@@ -14852,7 +14282,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50540",
          "id": "50540",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -14878,7 +14307,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50678",
          "id": "50678",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -14904,7 +14332,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50678",
          "id": "50678",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -14931,7 +14358,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50922",
          "id": "50922",
          "instructor": "Margarita Vigodner",
          "location": "SCW ",
@@ -14958,7 +14384,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50592",
          "id": "50592",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW 1015",
@@ -14985,7 +14410,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50658",
          "id": "50658",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -15012,7 +14436,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50643",
          "id": "50643",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -15038,7 +14461,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51592",
          "id": "51592",
          "instructor": "James Nussbaum",
          "location": "TBA",
@@ -15064,7 +14486,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51594",
          "id": "51594",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -15090,7 +14511,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51594",
          "id": "51594",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -15116,7 +14536,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:30",
-         "_id": "52441",
          "id": "52441",
          "instructor": "Victoria H. Freedman, Edward R. Burns ",
          "location": "TBA",
@@ -15143,7 +14562,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50786",
          "id": "50786",
          "instructor": "TBA",
          "location": "LEX215 ",
@@ -15167,7 +14585,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51015",
          "id": "51015",
          "instructor": "TBA",
          "location": "TBA",
@@ -15191,7 +14608,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51042",
          "id": "51042",
          "instructor": "TBA",
          "location": "TBA",
@@ -15218,7 +14634,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51012",
          "id": "51012",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -15245,7 +14660,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51066",
          "id": "51066",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -15272,7 +14686,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51014",
          "id": "51014",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -15299,7 +14712,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51013",
          "id": "51013",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -15326,7 +14738,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50555",
          "id": "50555",
          "instructor": "Robert Jay Greenberg",
          "location": "LEX215 LX313",
@@ -15352,7 +14763,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51043",
          "id": "51043",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -15378,7 +14788,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51040",
          "id": "51040",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -15404,7 +14813,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51053",
          "id": "51053",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -15431,7 +14839,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50629",
          "id": "50629",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -15457,7 +14864,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:30",
-         "_id": "50629",
          "id": "50629",
          "instructor": "Lora Danley",
          "location": "SCW LB543",
@@ -15484,7 +14890,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50614",
          "id": "50614",
          "instructor": "Chaya Rapp",
          "location": "SCW KOCH",
@@ -15511,7 +14916,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50697",
          "id": "50697",
          "instructor": "Chaya Rapp",
          "location": "SCW 301",
@@ -15537,7 +14941,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:20",
-         "_id": "50763",
          "id": "50763",
          "instructor": "TBA",
          "location": "SCW 406",
@@ -15563,7 +14966,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:20",
-         "_id": "50670",
          "id": "50670",
          "instructor": "TBA",
          "location": "SCW ",
@@ -15589,7 +14991,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50669",
          "id": "50669",
          "instructor": "Donald Estes",
          "location": "SCW 601",
@@ -15615,7 +15016,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:20",
-         "_id": "50715",
          "id": "50715",
          "instructor": "Donald Estes",
          "location": "SCW 607",
@@ -15641,7 +15041,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:20",
-         "_id": "51644",
          "id": "51644",
          "instructor": "Cecily Dobin",
          "location": "TBA",
@@ -15667,7 +15066,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "50606",
          "id": "50606",
          "instructor": "Donald Estes",
          "location": "SCW LB541",
@@ -15693,7 +15091,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50605",
          "id": "50605",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -15719,7 +15116,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50671",
          "id": "50671",
          "instructor": "Donald Estes",
          "location": "SCW LB541",
@@ -15745,7 +15141,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50603",
          "id": "50603",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -15771,7 +15166,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "50615",
          "id": "50615",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -15798,7 +15192,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:45",
-         "_id": "50797",
          "id": "50797",
          "instructor": "Jianfeng Jiang",
          "location": "SCW 607",
@@ -15824,7 +15217,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50800",
          "id": "50800",
          "instructor": "Jianfeng Jiang",
          "location": "SCW LB544",
@@ -15851,7 +15243,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50784",
          "id": "50784",
          "instructor": "Evan Mintzer",
          "location": "SCW ",
@@ -15878,7 +15269,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50940",
          "id": "50940",
          "instructor": "Evan Mintzer",
          "location": "SCW KOCH",
@@ -15904,7 +15294,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "51646",
          "id": "51646",
          "instructor": "Rafael M. Cuesta-Sanchez",
          "location": "TBA",
@@ -15931,7 +15320,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50772",
          "id": "50772",
          "instructor": "Chaya Rapp",
          "location": "SCW 301",
@@ -15958,7 +15346,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51095",
          "id": "51095",
          "instructor": "James Camara",
          "location": "TBA",
@@ -15984,7 +15371,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51095",
          "id": "51095",
          "instructor": "James Camara",
          "location": "TBA",
@@ -16010,7 +15396,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:45",
-         "_id": "51182",
          "id": "51182",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -16036,7 +15421,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:45",
-         "_id": "51184",
          "id": "51184",
          "instructor": "Allan Burger",
          "location": "TBA",
@@ -16062,7 +15446,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:45",
-         "_id": "51183",
          "id": "51183",
          "instructor": "Racquel K. Malcolm-Whyte",
          "location": "TBA",
@@ -16088,7 +15471,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "51185",
          "id": "51185",
          "instructor": "Jacopo Samson",
          "location": "TBA",
@@ -16115,7 +15497,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51096",
          "id": "51096",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -16141,7 +15522,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51096",
          "id": "51096",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -16167,7 +15547,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "51243",
          "id": "51243",
          "instructor": "James Camara",
          "location": "TBA",
@@ -16193,7 +15572,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:45",
-         "_id": "51243",
          "id": "51243",
          "instructor": "James Camara",
          "location": "TBA",
@@ -16219,7 +15597,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51172",
          "id": "51172",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -16246,7 +15623,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51171",
          "id": "51171",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -16272,7 +15648,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:15",
-         "_id": "51260",
          "id": "51260",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -16298,7 +15673,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:15",
-         "_id": "51260",
          "id": "51260",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -16325,7 +15699,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51261",
          "id": "51261",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -16351,7 +15724,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51261",
          "id": "51261",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -16377,7 +15749,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:00",
-         "_id": "51097",
          "id": "51097",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -16403,7 +15774,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:00",
-         "_id": "51098",
          "id": "51098",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -16427,7 +15797,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51198",
          "id": "51198",
          "instructor": "TBA",
          "location": "TBA",
@@ -16453,7 +15822,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52578",
          "id": "52578",
          "instructor": "Charles Swencionis",
          "location": "TBA",
@@ -16479,7 +15847,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52579",
          "id": "52579",
          "instructor": "Jonathan Feldman",
          "location": "TBA",
@@ -16505,7 +15872,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "52626",
          "id": "52626",
          "instructor": "Roee Holtzer",
          "location": "TBA",
@@ -16531,7 +15897,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52554",
          "id": "52554",
          "instructor": "Jeannette R. Mahoney",
          "location": "TBA",
@@ -16557,7 +15922,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52580",
          "id": "52580",
          "instructor": "Jeffrey Gonzalez",
          "location": "TBA",
@@ -16583,7 +15947,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52620",
          "id": "52620",
          "instructor": "Vance Zemon",
          "location": "TBA",
@@ -16609,7 +15972,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52577",
          "id": "52577",
          "instructor": "Elizabeth Seng-Tamaccio",
          "location": "TBA",
@@ -16635,7 +15997,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52581",
          "id": "52581",
          "instructor": "Andrea Hope Weinberger",
          "location": "TBA",
@@ -16661,7 +16022,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:55",
-         "_id": "51789",
          "id": "51789",
          "instructor": "Elizabeth Seng-Tamaccio",
          "location": "TBA",
@@ -16687,7 +16047,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52622",
          "id": "52622",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -16713,7 +16072,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:55",
-         "_id": "51788",
          "id": "51788",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -16739,7 +16097,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "52532",
          "id": "52532",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -16765,7 +16122,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:55",
-         "_id": "51790",
          "id": "51790",
          "instructor": "William Salton",
          "location": "TBA",
@@ -16791,7 +16147,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52576",
          "id": "52576",
          "instructor": "Frederick Foley",
          "location": "TBA",
@@ -16817,7 +16172,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52543",
          "id": "52543",
          "instructor": "TBA",
          "location": "TBA",
@@ -16843,7 +16197,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52561",
          "id": "52561",
          "instructor": "TBA",
          "location": "TBA",
@@ -16869,7 +16222,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:55",
-         "_id": "51787",
          "id": "51787",
          "instructor": "Jonathan Feldman",
          "location": "TBA",
@@ -16895,7 +16247,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:55",
-         "_id": "52566",
          "id": "52566",
          "instructor": "Roee Holtzer",
          "location": "TBA",
@@ -16919,7 +16270,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "52709",
          "id": "52709",
          "instructor": "TBA",
          "location": "TBA",
@@ -16945,7 +16295,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:55",
-         "_id": "52619",
          "id": "52619",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -16971,7 +16320,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52618",
          "id": "52618",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -16997,7 +16345,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "52616",
          "id": "52616",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -17023,7 +16370,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "52617",
          "id": "52617",
          "instructor": "Anne E. Hirky",
          "location": "TBA",
@@ -17050,7 +16396,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51214",
          "id": "51214",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -17076,7 +16421,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "51262",
          "id": "51262",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -17102,7 +16446,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51206",
          "id": "51206",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -17129,7 +16472,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "52775",
          "id": "52775",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -17155,7 +16497,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:15",
-         "_id": "52775",
          "id": "52775",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -17182,7 +16523,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51164",
          "id": "51164",
          "instructor": "TBA",
          "location": "TBA",
@@ -17208,7 +16548,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51164",
          "id": "51164",
          "instructor": "TBA",
          "location": "TBA",
@@ -17235,7 +16574,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51099",
          "id": "51099",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -17261,7 +16599,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "51242",
          "id": "51242",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -17288,7 +16625,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51133",
          "id": "51133",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -17314,7 +16650,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53032",
          "id": "53032",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -17340,7 +16675,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -17366,7 +16700,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:25",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -17392,7 +16725,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -17418,7 +16750,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -17445,7 +16776,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:15",
-         "_id": "50677",
          "id": "50677",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -17472,7 +16802,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:15",
-         "_id": "50677",
          "id": "50677",
          "instructor": "TBA",
          "location": "LEX215 LX312",
@@ -17499,7 +16828,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51617",
          "id": "51617",
          "instructor": "Michelle Alyssa Levine",
          "location": "TBA",
@@ -17526,7 +16854,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50802",
          "id": "50802",
          "instructor": "Joshua Waxman",
          "location": "LEX215 ",
@@ -17553,7 +16880,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51616",
          "id": "51616",
          "instructor": "Joshua Waxman",
          "location": "TBA",
@@ -17579,7 +16905,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51265",
          "id": "51265",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -17606,7 +16931,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53146",
          "id": "53146",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -17632,7 +16956,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "53144",
          "id": "53144",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -17659,7 +16982,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53145",
          "id": "53145",
          "instructor": "Lauren Fitzgerald",
          "location": "TBA",
@@ -17686,7 +17008,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53165",
          "id": "53165",
          "instructor": "Jacob Shapiro",
          "location": "TBA",
@@ -17713,7 +17034,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "53148",
          "id": "53148",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -17740,7 +17060,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53153",
          "id": "53153",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -17767,7 +17086,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51187",
          "id": "51187",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -17791,7 +17109,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51186",
          "id": "51186",
          "instructor": "TBA",
          "location": "TBA",
@@ -17818,7 +17135,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53149",
          "id": "53149",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -17844,7 +17160,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53150",
          "id": "53150",
          "instructor": "Aaron J. Koller",
          "location": "TBA",
@@ -17871,7 +17186,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53151",
          "id": "53151",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -17898,7 +17212,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51270",
          "id": "51270",
          "instructor": "Gaetano Bloise",
          "location": "TBA",
@@ -17925,7 +17238,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51102",
          "id": "51102",
          "instructor": "Alessandro Citanna",
          "location": "TBA",
@@ -17952,7 +17264,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53033",
          "id": "53033",
          "instructor": "TBA",
          "location": "TBA",
@@ -17979,7 +17290,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51142",
          "id": "51142",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -18006,7 +17316,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51319",
          "id": "51319",
          "instructor": "TBA",
          "location": "TBA",
@@ -18033,7 +17342,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50893",
          "id": "50893",
          "instructor": "Gaetano Bloise",
          "location": "LEX215 ",
@@ -18060,7 +17368,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50587",
          "id": "50587",
          "instructor": "Alessandro Citanna",
          "location": "LEX215 LX403",
@@ -18086,7 +17393,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51615",
          "id": "51615",
          "instructor": "TBA",
          "location": "TBA",
@@ -18112,7 +17418,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51615",
          "id": "51615",
          "instructor": "TBA",
          "location": "TBA",
@@ -18138,7 +17443,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50774",
          "id": "50774",
          "instructor": "Elias C. Grivoyannis",
          "location": "LEX215 LX718",
@@ -18164,7 +17468,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:50",
-         "_id": "51756",
          "id": "51756",
          "instructor": "Layala Salomon",
          "location": "BELFHL B211",
@@ -18190,7 +17493,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:00",
-         "_id": "51760",
          "id": "51760",
          "instructor": "Karen Shawn",
          "location": "TBA",
@@ -18216,7 +17518,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "51782",
          "id": "51782",
          "instructor": "Scott Goldberg",
          "location": "TBA",
@@ -18242,7 +17543,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:10",
-         "_id": "51604",
          "id": "51604",
          "instructor": "Jessica Kohn",
          "location": "TBA",
@@ -18268,7 +17568,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51605",
          "id": "51605",
          "instructor": "Chaya R. Gorsetman",
          "location": "TBA",
@@ -18294,7 +17593,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:39",
-         "_id": "51606",
          "id": "51606",
          "instructor": "Chaya R. Gorsetman",
          "location": "TBA",
@@ -18320,7 +17618,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "50584",
          "id": "50584",
          "instructor": "Miriam Ungar Hirsch",
          "location": "SCW 906",
@@ -18347,7 +17644,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50551",
          "id": "50551",
          "instructor": "TBA",
          "location": "SCW ",
@@ -18373,7 +17669,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50552",
          "id": "50552",
          "instructor": "Naomi Berkowitz",
          "location": "SCW 906",
@@ -18399,7 +17694,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50552",
          "id": "50552",
          "instructor": "Naomi Berkowitz",
          "location": "SCW 906",
@@ -18425,7 +17719,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:30",
-         "_id": "50803",
          "id": "50803",
          "instructor": "David Stephen Friedman",
          "location": "SCW 919",
@@ -18452,7 +17745,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51607",
          "id": "51607",
          "instructor": "Miriam Ungar Hirsch",
          "location": "TBA",
@@ -18479,7 +17771,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51608",
          "id": "51608",
          "instructor": "Miriam Ungar Hirsch",
          "location": "TBA",
@@ -18505,7 +17796,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:30",
-         "_id": "51614",
          "id": "51614",
          "instructor": "Ilana B. Benson",
          "location": "OFF SITE",
@@ -18532,7 +17822,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:35",
-         "_id": "50648",
          "id": "50648",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 518",
@@ -18558,7 +17847,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "50804",
          "id": "50804",
          "instructor": "Donna J. Greenberg",
          "location": "SCW 518",
@@ -18585,7 +17873,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51167",
          "id": "51167",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -18612,7 +17899,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51168",
          "id": "51168",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -18639,7 +17925,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51169",
          "id": "51169",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -18666,7 +17951,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51170",
          "id": "51170",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -18692,7 +17976,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51332",
          "id": "51332",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -18719,7 +18002,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51589",
          "id": "51589",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -18745,7 +18027,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51590",
          "id": "51590",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -18771,7 +18052,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51612",
          "id": "51612",
          "instructor": "Joanne Jacobson",
          "location": "TBA",
@@ -18797,7 +18077,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51613",
          "id": "51613",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -18824,7 +18103,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51139",
          "id": "51139",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -18851,7 +18129,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53036",
          "id": "53036",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -18878,7 +18155,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53035",
          "id": "53035",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -18904,7 +18180,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53152",
          "id": "53152",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -18930,7 +18205,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:45",
-         "_id": "51148",
          "id": "51148",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -18957,7 +18231,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50993",
          "id": "50993",
          "instructor": "Sierra Ladan Tavasolian",
          "location": "TBA",
@@ -18984,7 +18257,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50994",
          "id": "50994",
          "instructor": "Alison J Matika",
          "location": "TBA",
@@ -19011,7 +18283,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50602",
          "id": "50602",
          "instructor": "Gina Grimaldi",
          "location": "LEX215 LX313",
@@ -19038,7 +18309,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50730",
          "id": "50730",
          "instructor": "Gina Grimaldi",
          "location": "LEX215 LX719",
@@ -19065,7 +18335,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50679",
          "id": "50679",
          "instructor": "Seamus O'Malley",
          "location": "LEX215 LX719",
@@ -19092,7 +18361,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50631",
          "id": "50631",
          "instructor": "Matthew Ward Miller",
          "location": "LEX215 ",
@@ -19119,7 +18387,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50553",
          "id": "50553",
          "instructor": "Nora Nachumi",
          "location": "LEX215 LX719",
@@ -19146,7 +18413,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50727",
          "id": "50727",
          "instructor": "Jen DeGregorio",
          "location": "LEX215 LX719",
@@ -19172,7 +18438,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "50888",
          "id": "50888",
          "instructor": "Avital Rachel Chizhik",
          "location": "LEX215 ",
@@ -19198,7 +18463,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "50775",
          "id": "50775",
          "instructor": "Erik Mintz",
          "location": "LEX215 LX718",
@@ -19224,7 +18488,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:30",
-         "_id": "50714",
          "id": "50714",
          "instructor": "Deborah Schlueter",
          "location": "LEX215 LX718",
@@ -19251,7 +18514,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50992",
          "id": "50992",
          "instructor": "Lynda Johnson",
          "location": "TBA",
@@ -19278,7 +18540,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50744",
          "id": "50744",
          "instructor": "Joy Ladin",
          "location": "LEX215 ",
@@ -19305,7 +18566,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50995",
          "id": "50995",
          "instructor": "TBA",
          "location": "TBA",
@@ -19332,7 +18592,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50664",
          "id": "50664",
          "instructor": "Seamus O'Malley",
          "location": "LEX215 LX313",
@@ -19359,7 +18618,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51001",
          "id": "51001",
          "instructor": "Joy Ladin",
          "location": "TBA",
@@ -19385,7 +18643,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50996",
          "id": "50996",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -19411,7 +18668,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50996",
          "id": "50996",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -19437,7 +18693,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51005",
          "id": "51005",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -19463,7 +18718,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51005",
          "id": "51005",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -19490,7 +18744,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51004",
          "id": "51004",
          "instructor": "TBA",
          "location": "TBA",
@@ -19517,7 +18770,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50997",
          "id": "50997",
          "instructor": "Linda M. Shires",
          "location": "TBA",
@@ -19544,7 +18796,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50998",
          "id": "50998",
          "instructor": "Cynthia Wachtell",
          "location": "TBA",
@@ -19571,7 +18822,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50892",
          "id": "50892",
          "instructor": "Nora Nachumi",
          "location": "LEX215 ",
@@ -19598,7 +18848,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51000",
          "id": "51000",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -19625,7 +18874,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50999",
          "id": "50999",
          "instructor": "Linda M. Shires",
          "location": "TBA",
@@ -19652,7 +18900,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51002",
          "id": "51002",
          "instructor": "Nora Nachumi",
          "location": "TBA",
@@ -19678,7 +18925,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51003",
          "id": "51003",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -19704,7 +18950,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51003",
          "id": "51003",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -19731,7 +18976,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53098",
          "id": "53098",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -19758,7 +19002,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53154",
          "id": "53154",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -19785,7 +19028,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51075",
          "id": "51075",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -19812,7 +19054,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51017",
          "id": "51017",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -19839,7 +19080,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51019",
          "id": "51019",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -19866,7 +19106,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51086",
          "id": "51086",
          "instructor": "Gabriela Coiculescu",
          "location": "TBA",
@@ -19893,7 +19132,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50622",
          "id": "50622",
          "instructor": "Rachel Calipha",
          "location": "LEX215 LX208",
@@ -19920,7 +19158,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51018",
          "id": "51018",
          "instructor": "Gabriela Coiculescu",
          "location": "TBA",
@@ -19947,7 +19184,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51020",
          "id": "51020",
          "instructor": "S. Abraham Ravid",
          "location": "TBA",
@@ -19973,7 +19209,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50698",
          "id": "50698",
          "instructor": "Archishman Chakraborty",
          "location": "LEX215 ",
@@ -20000,7 +19235,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51021",
          "id": "51021",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -20027,7 +19261,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51022",
          "id": "51022",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -20054,7 +19287,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50919",
          "id": "50919",
          "instructor": "Sean Crockett",
          "location": "LEX215 LX403",
@@ -20081,7 +19313,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51073",
          "id": "51073",
          "instructor": "Allen M. Pfeiffer",
          "location": "TBA",
@@ -20108,7 +19339,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51068",
          "id": "51068",
          "instructor": "Rachel Calipha",
          "location": "TBA",
@@ -20135,7 +19365,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50825",
          "id": "50825",
          "instructor": "Rachel Calipha",
          "location": "LEX215 LX312",
@@ -20161,7 +19390,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:45",
-         "_id": "51712",
          "id": "51712",
          "instructor": "S. Abraham Ravid",
          "location": "TBA",
@@ -20187,7 +19415,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51054",
          "id": "51054",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -20213,7 +19440,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "52510",
          "id": "52510",
          "instructor": "Daniel E. Posner",
          "location": "LEX215 LX208",
@@ -20240,7 +19466,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51050",
          "id": "51050",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -20267,7 +19492,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51063",
          "id": "51063",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -20294,7 +19518,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51735",
          "id": "51735",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -20321,7 +19544,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51084",
          "id": "51084",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "TBA",
@@ -20348,7 +19570,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51736",
          "id": "51736",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -20375,7 +19596,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51278",
          "id": "51278",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -20402,7 +19622,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51074",
          "id": "51074",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -20429,7 +19648,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51082",
          "id": "51082",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -20456,7 +19674,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51281",
          "id": "51281",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -20483,7 +19700,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51737",
          "id": "51737",
          "instructor": "Milette Shanon",
          "location": "TBA",
@@ -20510,7 +19726,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51277",
          "id": "51277",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -20537,7 +19752,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51276",
          "id": "51276",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -20564,7 +19778,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51280",
          "id": "51280",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -20591,7 +19804,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51279",
          "id": "51279",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -20618,7 +19830,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51101",
          "id": "51101",
          "instructor": "Andrew Scott Dubrov",
          "location": "TBA",
@@ -20645,7 +19856,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51275",
          "id": "51275",
          "instructor": "Raisa Rexer",
          "location": "TBA",
@@ -20671,7 +19881,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:55",
-         "_id": "52653",
          "id": "52653",
          "instructor": "Zev Labins",
          "location": "TBA",
@@ -20697,7 +19906,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52621",
          "id": "52621",
          "instructor": "Charles Swencionis",
          "location": "TBA",
@@ -20723,7 +19931,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "52625",
          "id": "52625",
          "instructor": "Vance Zemon",
          "location": "TBA",
@@ -20749,7 +19956,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "52564",
          "id": "52564",
          "instructor": "Carl Auerbach",
          "location": "TBA",
@@ -20775,7 +19981,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "9:55",
-         "_id": "51786",
          "id": "51786",
          "instructor": "Frederick Foley",
          "location": "TBA",
@@ -20801,7 +20006,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52690",
          "id": "52690",
          "instructor": "Frederick Foley",
          "location": "TBA",
@@ -20825,7 +20029,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "52598",
          "id": "52598",
          "instructor": "TBA",
          "location": "TBA",
@@ -20851,7 +20054,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "52623",
          "id": "52623",
          "instructor": "William Arsenio",
          "location": "TBA",
@@ -20877,7 +20079,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "52624",
          "id": "52624",
          "instructor": "Andrea Hope Weinberger",
          "location": "TBA",
@@ -20903,7 +20104,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "53044",
          "id": "53044",
          "instructor": "TBA",
          "location": "TBA",
@@ -20927,7 +20127,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51410",
          "id": "51410",
          "instructor": "TBA",
          "location": "TBA",
@@ -20954,7 +20153,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51490",
          "id": "51490",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -20981,7 +20179,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51496",
          "id": "51496",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -21008,7 +20205,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51502",
          "id": "51502",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -21035,7 +20231,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51508",
          "id": "51508",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -21062,7 +20257,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51514",
          "id": "51514",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -21089,7 +20283,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51520",
          "id": "51520",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -21116,7 +20309,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51526",
          "id": "51526",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -21143,7 +20335,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51532",
          "id": "51532",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -21170,7 +20361,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51538",
          "id": "51538",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -21197,7 +20387,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "52897",
          "id": "52897",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -21226,7 +20415,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "51415",
          "id": "51415",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -21253,7 +20441,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51425",
          "id": "51425",
          "instructor": "Nathaniel Wiederblank",
          "location": "TBA",
@@ -21277,7 +20464,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50340",
          "id": "50340",
          "instructor": "TBA",
          "location": "TBA",
@@ -21301,7 +20487,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50341",
          "id": "50341",
          "instructor": "TBA",
          "location": "TBA",
@@ -21325,7 +20510,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50342",
          "id": "50342",
          "instructor": "TBA",
          "location": "TBA",
@@ -21349,7 +20533,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50361",
          "id": "50361",
          "instructor": "TBA",
          "location": "TBA",
@@ -21373,7 +20556,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50185",
          "id": "50185",
          "instructor": "TBA",
          "location": "TBA",
@@ -21397,7 +20579,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51208",
          "id": "51208",
          "instructor": "TBA",
          "location": "TBA",
@@ -21425,7 +20606,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "51244",
          "id": "51244",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -21451,7 +20631,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51244",
          "id": "51244",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -21480,7 +20659,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51245",
          "id": "51245",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -21508,7 +20686,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "51246",
          "id": "51246",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -21534,7 +20711,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51246",
          "id": "51246",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -21563,7 +20739,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51204",
          "id": "51204",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -21592,7 +20767,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51166",
          "id": "51166",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -21619,7 +20793,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51247",
          "id": "51247",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -21645,7 +20818,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:00",
-         "_id": "51247",
          "id": "51247",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -21672,7 +20844,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51248",
          "id": "51248",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -21698,7 +20869,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51248",
          "id": "51248",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -21727,7 +20897,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51249",
          "id": "51249",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -21754,7 +20923,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51151",
          "id": "51151",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -21780,7 +20948,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:00",
-         "_id": "51151",
          "id": "51151",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -21804,7 +20971,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51387",
          "id": "51387",
          "instructor": "TBA",
          "location": "TBA",
@@ -21828,7 +20994,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51389",
          "id": "51389",
          "instructor": "TBA",
          "location": "TBA",
@@ -21852,7 +21017,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51388",
          "id": "51388",
          "instructor": "TBA",
          "location": "TBA",
@@ -21879,7 +21043,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51234",
          "id": "51234",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -21906,7 +21069,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51235",
          "id": "51235",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -21933,7 +21095,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51237",
          "id": "51237",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -21960,7 +21121,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51236",
          "id": "51236",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -21987,7 +21147,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51238",
          "id": "51238",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -22014,7 +21173,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52776",
          "id": "52776",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -22041,7 +21199,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51239",
          "id": "51239",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -22068,7 +21225,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51354",
          "id": "51354",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -22095,7 +21251,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51240",
          "id": "51240",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -22119,7 +21274,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50157",
          "id": "50157",
          "instructor": "TBA",
          "location": "TBA",
@@ -22146,7 +21300,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:10",
-         "_id": "53134",
          "id": "53134",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -22170,7 +21323,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50100",
          "id": "50100",
          "instructor": "TBA",
          "location": "TBA",
@@ -22197,7 +21349,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50535",
          "id": "50535",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -22224,7 +21375,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:30",
-         "_id": "50535",
          "id": "50535",
          "instructor": " Staff ",
          "location": "SCW 607",
@@ -22251,7 +21401,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51652",
          "id": "51652",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -22277,7 +21426,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "51652",
          "id": "51652",
          "instructor": " Staff ",
          "location": "TBA",
@@ -22304,7 +21452,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50681",
          "id": "50681",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 301",
@@ -22330,7 +21477,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "50681",
          "id": "50681",
          "instructor": " Staff ",
          "location": "SCW 301",
@@ -22354,7 +21500,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50101",
          "id": "50101",
          "instructor": "TBA",
          "location": "TBA",
@@ -22381,7 +21526,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50755",
          "id": "50755",
          "instructor": "Dawn Arussy",
          "location": "SCW 301",
@@ -22407,7 +21551,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "50755",
          "id": "50755",
          "instructor": " Staff ",
          "location": "SCW ",
@@ -22433,7 +21576,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50585",
          "id": "50585",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 819",
@@ -22459,7 +21601,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "50585",
          "id": "50585",
          "instructor": " Staff ",
          "location": "SCW 819",
@@ -22485,7 +21626,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50585",
          "id": "50585",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -22511,7 +21651,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50829",
          "id": "50829",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 819",
@@ -22537,7 +21676,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "50829",
          "id": "50829",
          "instructor": " Staff ",
          "location": "SCW 819",
@@ -22563,7 +21701,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50829",
          "id": "50829",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -22590,7 +21727,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50830",
          "id": "50830",
          "instructor": "Osnat Bishko",
          "location": "SCW 1019",
@@ -22617,7 +21753,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50756",
          "id": "50756",
          "instructor": "Osnat Bishko",
          "location": "SCW 819",
@@ -22644,7 +21779,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50649",
          "id": "50649",
          "instructor": "Dawn Arussy",
          "location": "SCW 1019",
@@ -22671,7 +21805,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50682",
          "id": "50682",
          "instructor": "Hilla Goldwicht",
          "location": "SCW ",
@@ -22697,7 +21830,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50650",
          "id": "50650",
          "instructor": "Rivka Weiner",
          "location": "SCW 818",
@@ -22723,7 +21855,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50650",
          "id": "50650",
          "instructor": "Rivka Weiner",
          "location": "SCW 818",
@@ -22749,7 +21880,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50831",
          "id": "50831",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -22775,7 +21905,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50831",
          "id": "50831",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -22802,7 +21931,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50710",
          "id": "50710",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW 818",
@@ -22829,7 +21957,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50652",
          "id": "50652",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -22855,7 +21982,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50651",
          "id": "50651",
          "instructor": "Hilla Goldwicht",
          "location": "SCW ",
@@ -22881,7 +22007,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50651",
          "id": "50651",
          "instructor": "Hilla Goldwicht",
          "location": "TBA",
@@ -22908,7 +22033,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50676",
          "id": "50676",
          "instructor": "Osnat Bishko",
          "location": "SCW 919",
@@ -22934,7 +22058,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50653",
          "id": "50653",
          "instructor": "Osnat Bishko",
          "location": "SCW ",
@@ -22960,7 +22083,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50653",
          "id": "50653",
          "instructor": "Osnat Bishko",
          "location": "TBA",
@@ -22984,7 +22106,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50120",
          "id": "50120",
          "instructor": "TBA",
          "location": "TBA",
@@ -23008,7 +22129,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50280",
          "id": "50280",
          "instructor": "TBA",
          "location": "TBA",
@@ -23032,7 +22152,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50265",
          "id": "50265",
          "instructor": "TBA",
          "location": "TBA",
@@ -23056,7 +22175,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50281",
          "id": "50281",
          "instructor": "TBA",
          "location": "TBA",
@@ -23083,7 +22201,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50832",
          "id": "50832",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW ",
@@ -23107,7 +22224,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50102",
          "id": "50102",
          "instructor": "TBA",
          "location": "TBA",
@@ -23134,7 +22250,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50597",
          "id": "50597",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 815",
@@ -23158,7 +22273,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50121",
          "id": "50121",
          "instructor": "TBA",
          "location": "TBA",
@@ -23182,7 +22296,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50269",
          "id": "50269",
          "instructor": "TBA",
          "location": "TBA",
@@ -23206,7 +22319,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50266",
          "id": "50266",
          "instructor": "TBA",
          "location": "TBA",
@@ -23230,7 +22342,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50282",
          "id": "50282",
          "instructor": "TBA",
          "location": "TBA",
@@ -23256,7 +22367,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "50654",
          "id": "50654",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -23280,7 +22390,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50103",
          "id": "50103",
          "instructor": "TBA",
          "location": "TBA",
@@ -23304,7 +22413,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50104",
          "id": "50104",
          "instructor": "TBA",
          "location": "TBA",
@@ -23328,7 +22436,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50105",
          "id": "50105",
          "instructor": "TBA",
          "location": "TBA",
@@ -23352,7 +22459,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50267",
          "id": "50267",
          "instructor": "TBA",
          "location": "TBA",
@@ -23376,7 +22482,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50268",
          "id": "50268",
          "instructor": "TBA",
          "location": "TBA",
@@ -23403,7 +22508,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51353",
          "id": "51353",
          "instructor": "Joshua D. Zimmerman",
          "location": "TBA",
@@ -23430,7 +22534,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51282",
          "id": "51282",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -23457,7 +22560,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52779",
          "id": "52779",
          "instructor": "TBA",
          "location": "TBA",
@@ -23483,7 +22585,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53041",
          "id": "53041",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -23510,7 +22611,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52778",
          "id": "52778",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -23537,7 +22637,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52777",
          "id": "52777",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -23564,7 +22663,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "52780",
          "id": "52780",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -23591,7 +22689,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50680",
          "id": "50680",
          "instructor": "Joshua D. Zimmerman",
          "location": "LEX215 LX210",
@@ -23618,7 +22715,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51621",
          "id": "51621",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -23644,7 +22740,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "51623",
          "id": "51623",
          "instructor": "Selma Botman",
          "location": "TBA",
@@ -23671,7 +22766,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51622",
          "id": "51622",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -23698,7 +22792,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51620",
          "id": "51620",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -23725,7 +22818,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51619",
          "id": "51619",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -23752,7 +22844,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51661",
          "id": "51661",
          "instructor": "Jill C. Katz",
          "location": "TBA",
@@ -23779,7 +22870,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51618",
          "id": "51618",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -23803,7 +22893,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51210",
          "id": "51210",
          "instructor": "TBA",
          "location": "TBA",
@@ -23827,7 +22916,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51137",
          "id": "51137",
          "instructor": "TBA",
          "location": "TBA",
@@ -23851,7 +22939,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51138",
          "id": "51138",
          "instructor": "TBA",
          "location": "TBA",
@@ -23878,7 +22965,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51188",
          "id": "51188",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -23905,7 +22991,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53155",
          "id": "53155",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -23932,7 +23017,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53039",
          "id": "53039",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -23959,7 +23043,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53156",
          "id": "53156",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -23986,7 +23069,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "53038",
          "id": "53038",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -24013,7 +23095,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51055",
          "id": "51055",
          "instructor": "Avi Naiman",
          "location": "TBA",
@@ -24040,7 +23121,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50785",
          "id": "50785",
          "instructor": "Avi Naiman",
          "location": "LEX215 LX420",
@@ -24067,7 +23147,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51024",
          "id": "51024",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -24094,7 +23173,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51023",
          "id": "51023",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -24121,7 +23199,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51044",
          "id": "51044",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -24148,7 +23225,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50938",
          "id": "50938",
          "instructor": "Kevin Brabazon",
          "location": "LEX215 ",
@@ -24175,7 +23251,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51738",
          "id": "51738",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -24202,7 +23277,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51026",
          "id": "51026",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -24229,7 +23303,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51025",
          "id": "51025",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -24256,7 +23329,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50701",
          "id": "50701",
          "instructor": "Avi H. Giloni",
          "location": "LEX215 YAGODACOMM",
@@ -24282,7 +23354,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51057",
          "id": "51057",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -24309,7 +23380,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51037",
          "id": "51037",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -24336,7 +23406,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51065",
          "id": "51065",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -24363,7 +23432,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51027",
          "id": "51027",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -24390,7 +23458,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50702",
          "id": "50702",
          "instructor": "Avi H. Giloni",
          "location": "LEX215 LX210",
@@ -24416,7 +23483,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:10",
-         "_id": "50734",
          "id": "50734",
          "instructor": "Sriram Subramanian",
          "location": "LEX215 LX312",
@@ -24443,7 +23509,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51046",
          "id": "51046",
          "instructor": "Vladimir Kovtun",
          "location": "TBA",
@@ -24470,7 +23535,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50758",
          "id": "50758",
          "instructor": "Vladimir Kovtun",
          "location": "SCW 315",
@@ -24497,7 +23561,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51069",
          "id": "51069",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -24524,7 +23587,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50791",
          "id": "50791",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "SCW 315",
@@ -24551,7 +23613,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51591",
          "id": "51591",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -24577,7 +23638,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51588",
          "id": "51588",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -24604,7 +23664,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51288",
          "id": "51288",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -24630,7 +23689,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51289",
          "id": "51289",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -24657,7 +23715,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51587",
          "id": "51587",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -24683,7 +23740,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51672",
          "id": "51672",
          "instructor": "Daniel Beliavsky, Frederic Sugarman ",
          "location": "TBA",
@@ -24707,7 +23763,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50828",
          "id": "50828",
          "instructor": "TBA",
          "location": "TBA",
@@ -24733,7 +23788,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:00",
-         "_id": "50690",
          "id": "50690",
          "instructor": "Deena S. Rabinovich",
          "location": "OFF SITE",
@@ -24759,7 +23813,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:45",
-         "_id": "50690",
          "id": "50690",
          "instructor": "Deena S. Rabinovich",
          "location": "TBA",
@@ -24785,7 +23838,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "50691",
          "id": "50691",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 906",
@@ -24811,7 +23863,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:45",
-         "_id": "50720",
          "id": "50720",
          "instructor": "Deena S. Rabinovich",
          "location": "BELFHL B803",
@@ -24835,7 +23886,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50171",
          "id": "50171",
          "instructor": "TBA",
          "location": "TBA",
@@ -24859,7 +23909,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50328",
          "id": "50328",
          "instructor": "TBA",
          "location": "TBA",
@@ -24885,7 +23934,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:55",
-         "_id": "51754",
          "id": "51754",
          "instructor": "Moshe Krakowski",
          "location": "BELFHL B209",
@@ -24911,7 +23959,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:50",
-         "_id": "51758",
          "id": "51758",
          "instructor": "David Pelcovitz",
          "location": "BELFHL B211",
@@ -24937,7 +23984,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:00",
-         "_id": "51770",
          "id": "51770",
          "instructor": "Chaim Feuerman",
          "location": "BELFHL B307",
@@ -24963,7 +24009,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:55",
-         "_id": "51755",
          "id": "51755",
          "instructor": "Karen Shawn",
          "location": "BELFHL B307",
@@ -24987,7 +24032,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51753",
          "id": "51753",
          "instructor": "TBA",
          "location": "TBA",
@@ -25011,7 +24055,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51766",
          "id": "51766",
          "instructor": "TBA",
          "location": "TBA",
@@ -25035,7 +24078,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51748",
          "id": "51748",
          "instructor": "TBA",
          "location": "TBA",
@@ -25059,7 +24101,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51767",
          "id": "51767",
          "instructor": "TBA",
          "location": "TBA",
@@ -25083,7 +24124,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51747",
          "id": "51747",
          "instructor": "TBA",
          "location": "TBA",
@@ -25107,7 +24147,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51749",
          "id": "51749",
          "instructor": "TBA",
          "location": "TBA",
@@ -25131,7 +24170,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51768",
          "id": "51768",
          "instructor": "TBA",
          "location": "TBA",
@@ -25155,7 +24193,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51751",
          "id": "51751",
          "instructor": "TBA",
          "location": "TBA",
@@ -25179,7 +24216,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51752",
          "id": "51752",
          "instructor": "TBA",
          "location": "TBA",
@@ -25203,7 +24239,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51745",
          "id": "51745",
          "instructor": "TBA",
          "location": "TBA",
@@ -25227,7 +24262,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51746",
          "id": "51746",
          "instructor": "TBA",
          "location": "TBA",
@@ -25251,7 +24285,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51769",
          "id": "51769",
          "instructor": "TBA",
          "location": "TBA",
@@ -25275,7 +24308,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51765",
          "id": "51765",
          "instructor": "TBA",
          "location": "TBA",
@@ -25299,7 +24331,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51750",
          "id": "51750",
          "instructor": "TBA",
          "location": "TBA",
@@ -25323,7 +24354,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51406",
          "id": "51406",
          "instructor": "TBA",
          "location": "TBA",
@@ -25350,7 +24380,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51155",
          "id": "51155",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -25377,7 +24406,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53051",
          "id": "53051",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -25404,7 +24432,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "52530",
          "id": "52530",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -25431,7 +24458,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51191",
          "id": "51191",
          "instructor": "Joshua Karlip",
          "location": "TBA",
@@ -25458,7 +24484,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53052",
          "id": "53052",
          "instructor": "Joshua Karlip",
          "location": "TBA",
@@ -25485,7 +24510,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "51422",
          "id": "51422",
          "instructor": "Daniel Tsadik",
          "location": "TBA",
@@ -25511,7 +24535,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "53053",
          "id": "53053",
          "instructor": "Jeffrey S. Gurock",
          "location": "TBA",
@@ -25538,7 +24561,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "52899",
          "id": "52899",
          "instructor": "Mordecai Paldiel",
          "location": "TBA",
@@ -25565,7 +24587,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53054",
          "id": "53054",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -25592,7 +24613,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52782",
          "id": "52782",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -25618,7 +24638,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "53135",
          "id": "53135",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -25645,7 +24664,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53136",
          "id": "53136",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -25671,7 +24689,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "52945",
          "id": "52945",
          "instructor": "Joseph L. Angel",
          "location": "FURST ",
@@ -25697,7 +24714,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "52946",
          "id": "52946",
          "instructor": "Daniel Tsadik",
          "location": "FURST ",
@@ -25723,7 +24739,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:30",
-         "_id": "52948",
          "id": "52948",
          "instructor": "Joshua D. Zimmerman",
          "location": "FURST ",
@@ -25749,7 +24764,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "52950",
          "id": "52950",
          "instructor": "Ephraim Kanarfogel",
          "location": "FURST ",
@@ -25775,7 +24789,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:30",
-         "_id": "52952",
          "id": "52952",
          "instructor": "Ronnie Perelis",
          "location": "FURST ",
@@ -25801,7 +24814,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:30",
-         "_id": "52955",
          "id": "52955",
          "instructor": "Steven Fine",
          "location": "FURST ",
@@ -25827,7 +24839,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:30",
-         "_id": "52957",
          "id": "52957",
          "instructor": "Joshua Karlip",
          "location": "FURST ",
@@ -25853,7 +24864,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "52959",
          "id": "52959",
          "instructor": "David J. Schnall",
          "location": "FURST ",
@@ -25879,7 +24889,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "52960",
          "id": "52960",
          "instructor": "David Berger",
          "location": "FURST ",
@@ -25905,7 +24914,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:30",
-         "_id": "52961",
          "id": "52961",
          "instructor": "Daniel Tsadik",
          "location": "FURST ",
@@ -25929,7 +24937,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50270",
          "id": "50270",
          "instructor": "TBA",
          "location": "TBA",
@@ -25953,7 +24960,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50229",
          "id": "50229",
          "instructor": "TBA",
          "location": "TBA",
@@ -25977,7 +24983,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50230",
          "id": "50230",
          "instructor": "TBA",
          "location": "TBA",
@@ -26001,7 +25006,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50064",
          "id": "50064",
          "instructor": "TBA",
          "location": "TBA",
@@ -26025,7 +25029,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50231",
          "id": "50231",
          "instructor": "TBA",
          "location": "TBA",
@@ -26049,7 +25052,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50205",
          "id": "50205",
          "instructor": "TBA",
          "location": "TBA",
@@ -26073,7 +25075,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50065",
          "id": "50065",
          "instructor": "TBA",
          "location": "TBA",
@@ -26099,7 +25100,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50672",
          "id": "50672",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -26125,7 +25125,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50672",
          "id": "50672",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -26149,7 +25148,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50066",
          "id": "50066",
          "instructor": "TBA",
          "location": "TBA",
@@ -26175,7 +25173,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50638",
          "id": "50638",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -26201,7 +25198,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50638",
          "id": "50638",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -26225,7 +25221,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50319",
          "id": "50319",
          "instructor": "TBA",
          "location": "TBA",
@@ -26249,7 +25244,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50099",
          "id": "50099",
          "instructor": "TBA",
          "location": "TBA",
@@ -26273,7 +25267,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50148",
          "id": "50148",
          "instructor": "TBA",
          "location": "TBA",
@@ -26300,7 +25293,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51647",
          "id": "51647",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -26324,7 +25316,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50106",
          "id": "50106",
          "instructor": "TBA",
          "location": "TBA",
@@ -26348,7 +25339,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50067",
          "id": "50067",
          "instructor": "TBA",
          "location": "TBA",
@@ -26374,7 +25364,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:23",
-         "_id": "51649",
          "id": "51649",
          "instructor": "Jeffrey S. Gurock",
          "location": "TBA",
@@ -26401,7 +25390,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51650",
          "id": "51650",
          "instructor": "Jill C. Katz",
          "location": "TBA",
@@ -26427,7 +25415,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "51648",
          "id": "51648",
          "instructor": "Ephraim Kanarfogel",
          "location": "TBA",
@@ -26454,7 +25441,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51668",
          "id": "51668",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -26478,7 +25464,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50232",
          "id": "50232",
          "instructor": "TBA",
          "location": "TBA",
@@ -26502,7 +25487,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51485",
          "id": "51485",
          "instructor": "TBA",
          "location": "TBA",
@@ -26526,7 +25510,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51482",
          "id": "51482",
          "instructor": "TBA",
          "location": "TBA",
@@ -26550,7 +25533,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51489",
          "id": "51489",
          "instructor": "TBA",
          "location": "TBA",
@@ -26574,7 +25556,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51481",
          "id": "51481",
          "instructor": "TBA",
          "location": "TBA",
@@ -26598,7 +25579,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51488",
          "id": "51488",
          "instructor": "TBA",
          "location": "TBA",
@@ -26622,7 +25602,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51483",
          "id": "51483",
          "instructor": "TBA",
          "location": "TBA",
@@ -26646,7 +25625,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51486",
          "id": "51486",
          "instructor": "TBA",
          "location": "TBA",
@@ -26670,7 +25648,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51479",
          "id": "51479",
          "instructor": "TBA",
          "location": "TBA",
@@ -26694,7 +25671,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51478",
          "id": "51478",
          "instructor": "TBA",
          "location": "TBA",
@@ -26718,7 +25694,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51480",
          "id": "51480",
          "instructor": "TBA",
          "location": "TBA",
@@ -26742,7 +25717,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51484",
          "id": "51484",
          "instructor": "TBA",
          "location": "TBA",
@@ -26766,7 +25740,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51487",
          "id": "51487",
          "instructor": "TBA",
          "location": "TBA",
@@ -26793,7 +25766,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53056",
          "id": "53056",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -26819,7 +25791,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:30",
-         "_id": "52971",
          "id": "52971",
          "instructor": "Daniel Rynhold",
          "location": "FURST ",
@@ -26845,7 +25816,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "52973",
          "id": "52973",
          "instructor": "Jonathan V. Dauber",
          "location": "FURST ",
@@ -26871,7 +25841,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "52974",
          "id": "52974",
          "instructor": "Jonathan V. Dauber",
          "location": "FURST ",
@@ -26897,7 +25866,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "52976",
          "id": "52976",
          "instructor": "Daniel Rynhold",
          "location": "FURST ",
@@ -26923,7 +25891,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:30",
-         "_id": "52978",
          "id": "52978",
          "instructor": "Daniel Rynhold",
          "location": "FURST ",
@@ -26949,7 +25916,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:30",
-         "_id": "52980",
          "id": "52980",
          "instructor": "Yaakov Elman",
          "location": "FURST ",
@@ -26973,7 +25939,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50122",
          "id": "50122",
          "instructor": "TBA",
          "location": "TBA",
@@ -26997,7 +25962,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50123",
          "id": "50123",
          "instructor": "TBA",
          "location": "TBA",
@@ -27021,7 +25985,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50283",
          "id": "50283",
          "instructor": "TBA",
          "location": "TBA",
@@ -27045,7 +26008,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50284",
          "id": "50284",
          "instructor": "TBA",
          "location": "TBA",
@@ -27069,7 +26031,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50285",
          "id": "50285",
          "instructor": "TBA",
          "location": "TBA",
@@ -27093,7 +26054,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50321",
          "id": "50321",
          "instructor": "TBA",
          "location": "TBA",
@@ -27117,7 +26077,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50156",
          "id": "50156",
          "instructor": "TBA",
          "location": "TBA",
@@ -27141,7 +26100,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50124",
          "id": "50124",
          "instructor": "TBA",
          "location": "TBA",
@@ -27165,7 +26123,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50125",
          "id": "50125",
          "instructor": "TBA",
          "location": "TBA",
@@ -27189,7 +26146,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50149",
          "id": "50149",
          "instructor": "TBA",
          "location": "TBA",
@@ -27213,7 +26169,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50126",
          "id": "50126",
          "instructor": "TBA",
          "location": "TBA",
@@ -27237,7 +26192,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50127",
          "id": "50127",
          "instructor": "TBA",
          "location": "TBA",
@@ -27261,7 +26215,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50128",
          "id": "50128",
          "instructor": "TBA",
          "location": "TBA",
@@ -27285,7 +26238,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50129",
          "id": "50129",
          "instructor": "TBA",
          "location": "TBA",
@@ -27309,7 +26261,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50130",
          "id": "50130",
          "instructor": "TBA",
          "location": "TBA",
@@ -27333,7 +26284,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50131",
          "id": "50131",
          "instructor": "TBA",
          "location": "TBA",
@@ -27359,7 +26309,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50713",
          "id": "50713",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -27385,7 +26334,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50713",
          "id": "50713",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -27409,7 +26357,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50286",
          "id": "50286",
          "instructor": "TBA",
          "location": "TBA",
@@ -27433,7 +26380,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50132",
          "id": "50132",
          "instructor": "TBA",
          "location": "TBA",
@@ -27459,7 +26405,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:30",
-         "_id": "51671",
          "id": "51671",
          "instructor": "Gamliel Shmalo",
          "location": "TBA",
@@ -27483,7 +26428,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50304",
          "id": "50304",
          "instructor": "TBA",
          "location": "TBA",
@@ -27509,7 +26453,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "51673",
          "id": "51673",
          "instructor": "Yosef Zvi Bronstein",
          "location": "TBA",
@@ -27533,7 +26476,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50303",
          "id": "50303",
          "instructor": "TBA",
          "location": "TBA",
@@ -27557,7 +26499,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50370",
          "id": "50370",
          "instructor": "TBA",
          "location": "TBA",
@@ -27581,7 +26522,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50287",
          "id": "50287",
          "instructor": "TBA",
          "location": "TBA",
@@ -27605,7 +26545,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50158",
          "id": "50158",
          "instructor": "TBA",
          "location": "TBA",
@@ -27631,7 +26570,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:14",
-         "_id": "50805",
          "id": "50805",
          "instructor": "Gamliel Shmalo",
          "location": "SCW 501",
@@ -27655,7 +26593,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50133",
          "id": "50133",
          "instructor": "TBA",
          "location": "TBA",
@@ -27679,7 +26616,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50134",
          "id": "50134",
          "instructor": "TBA",
          "location": "TBA",
@@ -27703,7 +26639,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51407",
          "id": "51407",
          "instructor": "TBA",
          "location": "TBA",
@@ -27732,7 +26667,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52519",
          "id": "52519",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -27758,7 +26692,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51494",
          "id": "51494",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -27784,7 +26717,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51500",
          "id": "51500",
          "instructor": "Steven J. Maybruch",
          "location": "FURST F207",
@@ -27810,7 +26742,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51506",
          "id": "51506",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -27836,7 +26767,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51512",
          "id": "51512",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -27862,7 +26792,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51518",
          "id": "51518",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -27888,7 +26817,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51524",
          "id": "51524",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -27914,7 +26842,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51530",
          "id": "51530",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -27940,7 +26867,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51536",
          "id": "51536",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -27966,7 +26892,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51542",
          "id": "51542",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -27990,7 +26915,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51408",
          "id": "51408",
          "instructor": "TBA",
          "location": "TBA",
@@ -28017,7 +26941,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "51423",
          "id": "51423",
          "instructor": "Leonard Moskowitz",
          "location": "TBA",
@@ -28043,7 +26966,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:55",
-         "_id": "51432",
          "id": "51432",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -28067,7 +26989,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51401",
          "id": "51401",
          "instructor": "TBA",
          "location": "TBA",
@@ -28091,7 +27012,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51390",
          "id": "51390",
          "instructor": "TBA",
          "location": "TBA",
@@ -28120,7 +27040,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "51431",
          "id": "51431",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -28147,7 +27066,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "51413",
          "id": "51413",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -28174,7 +27092,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "51414",
          "id": "51414",
          "instructor": "Benjamin Blech",
          "location": "TBA",
@@ -28203,7 +27120,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52806",
          "id": "52806",
          "instructor": "Zev Reichman",
          "location": "TBA",
@@ -28227,7 +27143,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50346",
          "id": "50346",
          "instructor": "TBA",
          "location": "TBA",
@@ -28251,7 +27166,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50347",
          "id": "50347",
          "instructor": "TBA",
          "location": "TBA",
@@ -28275,7 +27189,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50348",
          "id": "50348",
          "instructor": "TBA",
          "location": "TBA",
@@ -28299,7 +27212,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50362",
          "id": "50362",
          "instructor": "TBA",
          "location": "TBA",
@@ -28323,7 +27235,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50068",
          "id": "50068",
          "instructor": "TBA",
          "location": "TBA",
@@ -28350,7 +27261,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52520",
          "id": "52520",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -28374,7 +27284,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50135",
          "id": "50135",
          "instructor": "TBA",
          "location": "TBA",
@@ -28401,7 +27310,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50588",
          "id": "50588",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -28425,7 +27333,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50069",
          "id": "50069",
          "instructor": "TBA",
          "location": "TBA",
@@ -28449,7 +27356,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50070",
          "id": "50070",
          "instructor": "TBA",
          "location": "TBA",
@@ -28473,7 +27379,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50233",
          "id": "50233",
          "instructor": "TBA",
          "location": "TBA",
@@ -28497,7 +27402,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50151",
          "id": "50151",
          "instructor": "TBA",
          "location": "TBA",
@@ -28521,7 +27425,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50071",
          "id": "50071",
          "instructor": "TBA",
          "location": "TBA",
@@ -28545,7 +27448,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50108",
          "id": "50108",
          "instructor": "TBA",
          "location": "TBA",
@@ -28569,7 +27471,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50288",
          "id": "50288",
          "instructor": "TBA",
          "location": "TBA",
@@ -28593,7 +27494,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50234",
          "id": "50234",
          "instructor": "TBA",
          "location": "TBA",
@@ -28617,7 +27517,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50136",
          "id": "50136",
          "instructor": "TBA",
          "location": "TBA",
@@ -28641,7 +27540,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50072",
          "id": "50072",
          "instructor": "TBA",
          "location": "TBA",
@@ -28665,7 +27563,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50294",
          "id": "50294",
          "instructor": "TBA",
          "location": "TBA",
@@ -28689,7 +27586,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50143",
          "id": "50143",
          "instructor": "TBA",
          "location": "TBA",
@@ -28713,7 +27609,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50235",
          "id": "50235",
          "instructor": "TBA",
          "location": "TBA",
@@ -28737,7 +27632,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50073",
          "id": "50073",
          "instructor": "TBA",
          "location": "TBA",
@@ -28761,7 +27655,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50074",
          "id": "50074",
          "instructor": "TBA",
          "location": "TBA",
@@ -28787,7 +27680,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "51692",
          "id": "51692",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -28813,7 +27705,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51692",
          "id": "51692",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -28837,7 +27728,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50137",
          "id": "50137",
          "instructor": "TBA",
          "location": "TBA",
@@ -28864,7 +27754,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51691",
          "id": "51691",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "TBA",
@@ -28891,7 +27780,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51693",
          "id": "51693",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -28915,7 +27803,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50138",
          "id": "50138",
          "instructor": "TBA",
          "location": "TBA",
@@ -28942,7 +27829,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50675",
          "id": "50675",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -28966,7 +27852,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50236",
          "id": "50236",
          "instructor": "TBA",
          "location": "TBA",
@@ -28990,7 +27875,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50026",
          "id": "50026",
          "instructor": "TBA",
          "location": "TBA",
@@ -29017,7 +27901,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51698",
          "id": "51698",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -29041,7 +27924,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50237",
          "id": "50237",
          "instructor": "TBA",
          "location": "TBA",
@@ -29068,7 +27950,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50637",
          "id": "50637",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -29092,7 +27973,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50075",
          "id": "50075",
          "instructor": "TBA",
          "location": "TBA",
@@ -29116,7 +27996,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50238",
          "id": "50238",
          "instructor": "TBA",
          "location": "TBA",
@@ -29142,7 +28021,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:20",
-         "_id": "50557",
          "id": "50557",
          "instructor": "Meir Fulda",
          "location": "SCW 401",
@@ -29166,7 +28044,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50239",
          "id": "50239",
          "instructor": "TBA",
          "location": "TBA",
@@ -29193,7 +28070,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50687",
          "id": "50687",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -29217,7 +28093,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50025",
          "id": "50025",
          "instructor": "TBA",
          "location": "TBA",
@@ -29241,7 +28116,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50240",
          "id": "50240",
          "instructor": "TBA",
          "location": "TBA",
@@ -29267,7 +28141,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51697",
          "id": "51697",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -29291,7 +28164,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50076",
          "id": "50076",
          "instructor": "TBA",
          "location": "TBA",
@@ -29315,7 +28187,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50241",
          "id": "50241",
          "instructor": "TBA",
          "location": "TBA",
@@ -29339,7 +28210,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50142",
          "id": "50142",
          "instructor": "TBA",
          "location": "TBA",
@@ -29363,7 +28233,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50242",
          "id": "50242",
          "instructor": "TBA",
          "location": "TBA",
@@ -29390,7 +28259,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50689",
          "id": "50689",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -29414,7 +28282,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50028",
          "id": "50028",
          "instructor": "TBA",
          "location": "TBA",
@@ -29438,7 +28305,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50289",
          "id": "50289",
          "instructor": "TBA",
          "location": "TBA",
@@ -29465,7 +28331,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50590",
          "id": "50590",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -29489,7 +28354,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50160",
          "id": "50160",
          "instructor": "TBA",
          "location": "TBA",
@@ -29513,7 +28377,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50202",
          "id": "50202",
          "instructor": "TBA",
          "location": "TBA",
@@ -29537,7 +28400,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50077",
          "id": "50077",
          "instructor": "TBA",
          "location": "TBA",
@@ -29564,7 +28426,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51694",
          "id": "51694",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -29588,7 +28449,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50243",
          "id": "50243",
          "instructor": "TBA",
          "location": "TBA",
@@ -29612,7 +28472,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50078",
          "id": "50078",
          "instructor": "TBA",
          "location": "TBA",
@@ -29639,7 +28498,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51695",
          "id": "51695",
          "instructor": "Aaron Cohen",
          "location": "TBA",
@@ -29663,7 +28521,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50079",
          "id": "50079",
          "instructor": "TBA",
          "location": "TBA",
@@ -29687,7 +28544,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50290",
          "id": "50290",
          "instructor": "TBA",
          "location": "TBA",
@@ -29711,7 +28567,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50080",
          "id": "50080",
          "instructor": "TBA",
          "location": "TBA",
@@ -29735,7 +28590,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50244",
          "id": "50244",
          "instructor": "TBA",
          "location": "TBA",
@@ -29759,7 +28613,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50245",
          "id": "50245",
          "instructor": "TBA",
          "location": "TBA",
@@ -29786,7 +28639,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50598",
          "id": "50598",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -29810,7 +28662,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50246",
          "id": "50246",
          "instructor": "TBA",
          "location": "TBA",
@@ -29836,7 +28687,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:10",
-         "_id": "51699",
          "id": "51699",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -29860,7 +28710,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50081",
          "id": "50081",
          "instructor": "TBA",
          "location": "TBA",
@@ -29884,7 +28733,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50082",
          "id": "50082",
          "instructor": "TBA",
          "location": "TBA",
@@ -29908,7 +28756,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50083",
          "id": "50083",
          "instructor": "TBA",
          "location": "TBA",
@@ -29932,7 +28779,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50247",
          "id": "50247",
          "instructor": "TBA",
          "location": "TBA",
@@ -29961,7 +28807,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "53027",
          "id": "53027",
          "instructor": "Mordechai Arnold Becher",
          "location": "TBA",
@@ -29987,7 +28832,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50558",
          "id": "50558",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 601",
@@ -30013,7 +28857,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50558",
          "id": "50558",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 601",
@@ -30037,7 +28880,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50248",
          "id": "50248",
          "instructor": "TBA",
          "location": "TBA",
@@ -30061,7 +28903,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50249",
          "id": "50249",
          "instructor": "TBA",
          "location": "TBA",
@@ -30085,7 +28926,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50250",
          "id": "50250",
          "instructor": "TBA",
          "location": "TBA",
@@ -30109,7 +28949,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50323",
          "id": "50323",
          "instructor": "TBA",
          "location": "TBA",
@@ -30133,7 +28972,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50147",
          "id": "50147",
          "instructor": "TBA",
          "location": "TBA",
@@ -30157,7 +28995,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50152",
          "id": "50152",
          "instructor": "TBA",
          "location": "TBA",
@@ -30181,7 +29018,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50251",
          "id": "50251",
          "instructor": "TBA",
          "location": "TBA",
@@ -30205,7 +29041,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50084",
          "id": "50084",
          "instructor": "TBA",
          "location": "TBA",
@@ -30229,7 +29064,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50085",
          "id": "50085",
          "instructor": "TBA",
          "location": "TBA",
@@ -30253,7 +29087,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50086",
          "id": "50086",
          "instructor": "TBA",
          "location": "TBA",
@@ -30277,7 +29110,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50252",
          "id": "50252",
          "instructor": "TBA",
          "location": "TBA",
@@ -30301,7 +29133,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50253",
          "id": "50253",
          "instructor": "TBA",
          "location": "TBA",
@@ -30325,7 +29156,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50254",
          "id": "50254",
          "instructor": "TBA",
          "location": "TBA",
@@ -30349,7 +29179,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50329",
          "id": "50329",
          "instructor": "TBA",
          "location": "TBA",
@@ -30373,7 +29202,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50255",
          "id": "50255",
          "instructor": "TBA",
          "location": "TBA",
@@ -30400,7 +29228,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51690",
          "id": "51690",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -30427,7 +29254,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51704",
          "id": "51704",
          "instructor": "Gideon I. Shloush",
          "location": "TBA",
@@ -30451,7 +29277,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50256",
          "id": "50256",
          "instructor": "TBA",
          "location": "TBA",
@@ -30475,7 +29300,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50087",
          "id": "50087",
          "instructor": "TBA",
          "location": "TBA",
@@ -30501,7 +29325,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "51700",
          "id": "51700",
          "instructor": "Elchanan A. Adler",
          "location": "TBA",
@@ -30525,7 +29348,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50291",
          "id": "50291",
          "instructor": "TBA",
          "location": "TBA",
@@ -30549,7 +29371,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50305",
          "id": "50305",
          "instructor": "TBA",
          "location": "TBA",
@@ -30573,7 +29394,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50272",
          "id": "50272",
          "instructor": "TBA",
          "location": "TBA",
@@ -30597,7 +29417,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50161",
          "id": "50161",
          "instructor": "TBA",
          "location": "TBA",
@@ -30621,7 +29440,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50320",
          "id": "50320",
          "instructor": "TBA",
          "location": "TBA",
@@ -30645,7 +29463,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50257",
          "id": "50257",
          "instructor": "TBA",
          "location": "TBA",
@@ -30671,7 +29488,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "51696",
          "id": "51696",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -30697,7 +29513,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51696",
          "id": "51696",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -30721,7 +29536,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50088",
          "id": "50088",
          "instructor": "TBA",
          "location": "TBA",
@@ -30745,7 +29559,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50089",
          "id": "50089",
          "instructor": "TBA",
          "location": "TBA",
@@ -30769,7 +29582,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50090",
          "id": "50090",
          "instructor": "TBA",
          "location": "TBA",
@@ -30793,7 +29605,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50091",
          "id": "50091",
          "instructor": "TBA",
          "location": "TBA",
@@ -30820,7 +29631,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50717",
          "id": "50717",
          "instructor": "Saul J. Berman",
          "location": "SCW 418",
@@ -30844,7 +29654,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50027",
          "id": "50027",
          "instructor": "TBA",
          "location": "TBA",
@@ -30868,7 +29677,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50092",
          "id": "50092",
          "instructor": "TBA",
          "location": "TBA",
@@ -30895,7 +29703,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51701",
          "id": "51701",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -30922,7 +29729,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51705",
          "id": "51705",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -30946,7 +29752,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50258",
          "id": "50258",
          "instructor": "TBA",
          "location": "TBA",
@@ -30975,7 +29780,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52527",
          "id": "52527",
          "instructor": "Gabriel S. Danieli",
          "location": "TBA",
@@ -30999,7 +29803,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50259",
          "id": "50259",
          "instructor": "TBA",
          "location": "TBA",
@@ -31025,7 +29828,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "51706",
          "id": "51706",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -31054,7 +29856,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52521",
          "id": "52521",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -31078,7 +29879,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50306",
          "id": "50306",
          "instructor": "TBA",
          "location": "TBA",
@@ -31102,7 +29902,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50093",
          "id": "50093",
          "instructor": "TBA",
          "location": "TBA",
@@ -31126,7 +29925,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50094",
          "id": "50094",
          "instructor": "TBA",
          "location": "TBA",
@@ -31150,7 +29948,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50260",
          "id": "50260",
          "instructor": "TBA",
          "location": "TBA",
@@ -31174,7 +29971,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50206",
          "id": "50206",
          "instructor": "TBA",
          "location": "TBA",
@@ -31198,7 +29994,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50141",
          "id": "50141",
          "instructor": "TBA",
          "location": "TBA",
@@ -31222,7 +30017,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50201",
          "id": "50201",
          "instructor": "TBA",
          "location": "TBA",
@@ -31249,7 +30043,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50956",
          "id": "50956",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -31273,7 +30066,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50261",
          "id": "50261",
          "instructor": "TBA",
          "location": "TBA",
@@ -31297,7 +30089,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50262",
          "id": "50262",
          "instructor": "TBA",
          "location": "TBA",
@@ -31324,7 +30115,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:00",
-         "_id": "50556",
          "id": "50556",
          "instructor": "Moshe Y. Kahn",
          "location": "SCW 406",
@@ -31348,7 +30138,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50095",
          "id": "50095",
          "instructor": "TBA",
          "location": "TBA",
@@ -31372,7 +30161,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50096",
          "id": "50096",
          "instructor": "TBA",
          "location": "TBA",
@@ -31396,7 +30184,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50159",
          "id": "50159",
          "instructor": "TBA",
          "location": "TBA",
@@ -31423,7 +30210,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51707",
          "id": "51707",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -31450,7 +30236,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:20",
-         "_id": "51707",
          "id": "51707",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -31476,7 +30261,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51708",
          "id": "51708",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -31503,7 +30287,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50782",
          "id": "50782",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -31527,7 +30310,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50263",
          "id": "50263",
          "instructor": "TBA",
          "location": "TBA",
@@ -31551,7 +30333,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50097",
          "id": "50097",
          "instructor": "TBA",
          "location": "TBA",
@@ -31575,7 +30356,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50264",
          "id": "50264",
          "instructor": "TBA",
          "location": "TBA",
@@ -31599,7 +30379,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50311",
          "id": "50311",
          "instructor": "TBA",
          "location": "TBA",
@@ -31623,7 +30402,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50310",
          "id": "50310",
          "instructor": "TBA",
          "location": "TBA",
@@ -31647,7 +30425,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50309",
          "id": "50309",
          "instructor": "TBA",
          "location": "TBA",
@@ -31671,7 +30448,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50308",
          "id": "50308",
          "instructor": "TBA",
          "location": "TBA",
@@ -31695,7 +30471,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50307",
          "id": "50307",
          "instructor": "TBA",
          "location": "TBA",
@@ -31724,7 +30499,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "51420",
          "id": "51420",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "TBA",
@@ -31753,7 +30527,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "8:55",
-         "_id": "51421",
          "id": "51421",
          "instructor": "Joseph Kalinsky",
          "location": "TBA",
@@ -31782,7 +30555,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "51426",
          "id": "51426",
          "instructor": "Reuven Fink",
          "location": "TBA",
@@ -31806,7 +30578,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50139",
          "id": "50139",
          "instructor": "TBA",
          "location": "TBA",
@@ -31830,7 +30601,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50292",
          "id": "50292",
          "instructor": "TBA",
          "location": "TBA",
@@ -31857,7 +30627,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51424",
          "id": "51424",
          "instructor": "Howard L. Packer",
          "location": "TBA",
@@ -31884,7 +30653,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "51709",
          "id": "51709",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -31908,7 +30676,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50349",
          "id": "50349",
          "instructor": "TBA",
          "location": "TBA",
@@ -31932,7 +30699,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50350",
          "id": "50350",
          "instructor": "TBA",
          "location": "TBA",
@@ -31956,7 +30722,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50351",
          "id": "50351",
          "instructor": "TBA",
          "location": "TBA",
@@ -31980,7 +30745,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50364",
          "id": "50364",
          "instructor": "TBA",
          "location": "TBA",
@@ -32004,7 +30768,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50023",
          "id": "50023",
          "instructor": "TBA",
          "location": "TBA",
@@ -32028,7 +30791,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50155",
          "id": "50155",
          "instructor": "TBA",
          "location": "TBA",
@@ -32058,7 +30820,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52022",
          "id": "52022",
          "instructor": "Eric E. Bouhassira",
          "location": "TBA",
@@ -32088,7 +30849,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52023",
          "id": "52023",
          "instructor": "Kami Kim",
          "location": "TBA",
@@ -32118,7 +30878,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52024",
          "id": "52024",
          "instructor": "Steven C. Almo",
          "location": "TBA",
@@ -32148,7 +30907,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52025",
          "id": "52025",
          "instructor": "Jonathan M. Backer",
          "location": "TBA",
@@ -32178,7 +30936,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52026",
          "id": "52026",
          "instructor": "Nicholas E. Baker",
          "location": "TBA",
@@ -32208,7 +30965,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52027",
          "id": "52027",
          "instructor": "William R. Jacobs",
          "location": "TBA",
@@ -32238,7 +30994,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52028",
          "id": "52028",
          "instructor": "Ganjam Kalpana",
          "location": "TBA",
@@ -32268,7 +31023,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52029",
          "id": "52029",
          "instructor": "Richard N. Kitsis",
          "location": "TBA",
@@ -32298,7 +31052,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52030",
          "id": "52030",
          "instructor": "Sunhee C. Lee",
          "location": "TBA",
@@ -32328,7 +31081,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52031",
          "id": "52031",
          "instructor": "Yinghao Wu",
          "location": "TBA",
@@ -32358,7 +31110,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52032",
          "id": "52032",
          "instructor": "John S. Blanchard",
          "location": "TBA",
@@ -32388,7 +31139,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52033",
          "id": "52033",
          "instructor": "Michael D. Brenowitz",
          "location": "TBA",
@@ -32418,7 +31168,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52035",
          "id": "52035",
          "instructor": "Jurgen Brojatsch",
          "location": "TBA",
@@ -32448,7 +31197,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52036",
          "id": "52036",
          "instructor": "Mark F. Mehler",
          "location": "TBA",
@@ -32478,7 +31226,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52037",
          "id": "52037",
          "instructor": "Robert D. Burk",
          "location": "TBA",
@@ -32508,7 +31255,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52038",
          "id": "52038",
          "instructor": "TBA",
          "location": "TBA",
@@ -32538,7 +31284,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52039",
          "id": "52039",
          "instructor": "Arturo Casadevall",
          "location": "TBA",
@@ -32568,7 +31313,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52040",
          "id": "52040",
          "instructor": "John Chan",
          "location": "TBA",
@@ -32598,7 +31342,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52042",
          "id": "52042",
          "instructor": "Steven A. Porcelli",
          "location": "TBA",
@@ -32628,7 +31371,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52043",
          "id": "52043",
          "instructor": "Vinayaka R. Prasad",
          "location": "TBA",
@@ -32658,7 +31400,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52044",
          "id": "52044",
          "instructor": "Maureen J. Charron",
          "location": "TBA",
@@ -32688,7 +31429,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52045",
          "id": "52045",
          "instructor": "Chaim Putterman",
          "location": "TBA",
@@ -32718,7 +31458,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52046",
          "id": "52046",
          "instructor": "Chi-Wing Chow",
          "location": "TBA",
@@ -32748,7 +31487,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52047",
          "id": "52047",
          "instructor": "Charles C. Query",
          "location": "TBA",
@@ -32778,7 +31516,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52048",
          "id": "52048",
          "instructor": "Denis L. Rousseau",
          "location": "TBA",
@@ -32808,7 +31545,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52049",
          "id": "52049",
          "instructor": "John Condeelis",
          "location": "TBA",
@@ -32838,7 +31574,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52050",
          "id": "52050",
          "instructor": "Charles Rubin",
          "location": "TBA",
@@ -32868,7 +31603,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52051",
          "id": "52051",
          "instructor": "Luciano D'Adamio",
          "location": "TBA",
@@ -32898,7 +31632,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52054",
          "id": "52054",
          "instructor": "Eliana Scemes",
          "location": "TBA",
@@ -32928,7 +31661,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52056",
          "id": "52056",
          "instructor": "Carl L. Schildkraut",
          "location": "TBA",
@@ -32958,7 +31690,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52057",
          "id": "52057",
          "instructor": "Teresa P. DiLorenzo",
          "location": "TBA",
@@ -32988,7 +31719,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52058",
          "id": "52058",
          "instructor": "Winfried Edelmann",
          "location": "TBA",
@@ -33018,7 +31748,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52059",
          "id": "52059",
          "instructor": "Scott Emmons",
          "location": "TBA",
@@ -33048,7 +31777,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52060",
          "id": "52060",
          "instructor": "Jessica Mar",
          "location": "TBA",
@@ -33078,7 +31806,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52061",
          "id": "52061",
          "instructor": "Jeffrey E. Segall",
          "location": "TBA",
@@ -33108,7 +31835,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52062",
          "id": "52062",
          "instructor": "Bridget Shafit Zagardo",
          "location": "TBA",
@@ -33138,7 +31864,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52063",
          "id": "52063",
          "instructor": "Lloyd D. Fricker",
          "location": "TBA",
@@ -33168,7 +31893,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52064",
          "id": "52064",
          "instructor": "Joel M. Friedman",
          "location": "TBA",
@@ -33198,7 +31922,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52065",
          "id": "52065",
          "instructor": "Gary J. Gerfen",
          "location": "TBA",
@@ -33228,7 +31951,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52066",
          "id": "52066",
          "instructor": "Robert H. Singer",
          "location": "TBA",
@@ -33258,7 +31980,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52067",
          "id": "52067",
          "instructor": "Mark E. Girvin",
          "location": "TBA",
@@ -33288,7 +32009,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52068",
          "id": "52068",
          "instructor": "Harris Goldstein",
          "location": "TBA",
@@ -33318,7 +32038,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52069",
          "id": "52069",
          "instructor": "Arthur I. Skoultchi",
          "location": "TBA",
@@ -33348,7 +32067,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52070",
          "id": "52070",
          "instructor": "David C. Spray",
          "location": "TBA",
@@ -33378,7 +32096,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52071",
          "id": "52071",
          "instructor": "E. Richard Stanley",
          "location": "TBA",
@@ -33408,7 +32125,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52072",
          "id": "52072",
          "instructor": "Pamela M. Stanley",
          "location": "TBA",
@@ -33438,7 +32154,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52073",
          "id": "52073",
          "instructor": "John Greally",
          "location": "TBA",
@@ -33468,7 +32183,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52074",
          "id": "52074",
          "instructor": "Noboru Hiroi",
          "location": "TBA",
@@ -33498,7 +32212,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52075",
          "id": "52075",
          "instructor": "Vytautas Verselis",
          "location": "TBA",
@@ -33528,7 +32241,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52077",
          "id": "52077",
          "instructor": "Louis M. Weiss",
          "location": "TBA",
@@ -33558,7 +32270,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52078",
          "id": "52078",
          "instructor": "Ian M. Willis",
          "location": "TBA",
@@ -33588,7 +32299,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52079",
          "id": "52079",
          "instructor": "Rhoda E. Hirsch",
          "location": "TBA",
@@ -33618,7 +32328,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52080",
          "id": "52080",
          "instructor": "Duncan W. Wilson",
          "location": "TBA",
@@ -33648,7 +32357,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52081",
          "id": "52081",
          "instructor": "Allan W. Wolkoff",
          "location": "TBA",
@@ -33678,7 +32386,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52082",
          "id": "52082",
          "instructor": "Bihui H. Ye",
          "location": "TBA",
@@ -33708,7 +32415,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52083",
          "id": "52083",
          "instructor": "Susan Band Horwitz",
          "location": "TBA",
@@ -33738,7 +32444,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52084",
          "id": "52084",
          "instructor": "Syun-Ru Yeh",
          "location": "TBA",
@@ -33768,7 +32473,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52085",
          "id": "52085",
          "instructor": "Liang Zhu",
          "location": "TBA",
@@ -33798,7 +32502,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52086",
          "id": "52086",
          "instructor": "Ales Cvekl",
          "location": "TBA",
@@ -33828,7 +32531,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52087",
          "id": "52087",
          "instructor": "R. Suzanne Zukin",
          "location": "TBA",
@@ -33858,7 +32560,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52088",
          "id": "52088",
          "instructor": "U. Thomas Meier",
          "location": "TBA",
@@ -33888,7 +32589,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52089",
          "id": "52089",
          "instructor": "Bernice Eileen Morrow",
          "location": "TBA",
@@ -33918,7 +32618,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52090",
          "id": "52090",
          "instructor": "Myles Akabas",
          "location": "TBA",
@@ -33948,7 +32647,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52091",
          "id": "52091",
          "instructor": "Ruth Hogue Angeletti",
          "location": "TBA",
@@ -33978,7 +32676,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52092",
          "id": "52092",
          "instructor": "Joseph Arezzo",
          "location": "TBA",
@@ -34008,7 +32705,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52093",
          "id": "52093",
          "instructor": "Thaddeus A. Bargiello",
          "location": "TBA",
@@ -34038,7 +32734,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52094",
          "id": "52094",
          "instructor": "Michael V. Bennett",
          "location": "TBA",
@@ -34068,7 +32763,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52095",
          "id": "52095",
          "instructor": "Joan Weinberger Berman",
          "location": "TBA",
@@ -34098,7 +32792,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52096",
          "id": "52096",
          "instructor": "Barbara K. Birshtein",
          "location": "TBA",
@@ -34128,7 +32821,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52097",
          "id": "52097",
          "instructor": "Anne R. Bresnick",
          "location": "TBA",
@@ -34158,7 +32850,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52098",
          "id": "52098",
          "instructor": "Curtis F. Brewer",
          "location": "TBA",
@@ -34188,7 +32879,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52099",
          "id": "52099",
          "instructor": "Feliksas F. Bukauskas",
          "location": "TBA",
@@ -34218,7 +32908,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52100",
          "id": "52100",
          "instructor": "Pablo E. Castillo",
          "location": "TBA",
@@ -34248,7 +32937,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52101",
          "id": "52101",
          "instructor": "Ana Maria Cuervo",
          "location": "TBA",
@@ -34278,7 +32966,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52102",
          "id": "52102",
          "instructor": "Kostantin Dobrenis",
          "location": "TBA",
@@ -34308,7 +32995,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52103",
          "id": "52103",
          "instructor": "Tanya Dragic",
          "location": "TBA",
@@ -34338,7 +33024,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52104",
          "id": "52104",
          "instructor": "Alan Finkelstein",
          "location": "TBA",
@@ -34368,7 +33053,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52105",
          "id": "52105",
          "instructor": "I. David Goldman",
          "location": "TBA",
@@ -34398,7 +33082,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52106",
          "id": "52106",
          "instructor": "Raj K. Gupta",
          "location": "TBA",
@@ -34428,7 +33111,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52107",
          "id": "52107",
          "instructor": "David H. Hall",
          "location": "TBA",
@@ -34458,7 +33140,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52108",
          "id": "52108",
          "instructor": "Linda A. Jelicks",
          "location": "TBA",
@@ -34488,7 +33169,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52109",
          "id": "52109",
          "instructor": "Kamran Khodakhah",
          "location": "TBA",
@@ -34518,7 +33198,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52110",
          "id": "52110",
          "instructor": "Jayanta Roy-Chowdhury",
          "location": "TBA",
@@ -34548,7 +33227,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52111",
          "id": "52111",
          "instructor": "Namita Roy Chowdhury",
          "location": "TBA",
@@ -34578,7 +33256,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52112",
          "id": "52112",
          "instructor": "Jack Lenz",
          "location": "TBA",
@@ -34608,7 +33285,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52113",
          "id": "52113",
          "instructor": "Joseph Locker",
          "location": "TBA",
@@ -34638,7 +33314,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52114",
          "id": "52114",
          "instructor": "Moshe Sadofsky",
          "location": "TBA",
@@ -34668,7 +33343,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52115",
          "id": "52115",
          "instructor": "Solomon L. Moshe",
          "location": "TBA",
@@ -34698,7 +33372,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52116",
          "id": "52116",
          "instructor": "Amos Z. Orlofsky",
          "location": "TBA",
@@ -34728,7 +33401,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52117",
          "id": "52117",
          "instructor": "Vern L. Schramm",
          "location": "TBA",
@@ -34758,7 +33430,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52118",
          "id": "52118",
          "instructor": "Alberto Pereda",
          "location": "TBA",
@@ -34788,7 +33459,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52119",
          "id": "52119",
          "instructor": "David A. Shafritz",
          "location": "TBA",
@@ -34818,7 +33488,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52120",
          "id": "52120",
          "instructor": "Charles E. Rogler",
          "location": "TBA",
@@ -34848,7 +33517,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52121",
          "id": "52121",
          "instructor": "Hernando J. Sosa",
          "location": "TBA",
@@ -34878,7 +33546,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52122",
          "id": "52122",
          "instructor": "Howard Mark Steinman",
          "location": "TBA",
@@ -34908,7 +33575,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52123",
          "id": "52123",
          "instructor": "Mitchell Steinschneider",
          "location": "TBA",
@@ -34938,7 +33604,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52124",
          "id": "52124",
          "instructor": "Herbert B. Tanowitz",
          "location": "TBA",
@@ -34968,7 +33633,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52125",
          "id": "52125",
          "instructor": "Steven Walkley",
          "location": "TBA",
@@ -34998,7 +33662,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52127",
          "id": "52127",
          "instructor": "Margaret C. Kielian",
          "location": "TBA",
@@ -35028,7 +33691,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52128",
          "id": "52128",
          "instructor": "Dianne Cox",
          "location": "TBA",
@@ -35058,7 +33720,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52129",
          "id": "52129",
          "instructor": "Robert Callender",
          "location": "TBA",
@@ -35088,7 +33749,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52130",
          "id": "52130",
          "instructor": "Marta L. Feldmesser",
          "location": "TBA",
@@ -35118,7 +33778,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52131",
          "id": "52131",
          "instructor": "Huan Huang",
          "location": "TBA",
@@ -35148,7 +33807,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52132",
          "id": "52132",
          "instructor": "Thomas V. McDonald",
          "location": "TBA",
@@ -35178,7 +33836,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52133",
          "id": "52133",
          "instructor": "Michael B. Prystowsky",
          "location": "TBA",
@@ -35208,7 +33865,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52134",
          "id": "52134",
          "instructor": "Liise-anne Pirofski",
          "location": "TBA",
@@ -35238,7 +33894,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52135",
          "id": "52135",
          "instructor": "David Sharp",
          "location": "TBA",
@@ -35268,7 +33923,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52136",
          "id": "52136",
          "instructor": "Fernando Macian",
          "location": "TBA",
@@ -35298,7 +33952,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52138",
          "id": "52138",
          "instructor": "Andras Fiser",
          "location": "TBA",
@@ -35328,7 +33981,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52139",
          "id": "52139",
          "instructor": "Jean M. Hebert",
          "location": "TBA",
@@ -35358,7 +34010,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52141",
          "id": "52141",
          "instructor": "Rachel Hazan",
          "location": "TBA",
@@ -35388,7 +34039,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52144",
          "id": "52144",
          "instructor": "Elyse Sussman",
          "location": "TBA",
@@ -35418,7 +34068,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52145",
          "id": "52145",
          "instructor": "Laura Santambrogio",
          "location": "TBA",
@@ -35448,7 +34097,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52175",
          "id": "52175",
          "instructor": "Hannes E. Buelow",
          "location": "TBA",
@@ -35478,7 +34126,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52176",
          "id": "52176",
          "instructor": "Streamson Coo Chua",
          "location": "TBA",
@@ -35508,7 +34155,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52178",
          "id": "52178",
          "instructor": "Adam Kohn",
          "location": "TBA",
@@ -35538,7 +34184,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52179",
          "id": "52179",
          "instructor": "Cristina Montagna",
          "location": "TBA",
@@ -35568,7 +34213,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52180",
          "id": "52180",
          "instructor": "Joshua D. Nosanchuk",
          "location": "TBA",
@@ -35598,7 +34242,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52181",
          "id": "52181",
          "instructor": "Ben Ovryn",
          "location": "TBA",
@@ -35628,7 +34271,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52182",
          "id": "52182",
          "instructor": "Jose Luis Pena",
          "location": "TBA",
@@ -35658,7 +34300,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52183",
          "id": "52183",
          "instructor": "Nicholas E. S. Sibinga",
          "location": "TBA",
@@ -35688,7 +34329,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52185",
          "id": "52185",
          "instructor": "Ji Ying Sze",
          "location": "TBA",
@@ -35718,7 +34358,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52188",
          "id": "52188",
          "instructor": "Julia H. Arnsten",
          "location": "TBA",
@@ -35748,7 +34387,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52203",
          "id": "52203",
          "instructor": "Nir Barzilai",
          "location": "TBA",
@@ -35778,7 +34416,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52206",
          "id": "52206",
          "instructor": "Mark H. Einstein",
          "location": "TBA",
@@ -35808,7 +34445,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52208",
          "id": "52208",
          "instructor": "Chandan Guha",
          "location": "TBA",
@@ -35838,7 +34474,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52211",
          "id": "52211",
          "instructor": "Robert Kaplan",
          "location": "TBA",
@@ -35868,7 +34503,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52214",
          "id": "52214",
          "instructor": "Hayley M. McDaid",
          "location": "TBA",
@@ -35898,7 +34532,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52217",
          "id": "52217",
          "instructor": "Mimi Kim",
          "location": "TBA",
@@ -35928,7 +34561,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52220",
          "id": "52220",
          "instructor": "Richard B. Lipton",
          "location": "TBA",
@@ -35958,7 +34590,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52223",
          "id": "52223",
          "instructor": "Ruth Macklin",
          "location": "TBA",
@@ -35988,7 +34619,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52229",
          "id": "52229",
          "instructor": "Aviv Bergman",
          "location": "TBA",
@@ -36018,7 +34648,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52231",
          "id": "52231",
          "instructor": "Dmitry Fyodorov",
          "location": "TBA",
@@ -36048,7 +34677,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52234",
          "id": "52234",
          "instructor": "Thomas Edward Rohan",
          "location": "TBA",
@@ -36078,7 +34706,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52237",
          "id": "52237",
          "instructor": "Victor L. Schuster",
          "location": "TBA",
@@ -36108,7 +34735,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52238",
          "id": "52238",
          "instructor": "Howard D. Strickler",
          "location": "TBA",
@@ -36138,7 +34764,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52239",
          "id": "52239",
          "instructor": "Vladislav Verkhusha",
          "location": "TBA",
@@ -36168,7 +34793,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52242",
          "id": "52242",
          "instructor": "Elizabeth A. Walker",
          "location": "TBA",
@@ -36198,7 +34822,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52243",
          "id": "52243",
          "instructor": "Sylvia Wassertheil-Smoller",
          "location": "TBA",
@@ -36228,7 +34851,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52244",
          "id": "52244",
          "instructor": "Judith Wylie-Rosett",
          "location": "TBA",
@@ -36258,7 +34880,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52245",
          "id": "52245",
          "instructor": "Daniel A. Weiser",
          "location": "TBA",
@@ -36288,7 +34909,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52247",
          "id": "52247",
          "instructor": "Amit Kumar Verma",
          "location": "TBA",
@@ -36318,7 +34938,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52250",
          "id": "52250",
          "instructor": "Ellie E. Schoenbaum",
          "location": "TBA",
@@ -36348,7 +34967,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52253",
          "id": "52253",
          "instructor": "Kartik Chandran",
          "location": "TBA",
@@ -36378,7 +34996,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52257",
          "id": "52257",
          "instructor": "Sridhar Mani",
          "location": "TBA",
@@ -36408,7 +35025,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52259",
          "id": "52259",
          "instructor": "Yousin Suh",
          "location": "TBA",
@@ -36438,7 +35054,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52268",
          "id": "52268",
          "instructor": "Gary Jordan Schwartz",
          "location": "TBA",
@@ -36468,7 +35083,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52275",
          "id": "52275",
          "instructor": "Michael Brownlee",
          "location": "TBA",
@@ -36498,7 +35112,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52278",
          "id": "52278",
          "instructor": "Aristea Stavrou Galanopoulou",
          "location": "TBA",
@@ -36528,7 +35141,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52281",
          "id": "52281",
          "instructor": "Richard Gorlick",
          "location": "TBA",
@@ -36558,7 +35170,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52284",
          "id": "52284",
          "instructor": "Claudia Gravekamp",
          "location": "TBA",
@@ -36588,7 +35199,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52287",
          "id": "52287",
          "instructor": "Louis Hodgson",
          "location": "TBA",
@@ -36618,7 +35228,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52290",
          "id": "52290",
          "instructor": "Bryen A. Jordan",
          "location": "TBA",
@@ -36648,7 +35257,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52293",
          "id": "52293",
          "instructor": "Paraic A. Kenny",
          "location": "TBA",
@@ -36678,7 +35286,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52296",
          "id": "52296",
          "instructor": "Anna Francesconi",
          "location": "TBA",
@@ -36708,7 +35315,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52298",
          "id": "52298",
          "instructor": "Anne Muesch",
          "location": "TBA",
@@ -36738,7 +35344,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52301",
          "id": "52301",
          "instructor": "Saleem M. Nicola",
          "location": "TBA",
@@ -36768,7 +35373,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52303",
          "id": "52303",
          "instructor": "Jon Lai",
          "location": "TBA",
@@ -36798,7 +35402,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52304",
          "id": "52304",
          "instructor": "Andreas Jenny",
          "location": "TBA",
@@ -36828,7 +35431,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52307",
          "id": "52307",
          "instructor": "Matthew Levy",
          "location": "TBA",
@@ -36858,7 +35460,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52308",
          "id": "52308",
          "instructor": "Florence L. Marlow",
          "location": "TBA",
@@ -36888,7 +35489,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52311",
          "id": "52311",
          "instructor": "Ulrich Steidl",
          "location": "TBA",
@@ -36918,7 +35518,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52314",
          "id": "52314",
          "instructor": "Jan Vijg",
          "location": "TBA",
@@ -36948,7 +35547,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52317",
          "id": "52317",
          "instructor": "XingXing Zang",
          "location": "TBA",
@@ -36978,7 +35576,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52324",
          "id": "52324",
          "instructor": "Bin Zhou",
          "location": "TBA",
@@ -37008,7 +35605,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52328",
          "id": "52328",
          "instructor": "Antonio Di Cristofano",
          "location": "TBA",
@@ -37038,7 +35634,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52336",
          "id": "52336",
          "instructor": "Ilir Agalliu",
          "location": "TBA",
@@ -37068,7 +35663,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52339",
          "id": "52339",
          "instructor": "Dongsheng Cai",
          "location": "TBA",
@@ -37098,7 +35692,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52342",
          "id": "52342",
          "instructor": "Johanna P. Daily",
          "location": "TBA",
@@ -37128,7 +35721,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52345",
          "id": "52345",
          "instructor": "Matthew J. Gamble",
          "location": "TBA",
@@ -37158,7 +35750,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52348",
          "id": "52348",
          "instructor": "Arne Gennerich",
          "location": "TBA",
@@ -37188,7 +35779,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52351",
          "id": "52351",
          "instructor": "Betsy Herold",
          "location": "TBA",
@@ -37218,7 +35808,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52354",
          "id": "52354",
          "instructor": "Gregoire S. Lauvau",
          "location": "TBA",
@@ -37248,7 +35837,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52357",
          "id": "52357",
          "instructor": "Jeffrey Pessin",
          "location": "TBA",
@@ -37278,7 +35866,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52360",
          "id": "52360",
          "instructor": "Bruce D. Rapkin",
          "location": "TBA",
@@ -37308,7 +35895,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52363",
          "id": "52363",
          "instructor": "Julie Secombe",
          "location": "TBA",
@@ -37338,7 +35924,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52366",
          "id": "52366",
          "instructor": "Rani S. Sellers",
          "location": "TBA",
@@ -37368,7 +35953,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52369",
          "id": "52369",
          "instructor": "Simon Spivack",
          "location": "TBA",
@@ -37398,7 +35982,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52372",
          "id": "52372",
          "instructor": "Joe Verghese",
          "location": "TBA",
@@ -37428,7 +36011,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52375",
          "id": "52375",
          "instructor": "Fajun Yang",
          "location": "TBA",
@@ -37458,7 +36040,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52378",
          "id": "52378",
          "instructor": "Deyou Zheng",
          "location": "TBA",
@@ -37488,7 +36069,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52381",
          "id": "52381",
          "instructor": "Ertugrul M. Ozbudak",
          "location": "TBA",
@@ -37518,7 +36098,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52385",
          "id": "52385",
          "instructor": "David Shechter",
          "location": "TBA",
@@ -37548,7 +36127,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52390",
          "id": "52390",
          "instructor": "John J. Foxe",
          "location": "TBA",
@@ -37578,7 +36156,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52393",
          "id": "52393",
          "instructor": "Robert A. Coleman",
          "location": "TBA",
@@ -37608,7 +36185,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52396",
          "id": "52396",
          "instructor": "Felipe S. Diaz-Griffero",
          "location": "TBA",
@@ -37638,7 +36214,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52401",
          "id": "52401",
          "instructor": "Glenn J. Fennelly",
          "location": "TBA",
@@ -37668,7 +36243,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52404",
          "id": "52404",
          "instructor": "Wei-Li Liu",
          "location": "TBA",
@@ -37698,7 +36272,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52407",
          "id": "52407",
          "instructor": "Rajat Singh",
          "location": "TBA",
@@ -37728,7 +36301,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52410",
          "id": "52410",
          "instructor": "Herbert Lachman",
          "location": "TBA",
@@ -37758,7 +36330,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52412",
          "id": "52412",
          "instructor": "Harry Ostrer",
          "location": "TBA",
@@ -37788,7 +36359,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52413",
          "id": "52413",
          "instructor": "Sophie Molholm",
          "location": "TBA",
@@ -37818,7 +36388,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52418",
          "id": "52418",
          "instructor": "Zhengdong Zhang",
          "location": "TBA",
@@ -37848,7 +36417,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52421",
          "id": "52421",
          "instructor": "Paul S. Frenette",
          "location": "TBA",
@@ -37878,7 +36446,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52422",
          "id": "52422",
          "instructor": "Fred Alexander Lado",
          "location": "TBA",
@@ -37908,7 +36475,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52426",
          "id": "52426",
          "instructor": "Mahalia S. Desruisseaux",
          "location": "TBA",
@@ -37938,7 +36504,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52431",
          "id": "52431",
          "instructor": "Wenjun Guo",
          "location": "TBA",
@@ -37968,7 +36533,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52433",
          "id": "52433",
          "instructor": "David Cowburn",
          "location": "TBA",
@@ -37998,7 +36562,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52435",
          "id": "52435",
          "instructor": "Evripidis Gavathiotis",
          "location": "TBA",
@@ -38028,7 +36591,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52451",
          "id": "52451",
          "instructor": "Michael Aschner",
          "location": "TBA",
@@ -38058,7 +36620,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52454",
          "id": "52454",
          "instructor": "Gil Atzmon",
          "location": "TBA",
@@ -38088,7 +36649,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52457",
          "id": "52457",
          "instructor": "David R. Fooksman",
          "location": "TBA",
@@ -38118,7 +36678,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52459",
          "id": "52459",
          "instructor": "Teresa V. Bowman",
          "location": "TBA",
@@ -38148,7 +36707,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52462",
          "id": "52462",
          "instructor": "Keisuke Ito",
          "location": "TBA",
@@ -38178,7 +36736,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52473",
          "id": "52473",
          "instructor": "Derek Huffman",
          "location": "TBA",
@@ -38208,7 +36765,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52475",
          "id": "52475",
          "instructor": "Libusha Kelly",
          "location": "TBA",
@@ -38238,7 +36794,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52477",
          "id": "52477",
          "instructor": "Michael Lipton",
          "location": "TBA",
@@ -38268,7 +36823,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "",
-         "_id": "52480",
          "id": "52480",
          "instructor": "Wei Liu",
          "location": "TBA",
@@ -38294,7 +36848,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:54",
-         "_id": "52956",
          "id": "52956",
          "instructor": "Leslie S. Newman",
          "location": "TBA",
@@ -38318,7 +36871,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "53006",
          "id": "53006",
          "instructor": "TBA",
          "location": "TBA",
@@ -38342,7 +36894,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "53007",
          "id": "53007",
          "instructor": "TBA",
          "location": "TBA",
@@ -38368,7 +36919,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:09",
-         "_id": "53008",
          "id": "53008",
          "instructor": "Mary F. Alestra",
          "location": "TBA",
@@ -38394,7 +36944,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "53009",
          "id": "53009",
          "instructor": "Marshall Bellovin",
          "location": "TBA",
@@ -38420,7 +36969,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:54",
-         "_id": "53010",
          "id": "53010",
          "instructor": "Ralph Fabrizio",
          "location": "TBA",
@@ -38446,7 +36994,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "53012",
          "id": "53012",
          "instructor": "Caroline Levy",
          "location": "TBA",
@@ -38472,7 +37019,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:54",
-         "_id": "53013",
          "id": "53013",
          "instructor": "Michael Pantazakos",
          "location": "TBA",
@@ -38500,7 +37046,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:54",
-         "_id": "53019",
          "id": "53019",
          "instructor": "Jonathan G. Rohr",
          "location": "TBA",
@@ -38527,7 +37072,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:24",
-         "_id": "53020",
          "id": "53020",
          "instructor": "Jonathan G. Rohr",
          "location": "TBA",
@@ -38553,7 +37097,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:54",
-         "_id": "53020",
          "id": "53020",
          "instructor": "Jonathan G. Rohr",
          "location": "TBA",
@@ -38580,7 +37123,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:51",
-         "_id": "53021",
          "id": "53021",
          "instructor": "Mitchell Engler",
          "location": "TBA",
@@ -38607,7 +37149,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:24",
-         "_id": "53022",
          "id": "53022",
          "instructor": "Kyron Huigens",
          "location": "TBA",
@@ -38633,7 +37174,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:54",
-         "_id": "53022",
          "id": "53022",
          "instructor": "Kyron Huigens",
          "location": "TBA",
@@ -38660,7 +37200,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "53023",
          "id": "53023",
          "instructor": "Kendea Johnson",
          "location": "TBA",
@@ -38687,7 +37226,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "53024",
          "id": "53024",
          "instructor": "Ekow Yankah",
          "location": "TBA",
@@ -38714,7 +37252,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:54",
-         "_id": "53025",
          "id": "53025",
          "instructor": "TBA",
          "location": "TBA",
@@ -38740,7 +37277,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:54",
-         "_id": "53025",
          "id": "53025",
          "instructor": "TBA",
          "location": "TBA",
@@ -38768,7 +37304,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:54",
-         "_id": "53026",
          "id": "53026",
          "instructor": "Stewart E. Sterk",
          "location": "TBA",
@@ -38794,7 +37329,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:54",
-         "_id": "53026",
          "id": "53026",
          "instructor": "Stewart E. Sterk",
          "location": "TBA",
@@ -38820,7 +37354,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "53026",
          "id": "53026",
          "instructor": "Stewart E. Sterk",
          "location": "TBA",
@@ -38847,7 +37380,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "53014",
          "id": "53014",
          "instructor": "Michelle Adams",
          "location": "TBA",
@@ -38873,7 +37405,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:54",
-         "_id": "53014",
          "id": "53014",
          "instructor": "Michelle Adams",
          "location": "TBA",
@@ -38901,7 +37432,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:54",
-         "_id": "53015",
          "id": "53015",
          "instructor": "Michelle Adams",
          "location": "TBA",
@@ -38928,7 +37458,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "53016",
          "id": "53016",
          "instructor": "Deborah Pearlstein",
          "location": "TBA",
@@ -38954,7 +37483,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:54",
-         "_id": "53016",
          "id": "53016",
          "instructor": "Deborah Pearlstein",
          "location": "TBA",
@@ -38981,7 +37509,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:24",
-         "_id": "53017",
          "id": "53017",
          "instructor": "Michel Rosenfeld",
          "location": "TBA",
@@ -39007,7 +37534,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:54",
-         "_id": "53017",
          "id": "53017",
          "instructor": "Michel Rosenfeld",
          "location": "TBA",
@@ -39034,7 +37560,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "53018",
          "id": "53018",
          "instructor": "Michel Rosenfeld",
          "location": "TBA",
@@ -39060,7 +37585,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "53018",
          "id": "53018",
          "instructor": "Michel Rosenfeld",
          "location": "TBA",
@@ -39086,7 +37610,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:54",
-         "_id": "53081",
          "id": "53081",
          "instructor": "Justin J. Braun",
          "location": "CSL 102",
@@ -39112,7 +37635,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52869",
          "id": "52869",
          "instructor": "Richard Borden, Daniel B. Garrie ",
          "location": "TBA",
@@ -39138,7 +37660,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52817",
          "id": "52817",
          "instructor": "Gary T. Holtzer",
          "location": "TBA",
@@ -39166,7 +37687,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52929",
          "id": "52929",
          "instructor": "Jeanne Schroeder",
          "location": "TBA",
@@ -39193,7 +37713,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:51",
-         "_id": "52834",
          "id": "52834",
          "instructor": "Richard Bierschbach",
          "location": "TBA",
@@ -39219,7 +37738,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:54",
-         "_id": "52834",
          "id": "52834",
          "instructor": "Richard Bierschbach",
          "location": "TBA",
@@ -39246,7 +37764,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "52886",
          "id": "52886",
          "instructor": "Charles M. Yablon",
          "location": "TBA",
@@ -39273,7 +37790,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "52832",
          "id": "52832",
          "instructor": "Jeanne Schroeder",
          "location": "TBA",
@@ -39299,7 +37815,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:54",
-         "_id": "52832",
          "id": "52832",
          "instructor": "Jeanne Schroeder",
          "location": "TBA",
@@ -39327,7 +37842,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:54",
-         "_id": "52870",
          "id": "52870",
          "instructor": "Anthony Sebok",
          "location": "TBA",
@@ -39353,7 +37867,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52838",
          "id": "52838",
          "instructor": "Joseph Greenaway",
          "location": "TBA",
@@ -39379,7 +37892,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52833",
          "id": "52833",
          "instructor": "Steven Shane Sparling",
          "location": "TBA",
@@ -39405,7 +37917,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52958",
          "id": "52958",
          "instructor": "Vanessa Potkin, Karen Newirth ",
          "location": "TBA",
@@ -39432,7 +37943,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:54",
-         "_id": "52836",
          "id": "52836",
          "instructor": "Kyron Huigens",
          "location": "TBA",
@@ -39458,7 +37968,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "52836",
          "id": "52836",
          "instructor": "Kyron Huigens",
          "location": "TBA",
@@ -39485,7 +37994,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "52837",
          "id": "52837",
          "instructor": "Malvina Halberstam",
          "location": "TBA",
@@ -39511,7 +38019,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:54",
-         "_id": "52963",
          "id": "52963",
          "instructor": "Carolyn Patty Blum, Jocelyn E. Getgen ",
          "location": "TBA",
@@ -39537,7 +38044,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:45",
-         "_id": "52819",
          "id": "52819",
          "instructor": "Rivka Weill",
          "location": "TBA",
@@ -39564,7 +38070,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52862",
          "id": "52862",
          "instructor": "Ayre Edrei",
          "location": "TBA",
@@ -39590,7 +38095,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52866",
          "id": "52866",
          "instructor": "Edwin Rekosh",
          "location": "TBA",
@@ -39616,7 +38120,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52878",
          "id": "52878",
          "instructor": "Martin Stone",
          "location": "TBA",
@@ -39642,7 +38145,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52930",
          "id": "52930",
          "instructor": "Edward D. Stein",
          "location": "TBA",
@@ -39668,7 +38170,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:54",
-         "_id": "52813",
          "id": "52813",
          "instructor": "Sandra L. Cobden",
          "location": "TBA",
@@ -39695,7 +38196,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:51",
-         "_id": "52820",
          "id": "52820",
          "instructor": "Julie Suk",
          "location": "TBA",
@@ -39721,7 +38221,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "52876",
          "id": "52876",
          "instructor": "Cass D. Matthews",
          "location": "TBA",
@@ -39747,7 +38246,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52877",
          "id": "52877",
          "instructor": "Gabor Rona",
          "location": "TBA",
@@ -39775,7 +38273,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52826",
          "id": "52826",
          "instructor": "Deborah Pearlstein",
          "location": "TBA",
@@ -39801,7 +38298,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52796",
          "id": "52796",
          "instructor": "J. David Bleich",
          "location": "TBA",
@@ -39829,7 +38325,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52858",
          "id": "52858",
          "instructor": "Michelle Adams",
          "location": "TBA",
@@ -39856,7 +38351,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:21",
-         "_id": "52898",
          "id": "52898",
          "instructor": "Burton N. Lipshie",
          "location": "TBA",
@@ -39882,7 +38376,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:54",
-         "_id": "52888",
          "id": "52888",
          "instructor": "Simeon Baum",
          "location": "TBA",
@@ -39909,7 +38402,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:51",
-         "_id": "52889",
          "id": "52889",
          "instructor": "David J. Weisenfeld",
          "location": "TBA",
@@ -39935,7 +38427,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52843",
          "id": "52843",
          "instructor": "David White",
          "location": "TBA",
@@ -39962,7 +38453,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:51",
-         "_id": "52927",
          "id": "52927",
          "instructor": "Elizabeth S. Goldman",
          "location": "TBA",
@@ -39988,7 +38478,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52821",
          "id": "52821",
          "instructor": "Stephen Weiner",
          "location": "TBA",
@@ -40014,7 +38503,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52905",
          "id": "52905",
          "instructor": "Elizabeth S. Goldman, Bennett Ellenbogen ",
          "location": "TBA",
@@ -40040,7 +38528,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:54",
-         "_id": "52907",
          "id": "52907",
          "instructor": "Victoria Kummer, Judith Cohen ",
          "location": "TBA",
@@ -40066,7 +38553,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52908",
          "id": "52908",
          "instructor": "TBA",
          "location": "TBA",
@@ -40092,7 +38578,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52845",
          "id": "52845",
          "instructor": "Curtis Pew",
          "location": "TBA",
@@ -40118,7 +38603,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52928",
          "id": "52928",
          "instructor": "TBA",
          "location": "TBA",
@@ -40145,7 +38629,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:54",
-         "_id": "52854",
          "id": "52854",
          "instructor": "Jessica Ann Roth",
          "location": "TBA",
@@ -40171,7 +38654,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:54",
-         "_id": "52854",
          "id": "52854",
          "instructor": "Jessica Ann Roth",
          "location": "TBA",
@@ -40199,7 +38681,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:24",
-         "_id": "52822",
          "id": "52822",
          "instructor": "Stewart E. Sterk",
          "location": "TBA",
@@ -40225,7 +38706,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:54",
-         "_id": "52803",
          "id": "52803",
          "instructor": "Lela P. Love",
          "location": "TBA",
@@ -40251,7 +38731,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:05",
-         "_id": "52810",
          "id": "52810",
          "instructor": "Donna Erez Navot",
          "location": "TBA",
@@ -40277,7 +38756,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52953",
          "id": "52953",
          "instructor": "Alphonzo Grant",
          "location": "TBA",
@@ -40303,7 +38781,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52949",
          "id": "52949",
          "instructor": "Ben Rubinowitz",
          "location": "TBA",
@@ -40329,7 +38806,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:09",
-         "_id": "52891",
          "id": "52891",
          "instructor": "Ethan Greenberg",
          "location": "TBA",
@@ -40355,7 +38831,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:54",
-         "_id": "52861",
          "id": "52861",
          "instructor": "Gary J. Galperin",
          "location": "TBA",
@@ -40381,7 +38856,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52793",
          "id": "52793",
          "instructor": "Lela P. Love, David J. Weisenfeld ",
          "location": "TBA",
@@ -40407,7 +38881,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52794",
          "id": "52794",
          "instructor": "Lela P. Love, David J. Weisenfeld ",
          "location": "TBA",
@@ -40434,7 +38907,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:51",
-         "_id": "52926",
          "id": "52926",
          "instructor": "Marshall Tracht",
          "location": "TBA",
@@ -40460,7 +38932,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52827",
          "id": "52827",
          "instructor": "Jillian R. Gautier",
          "location": "TBA",
@@ -40486,7 +38957,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:54",
-         "_id": "52828",
          "id": "52828",
          "instructor": "TBA",
          "location": "TBA",
@@ -40512,7 +38982,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52829",
          "id": "52829",
          "instructor": "Mark Levine",
          "location": "TBA",
@@ -40538,7 +39007,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52830",
          "id": "52830",
          "instructor": "TBA",
          "location": "TBA",
@@ -40566,7 +39034,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "52954",
          "id": "52954",
          "instructor": "Laura Cunningham",
          "location": "TBA",
@@ -40592,7 +39059,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52880",
          "id": "52880",
          "instructor": "Richard Weisberg, Michael Pantazakos ",
          "location": "TBA",
@@ -40619,7 +39085,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:21",
-         "_id": "52850",
          "id": "52850",
          "instructor": "Michael Herz",
          "location": "TBA",
@@ -40645,7 +39110,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52887",
          "id": "52887",
          "instructor": "TBA",
          "location": "TBA",
@@ -40671,7 +39135,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52873",
          "id": "52873",
          "instructor": "Barbara Kolsun",
          "location": "TBA",
@@ -40697,7 +39160,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52823",
          "id": "52823",
          "instructor": "Arthur Eisenberg",
          "location": "TBA",
@@ -40723,7 +39185,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52860",
          "id": "52860",
          "instructor": "Richard Weisberg",
          "location": "TBA",
@@ -40751,7 +39212,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52824",
          "id": "52824",
          "instructor": "Richard Weisberg",
          "location": "TBA",
@@ -40778,7 +39238,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:51",
-         "_id": "52825",
          "id": "52825",
          "instructor": "Michel Rosenfeld",
          "location": "TBA",
@@ -40804,7 +39263,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52839",
          "id": "52839",
          "instructor": "Vincent M. Southerland",
          "location": "TBA",
@@ -40830,7 +39288,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:24",
-         "_id": "52972",
          "id": "52972",
          "instructor": "Leslie Salzman, Rebekah Diller ",
          "location": "TBA",
@@ -40857,7 +39314,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:54",
-         "_id": "52792",
          "id": "52792",
          "instructor": "Kate Shaw",
          "location": "TBA",
@@ -40883,7 +39339,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "52792",
          "id": "52792",
          "instructor": "Kate Shaw",
          "location": "TBA",
@@ -40911,7 +39366,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:24",
-         "_id": "52883",
          "id": "52883",
          "instructor": "Kate Shaw",
          "location": "TBA",
@@ -40937,7 +39391,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:54",
-         "_id": "53164",
          "id": "53164",
          "instructor": "Edward Alan Zelinsky",
          "location": "TBA",
@@ -40963,7 +39416,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:54",
-         "_id": "53164",
          "id": "53164",
          "instructor": "Edward Alan Zelinsky",
          "location": "TBA",
@@ -40990,7 +39442,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:54",
-         "_id": "52847",
          "id": "52847",
          "instructor": "Arthur J. Jacobson",
          "location": "TBA",
@@ -41016,7 +39467,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "52847",
          "id": "52847",
          "instructor": "Arthur J. Jacobson",
          "location": "TBA",
@@ -41043,7 +39493,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:51",
-         "_id": "52848",
          "id": "52848",
          "instructor": "Julie Suk",
          "location": "TBA",
@@ -41070,7 +39519,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "52831",
          "id": "52831",
          "instructor": "Christopher J. Buccafusco",
          "location": "TBA",
@@ -41096,7 +39544,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52904",
          "id": "52904",
          "instructor": "Morris Cohen",
          "location": "TBA",
@@ -41122,7 +39569,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:54",
-         "_id": "52947",
          "id": "52947",
          "instructor": "Matthew D. Asbell",
          "location": "TBA",
@@ -41148,7 +39594,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52947",
          "id": "52947",
          "instructor": "Matthew D. Asbell",
          "location": "TBA",
@@ -41174,7 +39619,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52903",
          "id": "52903",
          "instructor": "John Tsavaris",
          "location": "TBA",
@@ -41201,7 +39645,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:21",
-         "_id": "52859",
          "id": "52859",
          "instructor": "Edward Alan Zelinsky",
          "location": "TBA",
@@ -41227,7 +39670,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:54",
-         "_id": "52859",
          "id": "52859",
          "instructor": "Edward Alan Zelinsky",
          "location": "TBA",
@@ -41254,7 +39696,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:51",
-         "_id": "52934",
          "id": "52934",
          "instructor": "Laura Cunningham",
          "location": "TBA",
@@ -41280,7 +39721,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52846",
          "id": "52846",
          "instructor": "Arnold Jacobs",
          "location": "TBA",
@@ -41306,7 +39746,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52933",
          "id": "52933",
          "instructor": "Mitchell Engler",
          "location": "TBA",
@@ -41332,7 +39771,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:54",
-         "_id": "52852",
          "id": "52852",
          "instructor": "William Schwartz",
          "location": "TBA",
@@ -41359,7 +39797,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:21",
-         "_id": "52855",
          "id": "52855",
          "instructor": "Edward D. Stein",
          "location": "TBA",
@@ -41385,7 +39822,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52844",
          "id": "52844",
          "instructor": "Robert Collins",
          "location": "TBA",
@@ -41411,7 +39847,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52893",
          "id": "52893",
          "instructor": "Jaime L. Weiss, Eric Wrubel ",
          "location": "TBA",
@@ -41437,7 +39872,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52982",
          "id": "52982",
          "instructor": "Robert Collins",
          "location": "TBA",
@@ -41463,7 +39897,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52879",
          "id": "52879",
          "instructor": "Laurence Busching",
          "location": "TBA",
@@ -41489,7 +39922,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:54",
-         "_id": "52919",
          "id": "52919",
          "instructor": "Leslie Gerwin",
          "location": "TBA",
@@ -41515,7 +39947,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:57",
-         "_id": "52815",
          "id": "52815",
          "instructor": "TBA",
          "location": "TBA",
@@ -41541,7 +39972,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:05",
-         "_id": "52868",
          "id": "52868",
          "instructor": "TBA",
          "location": "TBA",
@@ -41567,7 +39997,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:54",
-         "_id": "52857",
          "id": "52857",
          "instructor": "Barbara Kolsun",
          "location": "TBA",
@@ -41594,7 +40023,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:54",
-         "_id": "52915",
          "id": "52915",
          "instructor": "J. David Bleich",
          "location": "TBA",
@@ -41621,7 +40049,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:51",
-         "_id": "52914",
          "id": "52914",
          "instructor": "Anthony Sebok",
          "location": "TBA",
@@ -41647,7 +40074,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52853",
          "id": "52853",
          "instructor": "Michael Ross",
          "location": "TBA",
@@ -41673,7 +40099,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:05",
-         "_id": "52864",
          "id": "52864",
          "instructor": "TBA",
          "location": "TBA",
@@ -41699,7 +40124,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:54",
-         "_id": "52856",
          "id": "52856",
          "instructor": "Barbara Kolsun",
          "location": "TBA",
@@ -41725,7 +40149,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:24",
-         "_id": "52985",
          "id": "52985",
          "instructor": "Peter Markowitz",
          "location": "TBA",
@@ -41751,7 +40174,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "9:51",
-         "_id": "52797",
          "id": "52797",
          "instructor": "Carissa J. Vogel",
          "location": "TBA",
@@ -41777,7 +40199,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:51",
-         "_id": "52798",
          "id": "52798",
          "instructor": "Kathryn Mackey, Elizabeth Anne Cook ",
          "location": "TBA",
@@ -41803,7 +40224,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:51",
-         "_id": "52799",
          "id": "52799",
          "instructor": "Carolyn J. Brown, Christine Anne George ",
          "location": "TBA",
@@ -41829,7 +40249,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:51",
-         "_id": "52800",
          "id": "52800",
          "instructor": "Carissa J. Vogel",
          "location": "TBA",
@@ -41855,7 +40274,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:51",
-         "_id": "52801",
          "id": "52801",
          "instructor": "Kathryn Mackey, Elizabeth Anne Cook ",
          "location": "TBA",
@@ -41881,7 +40299,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:51",
-         "_id": "52802",
          "id": "52802",
          "instructor": "Carolyn J. Brown, Christine Anne George ",
          "location": "TBA",
@@ -41907,7 +40324,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52885",
          "id": "52885",
          "instructor": "TBA",
          "location": "TBA",
@@ -41933,7 +40349,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52812",
          "id": "52812",
          "instructor": "Malvina Halberstam",
          "location": "TBA",
@@ -41960,7 +40375,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:54",
-         "_id": "52975",
          "id": "52975",
          "instructor": "Betsy Ginsberg",
          "location": "TBA",
@@ -41986,7 +40400,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:05",
-         "_id": "52842",
          "id": "52842",
          "instructor": "Anna L. MacCormack",
          "location": "TBA",
@@ -42012,7 +40425,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:54",
-         "_id": "52892",
          "id": "52892",
          "instructor": "Robert Collins",
          "location": "TBA",
@@ -42038,7 +40450,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:24",
-         "_id": "52935",
          "id": "52935",
          "instructor": "Aaron J. Wright",
          "location": "TBA",
@@ -42064,7 +40475,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:54",
-         "_id": "52849",
          "id": "52849",
          "instructor": "Peter Rienecker, Viviane Eisenberg ",
          "location": "TBA",
@@ -42090,7 +40500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:54",
-         "_id": "52835",
          "id": "52835",
          "instructor": "Christopher J. Buccafusco",
          "location": "TBA",
@@ -42116,7 +40525,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:54",
-         "_id": "52881",
          "id": "52881",
          "instructor": "Kimberly J. Ronning",
          "location": "TBA",
@@ -42140,7 +40548,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "52924",
          "id": "52924",
          "instructor": "TBA",
          "location": "TBA",
@@ -42164,7 +40571,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "52910",
          "id": "52910",
          "instructor": "TBA",
          "location": "TBA",
@@ -42191,7 +40597,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:54",
-         "_id": "52816",
          "id": "52816",
          "instructor": "J. David Bleich",
          "location": "TBA",
@@ -42217,7 +40622,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52840",
          "id": "52840",
          "instructor": "Thomas Brown, James Pastore ",
          "location": "TBA",
@@ -42243,7 +40647,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52913",
          "id": "52913",
          "instructor": "Rebecca B. Rosenfeld",
          "location": "TBA",
@@ -42270,7 +40673,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:54",
-         "_id": "52932",
          "id": "52932",
          "instructor": "Aaron J. Wright",
          "location": "TBA",
@@ -42297,7 +40699,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:21",
-         "_id": "52922",
          "id": "52922",
          "instructor": "David J. Weisenfeld",
          "location": "TBA",
@@ -42323,7 +40724,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:54",
-         "_id": "52916",
          "id": "52916",
          "instructor": "Aaron J. Wright",
          "location": "TBA",
@@ -42350,7 +40750,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:54",
-         "_id": "52979",
          "id": "52979",
          "instructor": "Jonathan H. Oberman, Kendea Johnson ",
          "location": "TBA",
@@ -42376,7 +40775,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:54",
-         "_id": "52805",
          "id": "52805",
          "instructor": "Arthur J. Jacobson",
          "location": "TBA",
@@ -42402,7 +40800,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:24",
-         "_id": "52925",
          "id": "52925",
          "instructor": "Stewart E. Sterk",
          "location": "TBA",
@@ -42428,7 +40825,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:24",
-         "_id": "52991",
          "id": "52991",
          "instructor": "Barry Scheck",
          "location": "TBA",
@@ -42454,7 +40850,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:24",
-         "_id": "52988",
          "id": "52988",
          "instructor": "Michelle Greenberg-Kobrin",
          "location": "TBA",
@@ -42480,7 +40875,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52871",
          "id": "52871",
          "instructor": "Brett Frischmann",
          "location": "TBA",
@@ -42506,7 +40900,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:54",
-         "_id": "52872",
          "id": "52872",
          "instructor": "Brett Frischmann",
          "location": "TBA",
@@ -42530,7 +40923,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "52921",
          "id": "52921",
          "instructor": "TBA",
          "location": "TBA",
@@ -42556,7 +40948,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:05",
-         "_id": "52901",
          "id": "52901",
          "instructor": "Yael Fuchs, Mayur Saxena ",
          "location": "TBA",
@@ -42583,7 +40974,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51028",
          "id": "51028",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -42610,7 +41000,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51029",
          "id": "51029",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -42637,7 +41026,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51045",
          "id": "51045",
          "instructor": "Judith Calvo-Ryba",
          "location": "TBA",
@@ -42664,7 +41052,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50624",
          "id": "50624",
          "instructor": "Steven M. Nissenfeld",
          "location": "LEX215 ",
@@ -42690,7 +41077,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "51717",
          "id": "51717",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -42716,7 +41102,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "51717",
          "id": "51717",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -42743,7 +41128,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51030",
          "id": "51030",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -42770,7 +41154,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51070",
          "id": "51070",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -42796,7 +41179,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51739",
          "id": "51739",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -42822,7 +41204,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51727",
          "id": "51727",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -42848,7 +41229,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51731",
          "id": "51731",
          "instructor": "TBA",
          "location": "TBA",
@@ -42874,7 +41254,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51720",
          "id": "51720",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -42900,7 +41279,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50915",
          "id": "50915",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX210",
@@ -42927,7 +41305,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50920",
          "id": "50920",
          "instructor": "Sean Crockett",
          "location": "LEX215 ",
@@ -42954,7 +41331,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50792",
          "id": "50792",
          "instructor": "Andrew M. Geller",
          "location": "LEX215 LX314",
@@ -42980,7 +41356,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51777",
          "id": "51777",
          "instructor": "Abe Schwartzbard",
          "location": "TBA",
@@ -43007,7 +41382,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51079",
          "id": "51079",
          "instructor": "Maria Blekher",
          "location": "TBA",
@@ -43034,7 +41408,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51061",
          "id": "51061",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -43061,7 +41434,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51774",
          "id": "51774",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -43088,7 +41460,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51740",
          "id": "51740",
          "instructor": "Judith Calvo-Ryba",
          "location": "TBA",
@@ -43115,7 +41486,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51031",
          "id": "51031",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -43142,7 +41512,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50699",
          "id": "50699",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX402",
@@ -43168,7 +41537,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "51083",
          "id": "51083",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -43194,7 +41562,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51016",
          "id": "51016",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -43220,7 +41587,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "50559",
          "id": "50559",
          "instructor": "Steven M. Nissenfeld",
          "location": "LEX215 YAGODACOMM",
@@ -43246,7 +41612,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51051",
          "id": "51051",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -43272,7 +41637,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:35",
-         "_id": "50765",
          "id": "50765",
          "instructor": "Andrew M. Geller",
          "location": "LEX215 LX209",
@@ -43298,7 +41662,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:30",
-         "_id": "52509",
          "id": "52509",
          "instructor": "Andrew M. Geller",
          "location": "LEX215 LX208",
@@ -43325,7 +41688,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51059",
          "id": "51059",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -43352,7 +41714,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51032",
          "id": "51032",
          "instructor": "TBA",
          "location": "TBA",
@@ -43378,7 +41739,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51039",
          "id": "51039",
          "instructor": "TBA",
          "location": "TBA",
@@ -43404,7 +41764,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51039",
          "id": "51039",
          "instructor": "TBA",
          "location": "TBA",
@@ -43431,7 +41790,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50735",
          "id": "50735",
          "instructor": "Steven S. Chan",
          "location": "LEX215 LX208",
@@ -43458,7 +41816,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51033",
          "id": "51033",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -43485,7 +41842,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50626",
          "id": "50626",
          "instructor": "Steven S. Chan",
          "location": "LEX215 ",
@@ -43512,7 +41868,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50788",
          "id": "50788",
          "instructor": "Tamar Avnet",
          "location": "LEX215 LX312",
@@ -43538,7 +41893,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51732",
          "id": "51732",
          "instructor": "TBA",
          "location": "TBA",
@@ -43564,7 +41918,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50917",
          "id": "50917",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX210",
@@ -43591,7 +41944,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50921",
          "id": "50921",
          "instructor": "Sean Crockett",
          "location": "LEX215 LX403",
@@ -43618,7 +41970,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50789",
          "id": "50789",
          "instructor": "Tamar Avnet",
          "location": "LEX215 ",
@@ -43644,7 +41995,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "51729",
          "id": "51729",
          "instructor": "Nurit Shaul",
          "location": "TBA",
@@ -43670,7 +42020,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "53031",
          "id": "53031",
          "instructor": "Erik Mintz",
          "location": "TBA",
@@ -43696,7 +42045,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51775",
          "id": "51775",
          "instructor": "Abe Schwartzbard",
          "location": "TBA",
@@ -43723,7 +42071,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51080",
          "id": "51080",
          "instructor": "Maria Blekher",
          "location": "TBA",
@@ -43750,7 +42097,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51062",
          "id": "51062",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -43777,7 +42123,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51776",
          "id": "51776",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -43803,7 +42148,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51730",
          "id": "51730",
          "instructor": "Scott Sternbach",
          "location": "TBA",
@@ -43830,7 +42174,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51034",
          "id": "51034",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -43856,7 +42199,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:20",
-         "_id": "51104",
          "id": "51104",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -43882,7 +42224,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "51105",
          "id": "51105",
          "instructor": "Julio Kuplinsky",
          "location": "TBA",
@@ -43908,7 +42249,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:50",
-         "_id": "53055",
          "id": "53055",
          "instructor": "Julio Kuplinsky",
          "location": "TBA",
@@ -43934,7 +42274,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "51106",
          "id": "51106",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -43961,7 +42300,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51107",
          "id": "51107",
          "instructor": "Donald Taylor-Bruce",
          "location": "TBA",
@@ -43988,7 +42326,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51108",
          "id": "51108",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -44015,7 +42352,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51162",
          "id": "51162",
          "instructor": "TBA",
          "location": "TBA",
@@ -44041,7 +42377,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51162",
          "id": "51162",
          "instructor": "TBA",
          "location": "TBA",
@@ -44068,7 +42403,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51109",
          "id": "51109",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -44095,7 +42429,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51110",
          "id": "51110",
          "instructor": "Antonella Marini",
          "location": "TBA",
@@ -44122,7 +42455,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51141",
          "id": "51141",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -44149,7 +42481,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51586",
          "id": "51586",
          "instructor": "TBA",
          "location": "TBA",
@@ -44176,7 +42507,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51111",
          "id": "51111",
          "instructor": "Antonella Marini",
          "location": "TBA",
@@ -44202,7 +42532,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "52993",
          "id": "52993",
          "instructor": "Morton Lowengrub",
          "location": "TBA",
@@ -44228,7 +42557,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:30",
-         "_id": "52996",
          "id": "52996",
          "instructor": "TBA",
          "location": "TBA",
@@ -44254,7 +42582,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:30",
-         "_id": "53002",
          "id": "53002",
          "instructor": "Antonella Marini",
          "location": "TBA",
@@ -44280,7 +42607,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "53005",
          "id": "53005",
          "instructor": "Marian Gidea",
          "location": "TBA",
@@ -44307,7 +42633,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50674",
          "id": "50674",
          "instructor": "Margarita R. Levin",
          "location": "SCW 406",
@@ -44334,7 +42659,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50641",
          "id": "50641",
          "instructor": "Wai Ting Lam",
          "location": "SCW ",
@@ -44361,7 +42685,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:10",
-         "_id": "50641",
          "id": "50641",
          "instructor": "Wai Ting Lam",
          "location": "TBA",
@@ -44388,7 +42711,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:05",
-         "_id": "50575",
          "id": "50575",
          "instructor": "Michael Dalezman",
          "location": "SCW 718",
@@ -44415,7 +42737,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:25",
-         "_id": "50575",
          "id": "50575",
          "instructor": "Michael Dalezman",
          "location": "TBA",
@@ -44442,7 +42763,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "50599",
          "id": "50599",
          "instructor": "Morton Lowengrub",
          "location": "LEX215 LX402",
@@ -44469,7 +42789,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50599",
          "id": "50599",
          "instructor": "Morton Lowengrub",
          "location": "LEX215 LX402",
@@ -44496,7 +42815,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50673",
          "id": "50673",
          "instructor": "Michael Dalezman",
          "location": "SCW ",
@@ -44523,7 +42841,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50705",
          "id": "50705",
          "instructor": "Marian Gidea",
          "location": "LEX215 ",
@@ -44549,7 +42866,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51670",
          "id": "51670",
          "instructor": "Daniel Beliavsky, Frederic Sugarman ",
          "location": "TBA",
@@ -44576,7 +42892,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51225",
          "id": "51225",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -44603,7 +42918,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53166",
          "id": "53166",
          "instructor": "Jonathan Schapiro",
          "location": "TBA",
@@ -44630,7 +42944,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51112",
          "id": "51112",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -44656,7 +42969,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:40",
-         "_id": "51143",
          "id": "51143",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -44683,7 +42995,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51113",
          "id": "51113",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -44709,7 +43020,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51665",
          "id": "51665",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -44736,7 +43046,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50542",
          "id": "50542",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -44763,7 +43072,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50645",
          "id": "50645",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -44789,7 +43097,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50594",
          "id": "50594",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -44815,7 +43122,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50594",
          "id": "50594",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -44842,7 +43148,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50541",
          "id": "50541",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -44869,7 +43174,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50810",
          "id": "50810",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -44896,7 +43200,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50665",
          "id": "50665",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -44922,7 +43225,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50663",
          "id": "50663",
          "instructor": "Stanley Dorn",
          "location": "SCW 401",
@@ -44948,7 +43250,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:30",
-         "_id": "51654",
          "id": "51654",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -44974,7 +43275,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "51654",
          "id": "51654",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -45000,7 +43300,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:45",
-         "_id": "51655",
          "id": "51655",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -45026,7 +43325,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "51656",
          "id": "51656",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -45052,7 +43350,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:15",
-         "_id": "51201",
          "id": "51201",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -45078,7 +43375,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "51202",
          "id": "51202",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -45105,7 +43401,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52783",
          "id": "52783",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -45132,7 +43427,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52784",
          "id": "52784",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -45159,7 +43453,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "52785",
          "id": "52785",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -45186,7 +43479,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51227",
          "id": "51227",
          "instructor": "Daniel Rynhold",
          "location": "TBA",
@@ -45213,7 +43505,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "52791",
          "id": "52791",
          "instructor": "Margarita R. Levin",
          "location": "TBA",
@@ -45239,7 +43530,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51659",
          "id": "51659",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -45265,7 +43555,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51659",
          "id": "51659",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -45292,7 +43581,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51660",
          "id": "51660",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -45319,7 +43607,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50707",
          "id": "50707",
          "instructor": "Herb Leventer",
          "location": "LEX215 ",
@@ -45343,7 +43630,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51165",
          "id": "51165",
          "instructor": "TBA",
          "location": "TBA",
@@ -45367,7 +43653,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51149",
          "id": "51149",
          "instructor": "TBA",
          "location": "TBA",
@@ -45391,7 +43676,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51150",
          "id": "51150",
          "instructor": "TBA",
          "location": "TBA",
@@ -45415,7 +43699,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51128",
          "id": "51128",
          "instructor": "TBA",
          "location": "TBA",
@@ -45439,7 +43722,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51129",
          "id": "51129",
          "instructor": "TBA",
          "location": "TBA",
@@ -45463,7 +43745,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51130",
          "id": "51130",
          "instructor": "TBA",
          "location": "TBA",
@@ -45487,7 +43768,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51131",
          "id": "51131",
          "instructor": "TBA",
          "location": "TBA",
@@ -45511,7 +43791,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51132",
          "id": "51132",
          "instructor": "TBA",
          "location": "TBA",
@@ -45539,7 +43818,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50618",
          "id": "50618",
          "instructor": "Dinu Dan",
          "location": "OFF SITE",
@@ -45567,7 +43845,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50619",
          "id": "50619",
          "instructor": "Naomi Kaszovitz",
          "location": "OFF SITE",
@@ -45597,7 +43874,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50543",
          "id": "50543",
          "instructor": "Michael Alon",
          "location": "OFF SITE",
@@ -45625,7 +43901,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50750",
          "id": "50750",
          "instructor": "Steven Schucker",
          "location": "OFF SITE",
@@ -45651,7 +43926,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:35",
-         "_id": "50544",
          "id": "50544",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -45677,7 +43951,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:00",
-         "_id": "50545",
          "id": "50545",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -45703,7 +43976,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "50545",
          "id": "50545",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -45729,7 +44001,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:25",
-         "_id": "51140",
          "id": "51140",
          "instructor": "Daniel Lazarev",
          "location": "TBA",
@@ -45755,7 +44026,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:25",
-         "_id": "51177",
          "id": "51177",
          "instructor": "Daniel Lazarev",
          "location": "TBA",
@@ -45782,7 +44052,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51114",
          "id": "51114",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -45808,7 +44077,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51346",
          "id": "51346",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -45835,7 +44103,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51347",
          "id": "51347",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -45861,7 +44128,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "51348",
          "id": "51348",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -45887,7 +44153,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:45",
-         "_id": "51215",
          "id": "51215",
          "instructor": "Clifford Marc Bastuscheck",
          "location": "TBA",
@@ -45913,7 +44178,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:45",
-         "_id": "51584",
          "id": "51584",
          "instructor": "Clifford Marc Bastuscheck",
          "location": "TBA",
@@ -45940,7 +44204,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51144",
          "id": "51144",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -45966,7 +44229,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:30",
-         "_id": "53157",
          "id": "53157",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -45993,7 +44255,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51300",
          "id": "51300",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -46019,7 +44280,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51585",
          "id": "51585",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -46046,7 +44306,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53058",
          "id": "53058",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -46070,7 +44329,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51199",
          "id": "51199",
          "instructor": "TBA",
          "location": "TBA",
@@ -46096,7 +44354,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:51",
-         "_id": "51241",
          "id": "51241",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -46123,7 +44380,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50635",
          "id": "50635",
          "instructor": "Lea F. Santos",
          "location": "SCW 619",
@@ -46150,7 +44406,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50818",
          "id": "50818",
          "instructor": "Lea F. Santos",
          "location": "SCW 601",
@@ -46176,7 +44431,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:50",
-         "_id": "50821",
          "id": "50821",
          "instructor": "Lea F. Santos",
          "location": "SCW 518",
@@ -46202,7 +44456,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "50579",
          "id": "50579",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46228,7 +44481,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "50600",
          "id": "50600",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46254,7 +44506,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50728",
          "id": "50728",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46280,7 +44531,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "50578",
          "id": "50578",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46307,7 +44557,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50991",
          "id": "50991",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -46333,7 +44582,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:15",
-         "_id": "50991",
          "id": "50991",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -46359,7 +44607,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "50708",
          "id": "50708",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46385,7 +44632,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "50601",
          "id": "50601",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46411,7 +44657,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50729",
          "id": "50729",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46437,7 +44682,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "50636",
          "id": "50636",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -46463,7 +44707,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:00",
-         "_id": "50819",
          "id": "50819",
          "instructor": "Mark Edelman",
          "location": "LEX215 LX506",
@@ -46490,7 +44733,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52786",
          "id": "52786",
          "instructor": "Ruth Bevan",
          "location": "TBA",
@@ -46517,7 +44759,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53059",
          "id": "53059",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -46544,7 +44785,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52789",
          "id": "52789",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -46571,7 +44811,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53160",
          "id": "53160",
          "instructor": "Ruth Bevan, Daniel Ayalon ",
          "location": "TBA",
@@ -46598,7 +44837,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51302",
          "id": "51302",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -46625,7 +44863,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53099",
          "id": "53099",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -46652,7 +44889,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50608",
          "id": "50608",
          "instructor": "Jamie Aroosi",
          "location": "SCW ",
@@ -46679,7 +44915,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50610",
          "id": "50610",
          "instructor": "Hill Krishnan",
          "location": "SCW ",
@@ -46706,7 +44941,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51595",
          "id": "51595",
          "instructor": "Joanna Phua",
          "location": "TBA",
@@ -46733,7 +44967,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51596",
          "id": "51596",
          "instructor": "Neil Rogachevsky",
          "location": "TBA",
@@ -46759,7 +44992,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:30",
-         "_id": "51597",
          "id": "51597",
          "instructor": "Charles Freilich",
          "location": "TBA",
@@ -46786,7 +45018,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51599",
          "id": "51599",
          "instructor": "Daniel Ayalon, Ruth Bevan ",
          "location": "TBA",
@@ -46812,7 +45043,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51598",
          "id": "51598",
          "instructor": "Matthew Holbreich",
          "location": "TBA",
@@ -46839,7 +45069,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51600",
          "id": "51600",
          "instructor": "Neil Rogachevsky, Meir Yakov Soloveichik ",
          "location": "TBA",
@@ -46866,7 +45095,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51601",
          "id": "51601",
          "instructor": "Meir Yakov Soloveichik",
          "location": "TBA",
@@ -46890,7 +45118,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50109",
          "id": "50109",
          "instructor": "TBA",
          "location": "TBA",
@@ -46917,7 +45144,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50695",
          "id": "50695",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -46944,7 +45170,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50595",
          "id": "50595",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -46970,7 +45195,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50662",
          "id": "50662",
          "instructor": "Rachel Ebner",
          "location": "TBA",
@@ -46996,7 +45220,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50662",
          "id": "50662",
          "instructor": "Rachel Ebner",
          "location": "TBA",
@@ -47023,7 +45246,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50694",
          "id": "50694",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -47050,7 +45272,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50732",
          "id": "50732",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -47076,7 +45297,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50628",
          "id": "50628",
          "instructor": "Lisa Doreen Glukhovsky",
          "location": "LEX215 LX414",
@@ -47102,7 +45322,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:10",
-         "_id": "50546",
          "id": "50546",
          "instructor": "Jessica Hope Sloan",
          "location": "LEX215 LX414",
@@ -47128,7 +45347,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "51602",
          "id": "51602",
          "instructor": "Yocheved Pahmer",
          "location": "TBA",
@@ -47154,7 +45372,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "50711",
          "id": "50711",
          "instructor": "Yocheved Pahmer",
          "location": "LEX215 LX414",
@@ -47181,7 +45398,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50562",
          "id": "50562",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -47208,7 +45424,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50547",
          "id": "50547",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -47235,7 +45450,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50548",
          "id": "50548",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -47262,7 +45476,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50726",
          "id": "50726",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 LX208",
@@ -47289,7 +45502,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:35",
-         "_id": "50655",
          "id": "50655",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 518",
@@ -47316,7 +45528,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50957",
          "id": "50957",
          "instructor": "Marcel Isaac Perlman",
          "location": "TBA",
@@ -47343,7 +45554,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50549",
          "id": "50549",
          "instructor": "Marcel Isaac Perlman",
          "location": "LEX215 LX420",
@@ -47370,7 +45580,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50560",
          "id": "50560",
          "instructor": "Koby E. Frances",
          "location": "TBA",
@@ -47396,7 +45605,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51603",
          "id": "51603",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -47422,7 +45630,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51603",
          "id": "51603",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -47449,7 +45656,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50748",
          "id": "50748",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -47476,7 +45682,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50749",
          "id": "50749",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -47503,7 +45708,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50761",
          "id": "50761",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -47530,7 +45734,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50846",
          "id": "50846",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -47557,7 +45760,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51115",
          "id": "51115",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -47584,7 +45786,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51194",
          "id": "51194",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -47610,7 +45811,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51174",
          "id": "51174",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -47637,7 +45837,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51116",
          "id": "51116",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -47663,7 +45862,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "51116",
          "id": "51116",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -47690,7 +45888,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53060",
          "id": "53060",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -47716,7 +45913,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:45",
-         "_id": "53060",
          "id": "53060",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -47743,7 +45939,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51251",
          "id": "51251",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -47770,7 +45965,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51145",
          "id": "51145",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -47796,7 +45990,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51117",
          "id": "51117",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -47823,7 +46016,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53161",
          "id": "53161",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -47849,7 +46041,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "53061",
          "id": "53061",
          "instructor": "Edward Hoffman",
          "location": "TBA",
@@ -47875,7 +46066,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51343",
          "id": "51343",
          "instructor": "Ido Davidesco",
          "location": "TBA",
@@ -47901,7 +46091,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "53076",
          "id": "53076",
          "instructor": "Ari Shechter",
          "location": "TBA",
@@ -47927,7 +46116,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "53083",
          "id": "53083",
          "instructor": "Stephen I. Glicksman",
          "location": "TBA",
@@ -47951,7 +46139,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51200",
          "id": "51200",
          "instructor": "TBA",
          "location": "TBA",
@@ -47977,7 +46164,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "53138",
          "id": "53138",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -48003,7 +46189,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52569",
          "id": "52569",
          "instructor": "Esther Stavrou",
          "location": "TBA",
@@ -48029,7 +46214,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52570",
          "id": "52570",
          "instructor": "Nicholas Naccari",
          "location": "TBA",
@@ -48055,7 +46239,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52582",
          "id": "52582",
          "instructor": "Esther Stavrou",
          "location": "TBA",
@@ -48081,7 +46264,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52583",
          "id": "52583",
          "instructor": "Nicholas Naccari",
          "location": "TBA",
@@ -48107,7 +46289,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "52662",
          "id": "52662",
          "instructor": "Mana Samqhabadi",
          "location": "TBA",
@@ -48133,7 +46314,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "52536",
          "id": "52536",
          "instructor": "Karen Ann Hazel",
          "location": "TBA",
@@ -48159,7 +46339,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "52537",
          "id": "52537",
          "instructor": "Erum Nadeem",
          "location": "TBA",
@@ -48185,7 +46364,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "52538",
          "id": "52538",
          "instructor": "Amy B. Price",
          "location": "TBA",
@@ -48211,7 +46389,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "52539",
          "id": "52539",
          "instructor": "Tiffany H. Cohen",
          "location": "TBA",
@@ -48237,7 +46414,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "52544",
          "id": "52544",
          "instructor": "TBA",
          "location": "TBA",
@@ -48263,7 +46439,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52545",
          "id": "52545",
          "instructor": "Karen Ann Hazel",
          "location": "TBA",
@@ -48289,7 +46464,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52546",
          "id": "52546",
          "instructor": "Erum Nadeem",
          "location": "TBA",
@@ -48315,7 +46489,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52547",
          "id": "52547",
          "instructor": "Amy B. Price",
          "location": "TBA",
@@ -48341,7 +46514,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52548",
          "id": "52548",
          "instructor": "Tiffany H. Cohen",
          "location": "TBA",
@@ -48367,7 +46539,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "52549",
          "id": "52549",
          "instructor": "TBA",
          "location": "TBA",
@@ -48393,7 +46564,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:55",
-         "_id": "52651",
          "id": "52651",
          "instructor": "Esther Stavrou",
          "location": "TBA",
@@ -48419,7 +46589,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:55",
-         "_id": "53046",
          "id": "53046",
          "instructor": "Casey Shannon",
          "location": "TBA",
@@ -48445,7 +46614,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52555",
          "id": "52555",
          "instructor": "Casey Shannon",
          "location": "TBA",
@@ -48471,7 +46639,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52656",
          "id": "52656",
          "instructor": "Greta Doctoroff",
          "location": "TBA",
@@ -48497,7 +46664,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:55",
-         "_id": "52660",
          "id": "52660",
          "instructor": "Erum Nadeem",
          "location": "TBA",
@@ -48523,7 +46689,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:55",
-         "_id": "52659",
          "id": "52659",
          "instructor": "Steven Boksenbaum",
          "location": "TBA",
@@ -48549,7 +46714,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:55",
-         "_id": "53045",
          "id": "53045",
          "instructor": "Karen Ann Hazel",
          "location": "TBA",
@@ -48575,7 +46739,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52657",
          "id": "52657",
          "instructor": "Melanie J. Wadkins",
          "location": "TBA",
@@ -48601,7 +46764,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52585",
          "id": "52585",
          "instructor": "Melanie J. Wadkins",
          "location": "TBA",
@@ -48627,7 +46789,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "52584",
          "id": "52584",
          "instructor": "Greta Doctoroff",
          "location": "TBA",
@@ -48653,7 +46814,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "52565",
          "id": "52565",
          "instructor": "Casey Shannon",
          "location": "TBA",
@@ -48679,7 +46839,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:55",
-         "_id": "52661",
          "id": "52661",
          "instructor": "Tracy A. Prout",
          "location": "TBA",
@@ -48705,7 +46864,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52563",
          "id": "52563",
          "instructor": "Erum Nadeem",
          "location": "TBA",
@@ -48731,7 +46889,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:55",
-         "_id": "52562",
          "id": "52562",
          "instructor": "Barbara Gerson",
          "location": "TBA",
@@ -48757,7 +46914,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52649",
          "id": "52649",
          "instructor": "William Salton",
          "location": "TBA",
@@ -48783,7 +46939,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:55",
-         "_id": "52556",
          "id": "52556",
          "instructor": "Barbara Gerson",
          "location": "TBA",
@@ -48809,7 +46964,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:55",
-         "_id": "52650",
          "id": "52650",
          "instructor": "Greta Doctoroff, Melanie J. Wadkins ",
          "location": "TBA",
@@ -48835,7 +46989,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52655",
          "id": "52655",
          "instructor": "Esther Stavrou",
          "location": "TBA",
@@ -48861,7 +47014,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:55",
-         "_id": "52535",
          "id": "52535",
          "instructor": "Abraham Givner",
          "location": "TBA",
@@ -48887,7 +47039,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "9:55",
-         "_id": "52568",
          "id": "52568",
          "instructor": "Abraham Givner",
          "location": "TBA",
@@ -48914,7 +47065,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50709",
          "id": "50709",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -48941,7 +47091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50754",
          "id": "50754",
          "instructor": "Lora Danley",
          "location": "SCW 406",
@@ -48967,7 +47116,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "50475",
          "id": "50475",
          "instructor": "Lynn H. Levy",
          "location": "BELFHL B817",
@@ -48993,7 +47141,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "50381",
          "id": "50381",
          "instructor": "Jill Stacie Becker-Feigeles",
          "location": "BELFHL B807",
@@ -49019,7 +47166,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "50383",
          "id": "50383",
          "instructor": "Michele Sarracco",
          "location": "BELFHL B813",
@@ -49045,7 +47191,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "50384",
          "id": "50384",
          "instructor": "Judith Trachtenberg",
          "location": "BELFHL B807",
@@ -49071,7 +47216,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "50464",
          "id": "50464",
          "instructor": "Joan C. Beder",
          "location": "BELFHL B803",
@@ -49097,7 +47241,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "50489",
          "id": "50489",
          "instructor": "Sari Beth Skolnik-Basulto",
          "location": "BELFHL B813",
@@ -49123,7 +47266,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "50447",
          "id": "50447",
          "instructor": "Rose Lederman",
          "location": "BELFHL B803",
@@ -49149,7 +47291,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "50476",
          "id": "50476",
          "instructor": "Mark L. Howell",
          "location": "BELFHL B825",
@@ -49175,7 +47316,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:55",
-         "_id": "50472",
          "id": "50472",
          "instructor": "Jay S. Sweifach",
          "location": "BELFHL B817",
@@ -49201,7 +47341,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "50385",
          "id": "50385",
          "instructor": "Rozetta Wilmore-Schaeffer",
          "location": "BELFHL B817",
@@ -49227,7 +47366,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "50474",
          "id": "50474",
          "instructor": "Helena Van Raan",
          "location": "BELFHL B807",
@@ -49253,7 +47391,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "15:55",
-         "_id": "50477",
          "id": "50477",
          "instructor": "Lori Spector",
          "location": "BELFHL B817",
@@ -49279,7 +47416,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "15:55",
-         "_id": "50386",
          "id": "50386",
          "instructor": "Roberta Herche",
          "location": "BELFHL B813",
@@ -49305,7 +47441,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "50473",
          "id": "50473",
          "instructor": "Lynn H. Levy",
          "location": "BELFHL B817",
@@ -49331,7 +47466,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:00",
-         "_id": "50441",
          "id": "50441",
          "instructor": "Henry Glazer",
          "location": "BELFHL B807",
@@ -49357,7 +47491,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50389",
          "id": "50389",
          "instructor": "Charles G. Fagin",
          "location": "BELFHL B807",
@@ -49383,7 +47516,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "50434",
          "id": "50434",
          "instructor": "Lisa Henshaw",
          "location": "BELFHL B803",
@@ -49409,7 +47541,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50390",
          "id": "50390",
          "instructor": "Graciela M. Castex",
          "location": "BELFHL B803",
@@ -49435,7 +47566,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50391",
          "id": "50391",
          "instructor": "Helena Van Raan",
          "location": "BELFHL B813",
@@ -49461,7 +47591,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50520",
          "id": "50520",
          "instructor": "Lori Spector",
          "location": "BELFHL B817",
@@ -49487,7 +47616,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "53132",
          "id": "53132",
          "instructor": "David J. Schnall",
          "location": "TBA",
@@ -49513,7 +47641,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "16:00",
-         "_id": "50514",
          "id": "50514",
          "instructor": "Graciela M. Castex",
          "location": "BELFHL B803",
@@ -49539,7 +47666,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51559",
          "id": "51559",
          "instructor": "Nancy L. Beckerman",
          "location": "BELFHL B813",
@@ -49565,7 +47691,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "50527",
          "id": "50527",
          "instructor": "Saul Andron",
          "location": "BELFHL B817",
@@ -49591,7 +47716,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "10:55",
-         "_id": "50463",
          "id": "50463",
          "instructor": "Saul Andron",
          "location": "BELFHL B803",
@@ -49617,7 +47741,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "50392",
          "id": "50392",
          "instructor": "Daniel Pollack",
          "location": "BELFHL B813",
@@ -49643,7 +47766,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "50507",
          "id": "50507",
          "instructor": "Richard Caputo",
          "location": "BELFHL B817",
@@ -49669,7 +47791,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "15:55",
-         "_id": "50393",
          "id": "50393",
          "instructor": "Richard Caputo",
          "location": "BELFHL B807",
@@ -49695,7 +47816,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50502",
          "id": "50502",
          "instructor": "Rozetta Wilmore-Schaeffer",
          "location": "BELFHL B803",
@@ -49721,7 +47841,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "51624",
          "id": "51624",
          "instructor": "Daniel Pollack",
          "location": "TBA",
@@ -49747,7 +47866,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "50394",
          "id": "50394",
          "instructor": "Charles Auerbach",
          "location": "BELFHL B821",
@@ -49773,7 +47891,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50395",
          "id": "50395",
          "instructor": "Christine Vyshedsky",
          "location": "BELFHL B1111",
@@ -49799,7 +47916,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:15",
-         "_id": "50521",
          "id": "50521",
          "instructor": "Matthew J. Cuellar",
          "location": "BELFHL B821",
@@ -49825,7 +47941,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "50499",
          "id": "50499",
          "instructor": "Saul Andron",
          "location": "LEX215 LX403",
@@ -49851,7 +47966,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:00",
-         "_id": "50501",
          "id": "50501",
          "instructor": "Helena Van Raan",
          "location": "BELFHL B807",
@@ -49877,7 +47991,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "51562",
          "id": "51562",
          "instructor": "Gary Stein",
          "location": "BELFHL B803",
@@ -49903,7 +48016,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:00",
-         "_id": "51561",
          "id": "51561",
          "instructor": "Athena Anna Motal",
          "location": "BELFHL B813",
@@ -49929,7 +48041,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:00",
-         "_id": "50500",
          "id": "50500",
          "instructor": "Saul Andron",
          "location": "LEX215 501",
@@ -49955,7 +48066,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "50503",
          "id": "50503",
          "instructor": "Rozetta Wilmore-Schaeffer",
          "location": "BELFHL ",
@@ -49981,7 +48091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "50504",
          "id": "50504",
          "instructor": "Rozetta Wilmore-Schaeffer",
          "location": "BELFHL ",
@@ -50005,7 +48114,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51734",
          "id": "51734",
          "instructor": "TBA",
          "location": "TBA",
@@ -50031,7 +48139,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:50",
-         "_id": "50403",
          "id": "50403",
          "instructor": "Charles Auerbach",
          "location": "BELFHL B821",
@@ -50057,7 +48164,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:10",
-         "_id": "50461",
          "id": "50461",
          "instructor": "Ann Abbott",
          "location": "TBA",
@@ -50083,7 +48189,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:50",
-         "_id": "50458",
          "id": "50458",
          "instructor": "Isabel Wolock",
          "location": "TBA",
@@ -50109,7 +48214,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:10",
-         "_id": "50462",
          "id": "50462",
          "instructor": "Ann Abbott",
          "location": "TBA",
@@ -50135,7 +48239,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:00",
-         "_id": "50438",
          "id": "50438",
          "instructor": "Isabel Wolock",
          "location": "TBA",
@@ -50161,7 +48264,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:50",
-         "_id": "50404",
          "id": "50404",
          "instructor": "Susan Mason",
          "location": "BELFHL B1103",
@@ -50187,7 +48289,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:55",
-         "_id": "50525",
          "id": "50525",
          "instructor": "Saul Andron",
          "location": "BELFHL B813",
@@ -50213,7 +48314,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:00",
-         "_id": "51728",
          "id": "51728",
          "instructor": "Jay S. Sweifach",
          "location": "TBA",
@@ -50239,7 +48339,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:50",
-         "_id": "50496",
          "id": "50496",
          "instructor": "Gary Stein",
          "location": "BELFHL B803",
@@ -50265,7 +48364,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:00",
-         "_id": "50457",
          "id": "50457",
          "instructor": "Sari Beth Skolnik-Basulto",
          "location": "BELFHL B803",
@@ -50291,7 +48389,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:00",
-         "_id": "50495",
          "id": "50495",
          "instructor": "Matthew J. Cuellar",
          "location": "BELFHL B821",
@@ -50317,7 +48414,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:50",
-         "_id": "50459",
          "id": "50459",
          "instructor": "Richard Caputo",
          "location": "BELFHL B813",
@@ -50344,7 +48440,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50550",
          "id": "50550",
          "instructor": "Sidney Langer",
          "location": "SCW 401",
@@ -50371,7 +48466,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50630",
          "id": "50630",
          "instructor": "Amy Stuart",
          "location": "SCW ",
@@ -50398,7 +48492,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50646",
          "id": "50646",
          "instructor": "Roberta Farber",
          "location": "SCW 1019",
@@ -50425,7 +48518,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51653",
          "id": "51653",
          "instructor": "Roberta Farber",
          "location": "TBA",
@@ -50451,7 +48543,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:15",
-         "_id": "50666",
          "id": "50666",
          "instructor": "Eric Goldman",
          "location": "SCW 1015",
@@ -50478,7 +48569,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52790",
          "id": "52790",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -50505,7 +48595,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53096",
          "id": "53096",
          "instructor": "TBA",
          "location": "TBA",
@@ -50532,7 +48621,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53162",
          "id": "53162",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -50558,7 +48646,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51231",
          "id": "51231",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -50584,7 +48671,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "51230",
          "id": "51230",
          "instructor": "Jonathan J. Zisook",
          "location": "TBA",
@@ -50611,7 +48697,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51232",
          "id": "51232",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -50638,7 +48723,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50736",
          "id": "50736",
          "instructor": "Terry DiLorenzo",
          "location": "TBA",
@@ -50665,7 +48749,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51651",
          "id": "51651",
          "instructor": "Sidney Langer",
          "location": "TBA",
@@ -50692,7 +48775,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:15",
-         "_id": "51118",
          "id": "51118",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -50719,7 +48801,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51334",
          "id": "51334",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -50746,7 +48827,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53163",
          "id": "53163",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -50773,7 +48853,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51310",
          "id": "51310",
          "instructor": "Marcelo Broitman",
          "location": "TBA",
@@ -50799,7 +48878,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50703",
          "id": "50703",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50825,7 +48903,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50703",
          "id": "50703",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50851,7 +48928,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50931",
          "id": "50931",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50877,7 +48953,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50931",
          "id": "50931",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50904,7 +48979,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50609",
          "id": "50609",
          "instructor": "Robert Russell",
          "location": "SCW ",
@@ -50931,7 +49005,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50644",
          "id": "50644",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50958,7 +49031,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "50801",
          "id": "50801",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -50984,7 +49056,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50563",
          "id": "50563",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -51010,7 +49081,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50563",
          "id": "50563",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -51036,7 +49106,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:20",
-         "_id": "50564",
          "id": "50564",
          "instructor": "Sydney Horn-Klein",
          "location": "LEX215 LX405",
@@ -51063,7 +49132,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50565",
          "id": "50565",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -51089,7 +49157,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50611",
          "id": "50611",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -51115,7 +49182,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50611",
          "id": "50611",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -51142,7 +49208,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50566",
          "id": "50566",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -51168,7 +49233,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "50567",
          "id": "50567",
          "instructor": "Allison Dana Schnall",
          "location": "LEX215 LX420",
@@ -51194,7 +49258,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:25",
-         "_id": "50874",
          "id": "50874",
          "instructor": "Susan Wilson",
          "location": "LEX215 LX402",
@@ -51220,7 +49283,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "51134",
          "id": "51134",
          "instructor": "Andreas Kakolyris",
          "location": "TBA",
@@ -51247,7 +49309,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50593",
          "id": "50593",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX314",
@@ -51274,7 +49335,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50642",
          "id": "50642",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX314",
@@ -51300,7 +49360,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "50554",
          "id": "50554",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "LEX215 LX313",
@@ -51326,7 +49385,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:30",
-         "_id": "50554",
          "id": "50554",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "LEX215 LX313",
@@ -51353,7 +49411,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50808",
          "id": "50808",
          "instructor": "Caroline Sibel Altaras",
          "location": "LEX215 ",
@@ -51379,7 +49436,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:30",
-         "_id": "52992",
          "id": "52992",
          "instructor": "Yaakov Elman",
          "location": "FURST ",
@@ -51405,7 +49461,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "52994",
          "id": "52994",
          "instructor": "Elazar Hurvitz",
          "location": "GOTLIB ",
@@ -51431,7 +49486,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "52995",
          "id": "52995",
          "instructor": "Elazar Hurvitz",
          "location": "GOTLIB ",
@@ -51458,7 +49512,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:44",
-         "_id": "51412",
          "id": "51412",
          "instructor": "Akiva Koenigsberg",
          "location": "TBA",
@@ -51482,7 +49535,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51394",
          "id": "51394",
          "instructor": "TBA",
          "location": "TBA",
@@ -51506,7 +49558,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51395",
          "id": "51395",
          "instructor": "TBA",
          "location": "TBA",
@@ -51530,7 +49581,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51396",
          "id": "51396",
          "instructor": "TBA",
          "location": "TBA",
@@ -51554,7 +49604,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51398",
          "id": "51398",
          "instructor": "TBA",
          "location": "TBA",
@@ -51578,7 +49627,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51397",
          "id": "51397",
          "instructor": "TBA",
          "location": "TBA",
@@ -51602,7 +49650,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51402",
          "id": "51402",
          "instructor": "TBA",
          "location": "TBA",
@@ -51626,7 +49673,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51409",
          "id": "51409",
          "instructor": "TBA",
          "location": "TBA",
@@ -51653,7 +49699,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52522",
          "id": "52522",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -51680,7 +49725,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "52911",
          "id": "52911",
          "instructor": "Allen M. Schwartz",
          "location": "TBA",
@@ -51709,7 +49753,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "52531",
          "id": "52531",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -51736,7 +49779,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52918",
          "id": "52918",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -51760,7 +49802,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51399",
          "id": "51399",
          "instructor": "TBA",
          "location": "TBA",
@@ -51787,7 +49828,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "52811",
          "id": "52811",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "TBA",
@@ -51814,7 +49854,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51491",
          "id": "51491",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -51841,7 +49880,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51497",
          "id": "51497",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G416",
@@ -51868,7 +49906,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51503",
          "id": "51503",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -51895,7 +49932,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51509",
          "id": "51509",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -51922,7 +49958,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51515",
          "id": "51515",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -51949,7 +49984,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51521",
          "id": "51521",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -51976,7 +50010,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51527",
          "id": "51527",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -52003,7 +50036,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51533",
          "id": "51533",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -52030,7 +50062,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51539",
          "id": "51539",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -52057,7 +50088,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "52526",
          "id": "52526",
          "instructor": "TBA",
          "location": "TBA",
@@ -52081,7 +50111,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50356",
          "id": "50356",
          "instructor": "TBA",
          "location": "TBA",
@@ -52105,7 +50134,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50357",
          "id": "50357",
          "instructor": "TBA",
          "location": "TBA",
@@ -52129,7 +50157,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50358",
          "id": "50358",
          "instructor": "TBA",
          "location": "TBA",
@@ -52153,7 +50180,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50360",
          "id": "50360",
          "instructor": "TBA",
          "location": "TBA",
@@ -52180,7 +50206,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51035",
          "id": "51035",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -52207,7 +50232,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51036",
          "id": "51036",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -52234,7 +50258,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50656",
          "id": "50656",
          "instructor": "TBA",
          "location": "LEX215 LX313",
@@ -52260,7 +50283,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:15",
-         "_id": "52512",
          "id": "52512",
          "instructor": "Leonard Fuld",
          "location": "BELFHL B430",
@@ -52284,7 +50306,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51400",
          "id": "51400",
          "instructor": "TBA",
          "location": "TBA",
@@ -52311,7 +50332,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50891",
          "id": "50891",
          "instructor": "Nora Nachumi",
          "location": "LEX215 ",
@@ -52340,7 +50360,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51492",
          "id": "51492",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -52369,7 +50388,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51498",
          "id": "51498",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK BMIDRASH",
@@ -52398,7 +50416,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51504",
          "id": "51504",
          "instructor": "Jonathan Schachter",
          "location": "ZYSMAN Z111",
@@ -52427,7 +50444,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51510",
          "id": "51510",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z111",
@@ -52456,7 +50472,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51516",
          "id": "51516",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z111",
@@ -52485,7 +50500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51522",
          "id": "51522",
          "instructor": "Daniel Rapp",
          "location": "GLUECK BMIDRASH",
@@ -52514,7 +50528,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51528",
          "id": "51528",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z111",
@@ -52543,7 +50556,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51534",
          "id": "51534",
          "instructor": "Etan Moshe Berman",
          "location": "ZYSMAN Z111",
@@ -52572,7 +50584,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "51540",
          "id": "51540",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -52601,7 +50612,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51493",
          "id": "51493",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -52629,7 +50639,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51499",
          "id": "51499",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -52655,7 +50664,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:55",
-         "_id": "51499",
          "id": "51499",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G303",
@@ -52684,7 +50692,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51505",
          "id": "51505",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -52713,7 +50720,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51511",
          "id": "51511",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -52741,7 +50747,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51517",
          "id": "51517",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -52767,7 +50772,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51517",
          "id": "51517",
          "instructor": "Eli Belizon",
          "location": "GLUECK G516",
@@ -52796,7 +50800,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51523",
          "id": "51523",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -52824,7 +50827,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "51529",
          "id": "51529",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -52850,7 +50852,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51529",
          "id": "51529",
          "instructor": "Matthew Eric Weinberg",
          "location": "GLUECK G416",
@@ -52879,7 +50880,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51535",
          "id": "51535",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -52908,7 +50908,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "51541",
          "id": "51541",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -52935,7 +50934,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51490",
          "id": "51490",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -52962,7 +50960,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51496",
          "id": "51496",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -52989,7 +50986,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51502",
          "id": "51502",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -53016,7 +51012,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51508",
          "id": "51508",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -53043,7 +51038,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51514",
          "id": "51514",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -53070,7 +51064,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51520",
          "id": "51520",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -53097,7 +51090,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51526",
          "id": "51526",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -53124,7 +51116,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51532",
          "id": "51532",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -53151,7 +51142,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51538",
          "id": "51538",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -53177,7 +51167,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51494",
          "id": "51494",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -53203,7 +51192,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51500",
          "id": "51500",
          "instructor": "Steven J. Maybruch",
          "location": "FURST F207",
@@ -53229,7 +51217,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51506",
          "id": "51506",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -53255,7 +51242,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51512",
          "id": "51512",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -53281,7 +51267,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51518",
          "id": "51518",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -53307,7 +51292,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51524",
          "id": "51524",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -53333,7 +51317,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51530",
          "id": "51530",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -53359,7 +51342,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51536",
          "id": "51536",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -53385,7 +51367,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "51542",
          "id": "51542",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -53412,7 +51393,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51491",
          "id": "51491",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -53439,7 +51419,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51497",
          "id": "51497",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G416",
@@ -53466,7 +51445,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51503",
          "id": "51503",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -53493,7 +51471,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51509",
          "id": "51509",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -53520,7 +51497,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51515",
          "id": "51515",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -53547,7 +51523,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51521",
          "id": "51521",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -53574,7 +51549,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51527",
          "id": "51527",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -53601,7 +51575,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51533",
          "id": "51533",
          "instructor": "Etan Moshe Berman",
          "location": "MUSS MU109",
@@ -53628,7 +51601,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51539",
          "id": "51539",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -53655,7 +51627,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50620",
          "id": "50620",
          "instructor": "Joseph John Kerstein",
          "location": "LEX215 LX210",
@@ -53682,7 +51653,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50570",
          "id": "50570",
          "instructor": "Joel A. Hochman",
          "location": "LEX215 LX314",
@@ -53709,7 +51679,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51710",
          "id": "51710",
          "instructor": "Joseph John Kerstein",
          "location": "TBA",
@@ -53736,7 +51705,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50571",
          "id": "50571",
          "instructor": "David Hornung",
          "location": "LEX215 LX314",
@@ -53762,7 +51730,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50757",
          "id": "50757",
          "instructor": "He Huang",
          "location": "LEX215 LX313",
@@ -53788,7 +51755,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50757",
          "id": "50757",
          "instructor": "He Huang",
          "location": "LEX215 LX313",
@@ -53815,7 +51781,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50621",
          "id": "50621",
          "instructor": "Martin A. Leibowitz",
          "location": "LEX215 LX403",
@@ -53842,7 +51807,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "53143",
          "id": "53143",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -53869,7 +51833,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50531",
          "id": "50531",
          "instructor": "Michele Wijegoonaratna",
          "location": "LEX215 LX717",
@@ -53896,7 +51859,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50770",
          "id": "50770",
          "instructor": "Melanie Hanan",
          "location": "TBA",
@@ -53923,7 +51885,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50577",
          "id": "50577",
          "instructor": "Marnin Young",
          "location": "LEX215 ",
@@ -53950,7 +51911,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50569",
          "id": "50569",
          "instructor": "Jacob Wisse",
          "location": "LEX215 LX717",
@@ -53977,7 +51937,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50532",
          "id": "50532",
          "instructor": "Marnin Young",
          "location": "LEX215 ",
@@ -54004,7 +51963,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51643",
          "id": "51643",
          "instructor": "Margaret Samu",
          "location": "TBA",
@@ -54030,7 +51988,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50617",
          "id": "50617",
          "instructor": "John Kriskiewicz",
          "location": "LEX215 LX717",
@@ -54056,7 +52013,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "53029",
          "id": "53029",
          "instructor": "Steven Fine",
          "location": "TBA",
@@ -54083,7 +52039,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51611",
          "id": "51611",
          "instructor": "Marnin Young",
          "location": "TBA",
@@ -54110,7 +52065,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50533",
          "id": "50533",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX802",
@@ -54137,7 +52091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50534",
          "id": "50534",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -54163,7 +52116,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "50878",
          "id": "50878",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -54190,7 +52142,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50586",
          "id": "50586",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -54216,7 +52167,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50880",
          "id": "50880",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -54242,7 +52192,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:10",
-         "_id": "50881",
          "id": "50881",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -54268,7 +52217,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:10",
-         "_id": "51570",
          "id": "51570",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -54294,7 +52242,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:10",
-         "_id": "51572",
          "id": "51572",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -54320,7 +52267,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "51573",
          "id": "51573",
          "instructor": "Emily Noelle Lambert",
          "location": "TBA",
@@ -54347,7 +52293,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50632",
          "id": "50632",
          "instructor": "TBA",
          "location": "TBA",
@@ -54373,7 +52318,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:00",
-         "_id": "50883",
          "id": "50883",
          "instructor": "Terttu Uibopuu",
          "location": "LEX215 LX809",
@@ -54399,7 +52343,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "50716",
          "id": "50716",
          "instructor": "Barbara L Suhr",
          "location": "LEX215 LX802",
@@ -54426,7 +52369,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "51574",
          "id": "51574",
          "instructor": "TBA",
          "location": "TBA",
@@ -54453,7 +52395,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51575",
          "id": "51575",
          "instructor": "John Jerard",
          "location": "TBA",
@@ -54480,7 +52421,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51674",
          "id": "51674",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -54507,7 +52447,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51676",
          "id": "51676",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -54534,7 +52473,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51675",
          "id": "51675",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -54561,7 +52499,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51677",
          "id": "51677",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -54588,7 +52525,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50596",
          "id": "50596",
          "instructor": "Shoshana Schechter",
          "location": "SCW 406",
@@ -54615,7 +52551,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51678",
          "id": "51678",
          "instructor": "Nechama Esther Price",
          "location": "TBA",
@@ -54642,7 +52577,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51679",
          "id": "51679",
          "instructor": "Smadar Rosensweig",
          "location": "TBA",
@@ -54668,7 +52602,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51680",
          "id": "51680",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -54694,7 +52627,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51680",
          "id": "51680",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -54721,7 +52653,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50742",
          "id": "50742",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -54748,7 +52679,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50576",
          "id": "50576",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -54775,7 +52705,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50561",
          "id": "50561",
          "instructor": "Elozor Preil",
          "location": "SCW 306",
@@ -54802,7 +52731,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51681",
          "id": "51681",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -54829,7 +52757,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50856",
          "id": "50856",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 418",
@@ -54856,7 +52783,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:15",
-         "_id": "51682",
          "id": "51682",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -54883,7 +52809,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51683",
          "id": "51683",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -54910,7 +52835,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50743",
          "id": "50743",
          "instructor": "Smadar Rosensweig",
          "location": "SCW 819",
@@ -54937,7 +52861,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51684",
          "id": "51684",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -54964,7 +52887,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50639",
          "id": "50639",
          "instructor": "Elozor Preil",
          "location": "SCW 306",
@@ -54991,7 +52913,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51685",
          "id": "51685",
          "instructor": "Ian Shaffer",
          "location": "TBA",
@@ -55018,7 +52939,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "51686",
          "id": "51686",
          "instructor": "Ian Shaffer",
          "location": "TBA",
@@ -55045,7 +52965,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51687",
          "id": "51687",
          "instructor": "Smadar Rosensweig",
          "location": "TBA",
@@ -55072,7 +52991,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "51688",
          "id": "51688",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -55099,7 +53017,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50862",
          "id": "50862",
          "instructor": "Gideon I. Shloush",
          "location": "SCW 102",
@@ -55125,7 +53042,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50718",
          "id": "50718",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -55151,7 +53067,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50718",
          "id": "50718",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -55178,7 +53093,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50683",
          "id": "50683",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -55205,7 +53119,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50864",
          "id": "50864",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -55232,7 +53145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51689",
          "id": "51689",
          "instructor": "Mordechai Z. Cohen",
          "location": "TBA",
@@ -55259,7 +53171,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50684",
          "id": "50684",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 518",
@@ -55285,7 +53196,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:05",
-         "_id": "50692",
          "id": "50692",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW LB441",
@@ -55311,7 +53221,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:10",
-         "_id": "50693",
          "id": "50693",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -55337,7 +53246,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:50",
-         "_id": "50685",
          "id": "50685",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -55364,7 +53272,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50536",
          "id": "50536",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -55391,7 +53298,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50738",
          "id": "50738",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -55418,7 +53324,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50737",
          "id": "50737",
          "instructor": "Marina Kaufman Holz",
          "location": "SCW 606",
@@ -55444,7 +53349,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50537",
          "id": "50537",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -55470,7 +53374,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:05",
-         "_id": "50574",
          "id": "50574",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -55496,7 +53399,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50740",
          "id": "50740",
          "instructor": "Mana Mirjany",
          "location": "SCW LB444",
@@ -55522,7 +53424,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50739",
          "id": "50739",
          "instructor": "Anna Alayev",
          "location": "SCW LB444",
@@ -55548,7 +53449,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:00",
-         "_id": "50627",
          "id": "50627",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -55574,7 +53474,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "50538",
          "id": "50538",
          "instructor": "Mana Mirjany",
          "location": "SCW LB444",
@@ -55601,7 +53500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50939",
          "id": "50939",
          "instructor": "Evan Mintzer",
          "location": "SCW ",
@@ -55628,7 +53526,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:45",
-         "_id": "50659",
          "id": "50659",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 501",
@@ -55655,7 +53552,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50604",
          "id": "50604",
          "instructor": "Jennifer Kathryn Odien",
          "location": "SCW 518",
@@ -55682,7 +53578,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:10",
-         "_id": "50613",
          "id": "50613",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -55709,7 +53604,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "50612",
          "id": "50612",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -55736,7 +53630,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:55",
-         "_id": "50660",
          "id": "50660",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -55763,7 +53656,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50667",
          "id": "50667",
          "instructor": "Margarita Vigodner",
          "location": "SCW 518",
@@ -55789,7 +53681,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "50767",
          "id": "50767",
          "instructor": "Anna Alayev",
          "location": "SCW LB343",
@@ -55815,7 +53706,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "50723",
          "id": "50723",
          "instructor": "Margarita Vigodner",
          "location": "SCW LB343",
@@ -55841,7 +53731,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50741",
          "id": "50741",
          "instructor": "Raizy Weinreb",
          "location": "SCW 306",
@@ -55868,7 +53757,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50668",
          "id": "50668",
          "instructor": "Harvey J. Babich",
          "location": "SCW 1015",
@@ -55895,7 +53783,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50724",
          "id": "50724",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -55922,7 +53809,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50725",
          "id": "50725",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -55949,7 +53835,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50661",
          "id": "50661",
          "instructor": "Marina Kaufman Holz",
          "location": "SCW 619",
@@ -55976,7 +53861,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50661",
          "id": "50661",
          "instructor": "Anna Alayev ",
          "location": "SCW 619",
@@ -56003,7 +53887,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50539",
          "id": "50539",
          "instructor": "Levy Sztark Amar",
          "location": "SCW 1015",
@@ -56030,7 +53913,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50540",
          "id": "50540",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -56056,7 +53938,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50678",
          "id": "50678",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -56082,7 +53963,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50678",
          "id": "50678",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -56109,7 +53989,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50922",
          "id": "50922",
          "instructor": "Margarita Vigodner",
          "location": "SCW ",
@@ -56136,7 +54015,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50592",
          "id": "50592",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW 1015",
@@ -56163,7 +54041,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50658",
          "id": "50658",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -56190,7 +54067,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50643",
          "id": "50643",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -56216,7 +54092,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51592",
          "id": "51592",
          "instructor": "James Nussbaum",
          "location": "TBA",
@@ -56242,7 +54117,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51594",
          "id": "51594",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -56268,7 +54142,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51594",
          "id": "51594",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -56295,7 +54168,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50786",
          "id": "50786",
          "instructor": "TBA",
          "location": "LEX215 ",
@@ -56322,7 +54194,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50555",
          "id": "50555",
          "instructor": "Robert Jay Greenberg",
          "location": "LEX215 LX313",
@@ -56349,7 +54220,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50629",
          "id": "50629",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -56375,7 +54245,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:30",
-         "_id": "50629",
          "id": "50629",
          "instructor": "Lora Danley",
          "location": "SCW LB543",
@@ -56402,7 +54271,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50614",
          "id": "50614",
          "instructor": "Chaya Rapp",
          "location": "SCW KOCH",
@@ -56429,7 +54297,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50697",
          "id": "50697",
          "instructor": "Chaya Rapp",
          "location": "SCW 301",
@@ -56455,7 +54322,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:20",
-         "_id": "50763",
          "id": "50763",
          "instructor": "TBA",
          "location": "SCW 406",
@@ -56481,7 +54347,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:20",
-         "_id": "50670",
          "id": "50670",
          "instructor": "TBA",
          "location": "SCW ",
@@ -56507,7 +54372,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50669",
          "id": "50669",
          "instructor": "Donald Estes",
          "location": "SCW 601",
@@ -56533,7 +54397,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:20",
-         "_id": "50715",
          "id": "50715",
          "instructor": "Donald Estes",
          "location": "SCW 607",
@@ -56559,7 +54422,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:20",
-         "_id": "51644",
          "id": "51644",
          "instructor": "Cecily Dobin",
          "location": "TBA",
@@ -56585,7 +54447,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "50606",
          "id": "50606",
          "instructor": "Donald Estes",
          "location": "SCW LB541",
@@ -56611,7 +54472,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "50605",
          "id": "50605",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -56637,7 +54497,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "50671",
          "id": "50671",
          "instructor": "Donald Estes",
          "location": "SCW LB541",
@@ -56663,7 +54522,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50603",
          "id": "50603",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -56689,7 +54547,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "50615",
          "id": "50615",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -56716,7 +54573,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:45",
-         "_id": "50797",
          "id": "50797",
          "instructor": "Jianfeng Jiang",
          "location": "SCW 607",
@@ -56742,7 +54598,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50800",
          "id": "50800",
          "instructor": "Jianfeng Jiang",
          "location": "SCW LB544",
@@ -56769,7 +54624,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50784",
          "id": "50784",
          "instructor": "Evan Mintzer",
          "location": "SCW ",
@@ -56796,7 +54650,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50940",
          "id": "50940",
          "instructor": "Evan Mintzer",
          "location": "SCW KOCH",
@@ -56822,7 +54675,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "51646",
          "id": "51646",
          "instructor": "Rafael M. Cuesta-Sanchez",
          "location": "TBA",
@@ -56849,7 +54701,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50772",
          "id": "50772",
          "instructor": "Chaya Rapp",
          "location": "SCW 301",
@@ -56875,7 +54726,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -56901,7 +54751,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:25",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -56927,7 +54776,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -56953,7 +54801,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "50589",
          "id": "50589",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -56980,7 +54827,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:15",
-         "_id": "50677",
          "id": "50677",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -57007,7 +54853,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:15",
-         "_id": "50677",
          "id": "50677",
          "instructor": "TBA",
          "location": "LEX215 LX312",
@@ -57034,7 +54879,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51617",
          "id": "51617",
          "instructor": "Michelle Alyssa Levine",
          "location": "TBA",
@@ -57061,7 +54905,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50802",
          "id": "50802",
          "instructor": "Joshua Waxman",
          "location": "LEX215 ",
@@ -57088,7 +54931,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51616",
          "id": "51616",
          "instructor": "Joshua Waxman",
          "location": "TBA",
@@ -57115,7 +54957,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50893",
          "id": "50893",
          "instructor": "Gaetano Bloise",
          "location": "LEX215 ",
@@ -57142,7 +54983,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50587",
          "id": "50587",
          "instructor": "Alessandro Citanna",
          "location": "LEX215 LX403",
@@ -57168,7 +55008,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51615",
          "id": "51615",
          "instructor": "TBA",
          "location": "TBA",
@@ -57194,7 +55033,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51615",
          "id": "51615",
          "instructor": "TBA",
          "location": "TBA",
@@ -57220,7 +55058,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50774",
          "id": "50774",
          "instructor": "Elias C. Grivoyannis",
          "location": "LEX215 LX718",
@@ -57246,7 +55083,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:10",
-         "_id": "51604",
          "id": "51604",
          "instructor": "Jessica Kohn",
          "location": "TBA",
@@ -57272,7 +55108,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51605",
          "id": "51605",
          "instructor": "Chaya R. Gorsetman",
          "location": "TBA",
@@ -57298,7 +55133,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:39",
-         "_id": "51606",
          "id": "51606",
          "instructor": "Chaya R. Gorsetman",
          "location": "TBA",
@@ -57324,7 +55158,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "50584",
          "id": "50584",
          "instructor": "Miriam Ungar Hirsch",
          "location": "SCW 906",
@@ -57351,7 +55184,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50551",
          "id": "50551",
          "instructor": "TBA",
          "location": "SCW ",
@@ -57377,7 +55209,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50552",
          "id": "50552",
          "instructor": "Naomi Berkowitz",
          "location": "SCW 906",
@@ -57403,7 +55234,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50552",
          "id": "50552",
          "instructor": "Naomi Berkowitz",
          "location": "SCW 906",
@@ -57429,7 +55259,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:30",
-         "_id": "50803",
          "id": "50803",
          "instructor": "David Stephen Friedman",
          "location": "SCW 919",
@@ -57456,7 +55285,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51607",
          "id": "51607",
          "instructor": "Miriam Ungar Hirsch",
          "location": "TBA",
@@ -57483,7 +55311,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51608",
          "id": "51608",
          "instructor": "Miriam Ungar Hirsch",
          "location": "TBA",
@@ -57509,7 +55336,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:30",
-         "_id": "51614",
          "id": "51614",
          "instructor": "Ilana B. Benson",
          "location": "OFF SITE",
@@ -57536,7 +55362,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:35",
-         "_id": "50648",
          "id": "50648",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 518",
@@ -57562,7 +55387,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "50804",
          "id": "50804",
          "instructor": "Donna J. Greenberg",
          "location": "SCW 518",
@@ -57589,7 +55413,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50993",
          "id": "50993",
          "instructor": "Sierra Ladan Tavasolian",
          "location": "TBA",
@@ -57616,7 +55439,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50994",
          "id": "50994",
          "instructor": "Alison J Matika",
          "location": "TBA",
@@ -57643,7 +55465,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50602",
          "id": "50602",
          "instructor": "Gina Grimaldi",
          "location": "LEX215 LX313",
@@ -57670,7 +55491,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50730",
          "id": "50730",
          "instructor": "Gina Grimaldi",
          "location": "LEX215 LX719",
@@ -57697,7 +55517,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50679",
          "id": "50679",
          "instructor": "Seamus O'Malley",
          "location": "LEX215 LX719",
@@ -57724,7 +55543,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50631",
          "id": "50631",
          "instructor": "Matthew Ward Miller",
          "location": "LEX215 ",
@@ -57751,7 +55569,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50553",
          "id": "50553",
          "instructor": "Nora Nachumi",
          "location": "LEX215 LX719",
@@ -57778,7 +55595,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50727",
          "id": "50727",
          "instructor": "Jen DeGregorio",
          "location": "LEX215 LX719",
@@ -57804,7 +55620,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "50888",
          "id": "50888",
          "instructor": "Avital Rachel Chizhik",
          "location": "LEX215 ",
@@ -57830,7 +55645,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "50775",
          "id": "50775",
          "instructor": "Erik Mintz",
          "location": "LEX215 LX718",
@@ -57856,7 +55670,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:30",
-         "_id": "50714",
          "id": "50714",
          "instructor": "Deborah Schlueter",
          "location": "LEX215 LX718",
@@ -57883,7 +55696,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50992",
          "id": "50992",
          "instructor": "Lynda Johnson",
          "location": "TBA",
@@ -57910,7 +55722,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50744",
          "id": "50744",
          "instructor": "Joy Ladin",
          "location": "LEX215 ",
@@ -57937,7 +55748,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50995",
          "id": "50995",
          "instructor": "TBA",
          "location": "TBA",
@@ -57964,7 +55774,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50664",
          "id": "50664",
          "instructor": "Seamus O'Malley",
          "location": "LEX215 LX313",
@@ -57991,7 +55800,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51001",
          "id": "51001",
          "instructor": "Joy Ladin",
          "location": "TBA",
@@ -58017,7 +55825,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50996",
          "id": "50996",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -58043,7 +55850,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50996",
          "id": "50996",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -58069,7 +55875,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51005",
          "id": "51005",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -58095,7 +55900,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51005",
          "id": "51005",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -58122,7 +55926,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51004",
          "id": "51004",
          "instructor": "TBA",
          "location": "TBA",
@@ -58149,7 +55952,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50997",
          "id": "50997",
          "instructor": "Linda M. Shires",
          "location": "TBA",
@@ -58176,7 +55978,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50998",
          "id": "50998",
          "instructor": "Cynthia Wachtell",
          "location": "TBA",
@@ -58203,7 +56004,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50892",
          "id": "50892",
          "instructor": "Nora Nachumi",
          "location": "LEX215 ",
@@ -58230,7 +56030,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51000",
          "id": "51000",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -58257,7 +56056,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50999",
          "id": "50999",
          "instructor": "Linda M. Shires",
          "location": "TBA",
@@ -58284,7 +56082,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51002",
          "id": "51002",
          "instructor": "Nora Nachumi",
          "location": "TBA",
@@ -58310,7 +56107,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51003",
          "id": "51003",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -58336,7 +56132,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51003",
          "id": "51003",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -58363,7 +56158,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50622",
          "id": "50622",
          "instructor": "Rachel Calipha",
          "location": "LEX215 LX208",
@@ -58389,7 +56183,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50698",
          "id": "50698",
          "instructor": "Archishman Chakraborty",
          "location": "LEX215 ",
@@ -58416,7 +56209,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50919",
          "id": "50919",
          "instructor": "Sean Crockett",
          "location": "LEX215 LX403",
@@ -58443,7 +56235,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50825",
          "id": "50825",
          "instructor": "Rachel Calipha",
          "location": "LEX215 LX312",
@@ -58469,7 +56260,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:45",
-         "_id": "51712",
          "id": "51712",
          "instructor": "S. Abraham Ravid",
          "location": "TBA",
@@ -58496,7 +56286,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50535",
          "id": "50535",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -58523,7 +56312,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:30",
-         "_id": "50535",
          "id": "50535",
          "instructor": " Staff ",
          "location": "SCW 607",
@@ -58550,7 +56338,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51652",
          "id": "51652",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -58576,7 +56363,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "51652",
          "id": "51652",
          "instructor": " Staff ",
          "location": "TBA",
@@ -58603,7 +56389,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50681",
          "id": "50681",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 301",
@@ -58629,7 +56414,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "50681",
          "id": "50681",
          "instructor": " Staff ",
          "location": "SCW 301",
@@ -58656,7 +56440,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50755",
          "id": "50755",
          "instructor": "Dawn Arussy",
          "location": "SCW 301",
@@ -58682,7 +56465,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "50755",
          "id": "50755",
          "instructor": " Staff ",
          "location": "SCW ",
@@ -58708,7 +56490,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50585",
          "id": "50585",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 819",
@@ -58734,7 +56515,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "50585",
          "id": "50585",
          "instructor": " Staff ",
          "location": "SCW 819",
@@ -58760,7 +56540,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50585",
          "id": "50585",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -58786,7 +56565,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50829",
          "id": "50829",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 819",
@@ -58812,7 +56590,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "50829",
          "id": "50829",
          "instructor": " Staff ",
          "location": "SCW 819",
@@ -58838,7 +56615,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50829",
          "id": "50829",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -58865,7 +56641,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50830",
          "id": "50830",
          "instructor": "Osnat Bishko",
          "location": "SCW 1019",
@@ -58892,7 +56667,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50756",
          "id": "50756",
          "instructor": "Osnat Bishko",
          "location": "SCW 819",
@@ -58919,7 +56693,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50649",
          "id": "50649",
          "instructor": "Dawn Arussy",
          "location": "SCW 1019",
@@ -58946,7 +56719,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50682",
          "id": "50682",
          "instructor": "Hilla Goldwicht",
          "location": "SCW ",
@@ -58972,7 +56744,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50650",
          "id": "50650",
          "instructor": "Rivka Weiner",
          "location": "SCW 818",
@@ -58998,7 +56769,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50650",
          "id": "50650",
          "instructor": "Rivka Weiner",
          "location": "SCW 818",
@@ -59024,7 +56794,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50831",
          "id": "50831",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -59050,7 +56819,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50831",
          "id": "50831",
          "instructor": "Rivka Weiner",
          "location": "SCW 606",
@@ -59077,7 +56845,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50710",
          "id": "50710",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW 818",
@@ -59104,7 +56871,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50652",
          "id": "50652",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -59130,7 +56896,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50651",
          "id": "50651",
          "instructor": "Hilla Goldwicht",
          "location": "SCW ",
@@ -59156,7 +56921,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50651",
          "id": "50651",
          "instructor": "Hilla Goldwicht",
          "location": "TBA",
@@ -59183,7 +56947,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50676",
          "id": "50676",
          "instructor": "Osnat Bishko",
          "location": "SCW 919",
@@ -59209,7 +56972,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "50653",
          "id": "50653",
          "instructor": "Osnat Bishko",
          "location": "SCW ",
@@ -59235,7 +56997,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50653",
          "id": "50653",
          "instructor": "Osnat Bishko",
          "location": "TBA",
@@ -59262,7 +57023,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50832",
          "id": "50832",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW ",
@@ -59289,7 +57049,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50597",
          "id": "50597",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 815",
@@ -59315,7 +57074,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "50654",
          "id": "50654",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -59342,7 +57100,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50680",
          "id": "50680",
          "instructor": "Joshua D. Zimmerman",
          "location": "LEX215 LX210",
@@ -59369,7 +57126,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51621",
          "id": "51621",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -59395,7 +57151,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "51623",
          "id": "51623",
          "instructor": "Selma Botman",
          "location": "TBA",
@@ -59422,7 +57177,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51622",
          "id": "51622",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -59449,7 +57203,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51620",
          "id": "51620",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -59476,7 +57229,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51619",
          "id": "51619",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -59503,7 +57255,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51661",
          "id": "51661",
          "instructor": "Jill C. Katz",
          "location": "TBA",
@@ -59530,7 +57281,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51618",
          "id": "51618",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -59557,7 +57307,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50785",
          "id": "50785",
          "instructor": "Avi Naiman",
          "location": "LEX215 LX420",
@@ -59584,7 +57333,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50938",
          "id": "50938",
          "instructor": "Kevin Brabazon",
          "location": "LEX215 ",
@@ -59611,7 +57359,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50701",
          "id": "50701",
          "instructor": "Avi H. Giloni",
          "location": "LEX215 YAGODACOMM",
@@ -59638,7 +57385,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50702",
          "id": "50702",
          "instructor": "Avi H. Giloni",
          "location": "LEX215 LX210",
@@ -59664,7 +57410,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:10",
-         "_id": "50734",
          "id": "50734",
          "instructor": "Sriram Subramanian",
          "location": "LEX215 LX312",
@@ -59691,7 +57436,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50758",
          "id": "50758",
          "instructor": "Vladimir Kovtun",
          "location": "SCW 315",
@@ -59718,7 +57462,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50791",
          "id": "50791",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "SCW 315",
@@ -59742,7 +57485,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "50828",
          "id": "50828",
          "instructor": "TBA",
          "location": "TBA",
@@ -59768,7 +57510,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "11:00",
-         "_id": "50690",
          "id": "50690",
          "instructor": "Deena S. Rabinovich",
          "location": "OFF SITE",
@@ -59794,7 +57535,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:45",
-         "_id": "50690",
          "id": "50690",
          "instructor": "Deena S. Rabinovich",
          "location": "TBA",
@@ -59820,7 +57560,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "50691",
          "id": "50691",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 906",
@@ -59846,7 +57585,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:45",
-         "_id": "50720",
          "id": "50720",
          "instructor": "Deena S. Rabinovich",
          "location": "BELFHL B803",
@@ -59872,7 +57610,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50672",
          "id": "50672",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -59898,7 +57635,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50672",
          "id": "50672",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -59924,7 +57660,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50638",
          "id": "50638",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -59950,7 +57685,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50638",
          "id": "50638",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -59977,7 +57711,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51647",
          "id": "51647",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -60003,7 +57736,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:23",
-         "_id": "51649",
          "id": "51649",
          "instructor": "Jeffrey S. Gurock",
          "location": "TBA",
@@ -60030,7 +57762,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51650",
          "id": "51650",
          "instructor": "Jill C. Katz",
          "location": "TBA",
@@ -60056,7 +57787,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "51648",
          "id": "51648",
          "instructor": "Ephraim Kanarfogel",
          "location": "TBA",
@@ -60083,7 +57813,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51668",
          "id": "51668",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -60109,7 +57838,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50713",
          "id": "50713",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -60135,7 +57863,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50713",
          "id": "50713",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -60161,7 +57888,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:30",
-         "_id": "51671",
          "id": "51671",
          "instructor": "Gamliel Shmalo",
          "location": "TBA",
@@ -60187,7 +57913,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "51673",
          "id": "51673",
          "instructor": "Yosef Zvi Bronstein",
          "location": "TBA",
@@ -60213,7 +57938,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:14",
-         "_id": "50805",
          "id": "50805",
          "instructor": "Gamliel Shmalo",
          "location": "SCW 501",
@@ -60240,7 +57964,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50588",
          "id": "50588",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -60266,7 +57989,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "51692",
          "id": "51692",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -60292,7 +58014,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51692",
          "id": "51692",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -60319,7 +58040,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51691",
          "id": "51691",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "TBA",
@@ -60346,7 +58066,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51693",
          "id": "51693",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -60373,7 +58092,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50675",
          "id": "50675",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -60400,7 +58118,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "51698",
          "id": "51698",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -60427,7 +58144,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50637",
          "id": "50637",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -60453,7 +58169,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:20",
-         "_id": "50557",
          "id": "50557",
          "instructor": "Meir Fulda",
          "location": "SCW 401",
@@ -60480,7 +58195,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50687",
          "id": "50687",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -60506,7 +58220,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51697",
          "id": "51697",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -60533,7 +58246,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50689",
          "id": "50689",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -60560,7 +58272,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50590",
          "id": "50590",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -60587,7 +58298,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "51694",
          "id": "51694",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -60614,7 +58324,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51695",
          "id": "51695",
          "instructor": "Aaron Cohen",
          "location": "TBA",
@@ -60641,7 +58350,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50598",
          "id": "50598",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -60667,7 +58375,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:10",
-         "_id": "51699",
          "id": "51699",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -60693,7 +58400,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50558",
          "id": "50558",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 601",
@@ -60719,7 +58425,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50558",
          "id": "50558",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 601",
@@ -60746,7 +58451,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51690",
          "id": "51690",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -60773,7 +58477,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51704",
          "id": "51704",
          "instructor": "Gideon I. Shloush",
          "location": "TBA",
@@ -60799,7 +58502,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "51700",
          "id": "51700",
          "instructor": "Elchanan A. Adler",
          "location": "TBA",
@@ -60825,7 +58527,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "51696",
          "id": "51696",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -60851,7 +58552,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51696",
          "id": "51696",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -60878,7 +58578,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50717",
          "id": "50717",
          "instructor": "Saul J. Berman",
          "location": "SCW 418",
@@ -60905,7 +58604,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51701",
          "id": "51701",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -60932,7 +58630,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51705",
          "id": "51705",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -60958,7 +58655,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "51706",
          "id": "51706",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -60985,7 +58681,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50956",
          "id": "50956",
          "instructor": "David A. Pahmer",
          "location": "TBA",
@@ -61012,7 +58707,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:00",
-         "_id": "50556",
          "id": "50556",
          "instructor": "Moshe Y. Kahn",
          "location": "SCW 406",
@@ -61039,7 +58733,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51707",
          "id": "51707",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -61066,7 +58759,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:20",
-         "_id": "51707",
          "id": "51707",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -61092,7 +58784,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51708",
          "id": "51708",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -61119,7 +58810,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50782",
          "id": "50782",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -61146,7 +58836,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "51709",
          "id": "51709",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -61173,7 +58862,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50624",
          "id": "50624",
          "instructor": "Steven M. Nissenfeld",
          "location": "LEX215 ",
@@ -61199,7 +58887,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "51717",
          "id": "51717",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -61225,7 +58912,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "51717",
          "id": "51717",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -61251,7 +58937,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51727",
          "id": "51727",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -61277,7 +58962,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51731",
          "id": "51731",
          "instructor": "TBA",
          "location": "TBA",
@@ -61303,7 +58987,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51720",
          "id": "51720",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -61329,7 +59012,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50915",
          "id": "50915",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX210",
@@ -61356,7 +59038,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50920",
          "id": "50920",
          "instructor": "Sean Crockett",
          "location": "LEX215 ",
@@ -61383,7 +59064,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50792",
          "id": "50792",
          "instructor": "Andrew M. Geller",
          "location": "LEX215 LX314",
@@ -61410,7 +59090,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50699",
          "id": "50699",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX402",
@@ -61436,7 +59115,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "50559",
          "id": "50559",
          "instructor": "Steven M. Nissenfeld",
          "location": "LEX215 YAGODACOMM",
@@ -61462,7 +59140,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:35",
-         "_id": "50765",
          "id": "50765",
          "instructor": "Andrew M. Geller",
          "location": "LEX215 LX209",
@@ -61489,7 +59166,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50735",
          "id": "50735",
          "instructor": "Steven S. Chan",
          "location": "LEX215 LX208",
@@ -61516,7 +59192,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50626",
          "id": "50626",
          "instructor": "Steven S. Chan",
          "location": "LEX215 ",
@@ -61543,7 +59218,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50788",
          "id": "50788",
          "instructor": "Tamar Avnet",
          "location": "LEX215 LX312",
@@ -61569,7 +59243,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51732",
          "id": "51732",
          "instructor": "TBA",
          "location": "TBA",
@@ -61595,7 +59268,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "50917",
          "id": "50917",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX210",
@@ -61622,7 +59294,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50921",
          "id": "50921",
          "instructor": "Sean Crockett",
          "location": "LEX215 LX403",
@@ -61649,7 +59320,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50789",
          "id": "50789",
          "instructor": "Tamar Avnet",
          "location": "LEX215 ",
@@ -61675,7 +59345,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "51729",
          "id": "51729",
          "instructor": "Nurit Shaul",
          "location": "TBA",
@@ -61701,7 +59370,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "53031",
          "id": "53031",
          "instructor": "Erik Mintz",
          "location": "TBA",
@@ -61727,7 +59395,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51730",
          "id": "51730",
          "instructor": "Scott Sternbach",
          "location": "TBA",
@@ -61754,7 +59421,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50674",
          "id": "50674",
          "instructor": "Margarita R. Levin",
          "location": "SCW 406",
@@ -61781,7 +59447,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50641",
          "id": "50641",
          "instructor": "Wai Ting Lam",
          "location": "SCW ",
@@ -61808,7 +59473,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:10",
-         "_id": "50641",
          "id": "50641",
          "instructor": "Wai Ting Lam",
          "location": "TBA",
@@ -61835,7 +59499,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:05",
-         "_id": "50575",
          "id": "50575",
          "instructor": "Michael Dalezman",
          "location": "SCW 718",
@@ -61862,7 +59525,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:25",
-         "_id": "50575",
          "id": "50575",
          "instructor": "Michael Dalezman",
          "location": "TBA",
@@ -61889,7 +59551,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "50599",
          "id": "50599",
          "instructor": "Morton Lowengrub",
          "location": "LEX215 LX402",
@@ -61916,7 +59577,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50599",
          "id": "50599",
          "instructor": "Morton Lowengrub",
          "location": "LEX215 LX402",
@@ -61943,7 +59603,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50673",
          "id": "50673",
          "instructor": "Michael Dalezman",
          "location": "SCW ",
@@ -61970,7 +59629,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50705",
          "id": "50705",
          "instructor": "Marian Gidea",
          "location": "LEX215 ",
@@ -61997,7 +59655,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50542",
          "id": "50542",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -62024,7 +59681,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50645",
          "id": "50645",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -62050,7 +59706,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50594",
          "id": "50594",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -62076,7 +59731,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50594",
          "id": "50594",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -62103,7 +59757,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50541",
          "id": "50541",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -62130,7 +59783,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50810",
          "id": "50810",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -62157,7 +59809,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50665",
          "id": "50665",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -62183,7 +59834,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50663",
          "id": "50663",
          "instructor": "Stanley Dorn",
          "location": "SCW 401",
@@ -62209,7 +59859,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:30",
-         "_id": "51654",
          "id": "51654",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -62235,7 +59884,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "51654",
          "id": "51654",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -62261,7 +59909,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:45",
-         "_id": "51655",
          "id": "51655",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -62287,7 +59934,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "51656",
          "id": "51656",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -62314,7 +59960,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "52791",
          "id": "52791",
          "instructor": "Margarita R. Levin",
          "location": "TBA",
@@ -62340,7 +59985,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51659",
          "id": "51659",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -62366,7 +60010,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51659",
          "id": "51659",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -62393,7 +60036,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51660",
          "id": "51660",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -62420,7 +60062,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50707",
          "id": "50707",
          "instructor": "Herb Leventer",
          "location": "LEX215 ",
@@ -62448,7 +60089,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50618",
          "id": "50618",
          "instructor": "Dinu Dan",
          "location": "OFF SITE",
@@ -62476,7 +60116,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50619",
          "id": "50619",
          "instructor": "Naomi Kaszovitz",
          "location": "OFF SITE",
@@ -62506,7 +60145,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50543",
          "id": "50543",
          "instructor": "Michael Alon",
          "location": "OFF SITE",
@@ -62534,7 +60172,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "50750",
          "id": "50750",
          "instructor": "Steven Schucker",
          "location": "OFF SITE",
@@ -62560,7 +60197,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:35",
-         "_id": "50544",
          "id": "50544",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -62586,7 +60222,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:00",
-         "_id": "50545",
          "id": "50545",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -62612,7 +60247,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "50545",
          "id": "50545",
          "instructor": "Judith Cummins",
          "location": "SCW GYM",
@@ -62639,7 +60273,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50635",
          "id": "50635",
          "instructor": "Lea F. Santos",
          "location": "SCW 619",
@@ -62666,7 +60299,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50818",
          "id": "50818",
          "instructor": "Lea F. Santos",
          "location": "SCW 601",
@@ -62692,7 +60324,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:50",
-         "_id": "50821",
          "id": "50821",
          "instructor": "Lea F. Santos",
          "location": "SCW 518",
@@ -62718,7 +60349,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "50579",
          "id": "50579",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62744,7 +60374,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "50600",
          "id": "50600",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62770,7 +60399,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50728",
          "id": "50728",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62796,7 +60424,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "50578",
          "id": "50578",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62823,7 +60450,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50991",
          "id": "50991",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -62849,7 +60475,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:15",
-         "_id": "50991",
          "id": "50991",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -62875,7 +60500,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "50708",
          "id": "50708",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62901,7 +60525,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "50601",
          "id": "50601",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62927,7 +60550,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "50729",
          "id": "50729",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62953,7 +60575,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "50636",
          "id": "50636",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -62979,7 +60600,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:00",
-         "_id": "50819",
          "id": "50819",
          "instructor": "Mark Edelman",
          "location": "LEX215 LX506",
@@ -63006,7 +60626,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50608",
          "id": "50608",
          "instructor": "Jamie Aroosi",
          "location": "SCW ",
@@ -63033,7 +60652,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50610",
          "id": "50610",
          "instructor": "Hill Krishnan",
          "location": "SCW ",
@@ -63060,7 +60678,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "51595",
          "id": "51595",
          "instructor": "Joanna Phua",
          "location": "TBA",
@@ -63087,7 +60704,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "51596",
          "id": "51596",
          "instructor": "Neil Rogachevsky",
          "location": "TBA",
@@ -63113,7 +60729,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:30",
-         "_id": "51597",
          "id": "51597",
          "instructor": "Charles Freilich",
          "location": "TBA",
@@ -63140,7 +60755,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "51599",
          "id": "51599",
          "instructor": "Daniel Ayalon, Ruth Bevan ",
          "location": "TBA",
@@ -63166,7 +60780,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "51598",
          "id": "51598",
          "instructor": "Matthew Holbreich",
          "location": "TBA",
@@ -63193,7 +60806,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "51600",
          "id": "51600",
          "instructor": "Neil Rogachevsky, Meir Yakov Soloveichik ",
          "location": "TBA",
@@ -63220,7 +60832,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51601",
          "id": "51601",
          "instructor": "Meir Yakov Soloveichik",
          "location": "TBA",
@@ -63247,7 +60858,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50695",
          "id": "50695",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -63274,7 +60884,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50595",
          "id": "50595",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -63300,7 +60909,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50662",
          "id": "50662",
          "instructor": "Rachel Ebner",
          "location": "TBA",
@@ -63326,7 +60934,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50662",
          "id": "50662",
          "instructor": "Rachel Ebner",
          "location": "TBA",
@@ -63353,7 +60960,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50694",
          "id": "50694",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -63380,7 +60986,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50732",
          "id": "50732",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -63406,7 +61011,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50628",
          "id": "50628",
          "instructor": "Lisa Doreen Glukhovsky",
          "location": "LEX215 LX414",
@@ -63432,7 +61036,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:10",
-         "_id": "50546",
          "id": "50546",
          "instructor": "Jessica Hope Sloan",
          "location": "LEX215 LX414",
@@ -63458,7 +61061,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "51602",
          "id": "51602",
          "instructor": "Yocheved Pahmer",
          "location": "TBA",
@@ -63484,7 +61086,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "50711",
          "id": "50711",
          "instructor": "Yocheved Pahmer",
          "location": "LEX215 LX414",
@@ -63511,7 +61112,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50562",
          "id": "50562",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -63538,7 +61138,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "50547",
          "id": "50547",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -63565,7 +61164,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50548",
          "id": "50548",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -63592,7 +61190,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50726",
          "id": "50726",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 LX208",
@@ -63619,7 +61216,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:35",
-         "_id": "50655",
          "id": "50655",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 518",
@@ -63646,7 +61242,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50957",
          "id": "50957",
          "instructor": "Marcel Isaac Perlman",
          "location": "TBA",
@@ -63673,7 +61268,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50549",
          "id": "50549",
          "instructor": "Marcel Isaac Perlman",
          "location": "LEX215 LX420",
@@ -63700,7 +61294,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "50560",
          "id": "50560",
          "instructor": "Koby E. Frances",
          "location": "TBA",
@@ -63726,7 +61319,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "51603",
          "id": "51603",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -63752,7 +61344,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "51603",
          "id": "51603",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -63779,7 +61370,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50748",
          "id": "50748",
          "instructor": "Amanda Mitchell",
          "location": "TBA",
@@ -63806,7 +61396,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50749",
          "id": "50749",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX210",
@@ -63833,7 +61422,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50761",
          "id": "50761",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -63860,7 +61448,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50846",
          "id": "50846",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX209",
@@ -63887,7 +61474,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50709",
          "id": "50709",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -63914,7 +61500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50754",
          "id": "50754",
          "instructor": "Lora Danley",
          "location": "SCW 406",
@@ -63941,7 +61526,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "50550",
          "id": "50550",
          "instructor": "Sidney Langer",
          "location": "SCW 401",
@@ -63968,7 +61552,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50630",
          "id": "50630",
          "instructor": "Amy Stuart",
          "location": "SCW ",
@@ -63995,7 +61578,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50646",
          "id": "50646",
          "instructor": "Roberta Farber",
          "location": "SCW 1019",
@@ -64022,7 +61604,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "51653",
          "id": "51653",
          "instructor": "Roberta Farber",
          "location": "TBA",
@@ -64048,7 +61629,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:15",
-         "_id": "50666",
          "id": "50666",
          "instructor": "Eric Goldman",
          "location": "SCW 1015",
@@ -64075,7 +61655,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50736",
          "id": "50736",
          "instructor": "Terry DiLorenzo",
          "location": "TBA",
@@ -64102,7 +61681,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "51651",
          "id": "51651",
          "instructor": "Sidney Langer",
          "location": "TBA",
@@ -64128,7 +61706,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50703",
          "id": "50703",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64154,7 +61731,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50703",
          "id": "50703",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64180,7 +61756,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50931",
          "id": "50931",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64206,7 +61781,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50931",
          "id": "50931",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64233,7 +61807,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50609",
          "id": "50609",
          "instructor": "Robert Russell",
          "location": "SCW ",
@@ -64260,7 +61833,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50644",
          "id": "50644",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64287,7 +61859,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "50801",
          "id": "50801",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -64313,7 +61884,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "50563",
          "id": "50563",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -64339,7 +61909,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "50563",
          "id": "50563",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -64365,7 +61934,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:20",
-         "_id": "50564",
          "id": "50564",
          "instructor": "Sydney Horn-Klein",
          "location": "LEX215 LX405",
@@ -64392,7 +61960,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "50565",
          "id": "50565",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -64418,7 +61985,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "50611",
          "id": "50611",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -64444,7 +62010,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "50611",
          "id": "50611",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -64471,7 +62036,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "50566",
          "id": "50566",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -64497,7 +62061,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "50567",
          "id": "50567",
          "instructor": "Allison Dana Schnall",
          "location": "LEX215 LX420",
@@ -64523,7 +62086,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:25",
-         "_id": "50874",
          "id": "50874",
          "instructor": "Susan Wilson",
          "location": "LEX215 LX402",
@@ -64550,7 +62112,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "50593",
          "id": "50593",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX314",
@@ -64577,7 +62138,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "50642",
          "id": "50642",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX314",
@@ -64603,7 +62163,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "50554",
          "id": "50554",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "LEX215 LX313",
@@ -64629,7 +62188,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:30",
-         "_id": "50554",
          "id": "50554",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "LEX215 LX313",
@@ -64656,7 +62214,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50808",
          "id": "50808",
          "instructor": "Caroline Sibel Altaras",
          "location": "LEX215 ",
@@ -64683,7 +62240,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "50656",
          "id": "50656",
          "instructor": "TBA",
          "location": "LEX215 LX313",
@@ -64710,7 +62266,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "50891",
          "id": "50891",
          "instructor": "Nora Nachumi",
          "location": "LEX215 ",
@@ -64734,7 +62289,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51583",
          "id": "51583",
          "instructor": "TBA",
          "location": "TBA",
@@ -64762,7 +62316,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -64790,7 +62343,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -64816,7 +62368,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -64842,7 +62393,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51581",
          "id": "51581",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -64870,7 +62420,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -64898,7 +62447,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -64924,7 +62472,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -64950,7 +62497,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -64976,7 +62522,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -65002,7 +62547,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51545",
          "id": "51545",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -65030,7 +62574,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -65058,7 +62601,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -65084,7 +62626,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -65110,7 +62651,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -65136,7 +62676,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -65162,7 +62701,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51546",
          "id": "51546",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -65190,7 +62728,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -65218,7 +62755,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z102",
@@ -65244,7 +62780,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -65270,7 +62805,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G517",
@@ -65296,7 +62830,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z111",
@@ -65322,7 +62855,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51547",
          "id": "51547",
          "instructor": "David M. Hirsch",
          "location": "ZYSMAN Z102",
@@ -65350,7 +62882,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -65378,7 +62909,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -65404,7 +62934,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -65430,7 +62959,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -65456,7 +62984,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK BMIDRASH",
@@ -65482,7 +63009,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51548",
          "id": "51548",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -65510,7 +63036,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65538,7 +63063,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65564,7 +63088,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65590,7 +63113,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65616,7 +63138,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65642,7 +63163,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51549",
          "id": "51549",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -65670,7 +63190,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -65698,7 +63217,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -65724,7 +63242,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -65750,7 +63267,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -65776,7 +63292,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -65802,7 +63317,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51550",
          "id": "51550",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -65830,7 +63344,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -65858,7 +63371,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -65884,7 +63396,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -65910,7 +63421,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -65936,7 +63446,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "GLUECK BMIDRASH",
@@ -65962,7 +63471,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51551",
          "id": "51551",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -65990,7 +63498,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -66018,7 +63525,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -66044,7 +63550,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -66070,7 +63575,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -66096,7 +63600,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -66122,7 +63625,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51552",
          "id": "51552",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -66150,7 +63652,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -66178,7 +63679,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -66204,7 +63704,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -66230,7 +63729,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -66256,7 +63754,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -66282,7 +63779,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51553",
          "id": "51553",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -66310,7 +63806,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -66338,7 +63833,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -66364,7 +63858,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -66390,7 +63883,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -66416,7 +63908,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -66442,7 +63933,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51554",
          "id": "51554",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -66470,7 +63960,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -66498,7 +63987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -66524,7 +64012,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -66550,7 +64037,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -66576,7 +64062,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -66602,7 +64087,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51555",
          "id": "51555",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -66630,7 +64114,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -66658,7 +64141,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -66684,7 +64166,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -66710,7 +64191,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -66736,7 +64216,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -66762,7 +64241,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51556",
          "id": "51556",
          "instructor": "Nathaniel Wiederblank",
          "location": "FURST F213",
@@ -66790,7 +64268,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -66818,7 +64295,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -66844,7 +64320,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -66870,7 +64345,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -66896,7 +64370,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK BMIDRASH",
@@ -66922,7 +64395,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51558",
          "id": "51558",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G518",
@@ -66950,7 +64422,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -66978,7 +64449,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -67004,7 +64474,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -67030,7 +64499,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -67056,7 +64524,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -67082,7 +64549,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51560",
          "id": "51560",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -67110,7 +64576,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -67138,7 +64603,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -67164,7 +64628,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -67190,7 +64653,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -67216,7 +64678,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -67242,7 +64703,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51563",
          "id": "51563",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -67270,7 +64730,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -67298,7 +64757,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -67324,7 +64782,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -67350,7 +64807,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -67376,7 +64832,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -67402,7 +64857,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "14:30",
-         "_id": "51564",
          "id": "51564",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -67430,7 +64884,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -67458,7 +64911,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -67484,7 +64936,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -67510,7 +64961,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -67536,7 +64986,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -67562,7 +65011,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51565",
          "id": "51565",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -67590,7 +65038,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -67618,7 +65065,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -67644,7 +65090,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -67670,7 +65115,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -67696,7 +65140,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -67722,7 +65165,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51566",
          "id": "51566",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -67750,7 +65192,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -67778,7 +65219,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -67804,7 +65244,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -67830,7 +65269,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -67856,7 +65294,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -67882,7 +65319,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51567",
          "id": "51567",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -67910,7 +65346,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -67938,7 +65373,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -67964,7 +65398,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -67990,7 +65423,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -68016,7 +65448,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -68042,7 +65473,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51568",
          "id": "51568",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU108",
@@ -68070,7 +65500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -68098,7 +65527,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -68124,7 +65552,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -68150,7 +65577,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -68176,7 +65602,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -68202,7 +65627,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51569",
          "id": "51569",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -68230,7 +65654,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -68258,7 +65681,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -68284,7 +65706,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -68310,7 +65731,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -68336,7 +65756,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -68362,7 +65781,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51571",
          "id": "51571",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -68390,7 +65808,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -68418,7 +65835,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -68444,7 +65860,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -68470,7 +65885,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -68496,7 +65910,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -68522,7 +65935,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "51576",
          "id": "51576",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -68549,7 +65961,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51041",
          "id": "51041",
          "instructor": "Joseph John Kerstein",
          "location": "TBA",
@@ -68576,7 +65987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51081",
          "id": "51081",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -68603,7 +66013,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51052",
          "id": "51052",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -68630,7 +66039,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51048",
          "id": "51048",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -68657,7 +66065,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51007",
          "id": "51007",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -68684,7 +66091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51006",
          "id": "51006",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -68711,7 +66117,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51008",
          "id": "51008",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -68738,7 +66143,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51038",
          "id": "51038",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -68765,7 +66169,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51733",
          "id": "51733",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "TBA",
@@ -68792,7 +66195,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51009",
          "id": "51009",
          "instructor": "He Huang",
          "location": "TBA",
@@ -68819,7 +66221,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51011",
          "id": "51011",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -68846,7 +66247,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51010",
          "id": "51010",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -68872,7 +66272,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51060",
          "id": "51060",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -68898,7 +66297,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:30",
-         "_id": "53140",
          "id": "53140",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -68922,7 +66320,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51015",
          "id": "51015",
          "instructor": "TBA",
          "location": "TBA",
@@ -68946,7 +66343,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51042",
          "id": "51042",
          "instructor": "TBA",
          "location": "TBA",
@@ -68973,7 +66369,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51012",
          "id": "51012",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -69000,7 +66395,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51066",
          "id": "51066",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -69027,7 +66421,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51014",
          "id": "51014",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -69054,7 +66447,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51013",
          "id": "51013",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -69080,7 +66472,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51043",
          "id": "51043",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -69106,7 +66497,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51040",
          "id": "51040",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -69132,7 +66522,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51053",
          "id": "51053",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -69159,7 +66548,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51075",
          "id": "51075",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -69186,7 +66574,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51017",
          "id": "51017",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -69213,7 +66600,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51019",
          "id": "51019",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -69240,7 +66626,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51086",
          "id": "51086",
          "instructor": "Gabriela Coiculescu",
          "location": "TBA",
@@ -69267,7 +66652,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51018",
          "id": "51018",
          "instructor": "Gabriela Coiculescu",
          "location": "TBA",
@@ -69294,7 +66678,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51020",
          "id": "51020",
          "instructor": "S. Abraham Ravid",
          "location": "TBA",
@@ -69321,7 +66704,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51021",
          "id": "51021",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -69348,7 +66730,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51022",
          "id": "51022",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -69375,7 +66756,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51073",
          "id": "51073",
          "instructor": "Allen M. Pfeiffer",
          "location": "TBA",
@@ -69402,7 +66782,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51068",
          "id": "51068",
          "instructor": "Rachel Calipha",
          "location": "TBA",
@@ -69428,7 +66807,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51054",
          "id": "51054",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -69455,7 +66833,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51050",
          "id": "51050",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -69482,7 +66859,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51063",
          "id": "51063",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -69509,7 +66885,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51735",
          "id": "51735",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -69536,7 +66911,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51084",
          "id": "51084",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "TBA",
@@ -69563,7 +66937,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51736",
          "id": "51736",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -69590,7 +66963,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51074",
          "id": "51074",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -69617,7 +66989,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51082",
          "id": "51082",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -69644,7 +67015,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51737",
          "id": "51737",
          "instructor": "Milette Shanon",
          "location": "TBA",
@@ -69671,7 +67041,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51055",
          "id": "51055",
          "instructor": "Avi Naiman",
          "location": "TBA",
@@ -69698,7 +67067,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51024",
          "id": "51024",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -69725,7 +67093,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51023",
          "id": "51023",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -69752,7 +67119,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51044",
          "id": "51044",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -69779,7 +67145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51738",
          "id": "51738",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -69806,7 +67171,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51026",
          "id": "51026",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -69833,7 +67197,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51025",
          "id": "51025",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -69859,7 +67222,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51057",
          "id": "51057",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -69886,7 +67248,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51037",
          "id": "51037",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -69913,7 +67274,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51065",
          "id": "51065",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -69940,7 +67300,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51027",
          "id": "51027",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -69967,7 +67326,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51046",
          "id": "51046",
          "instructor": "Vladimir Kovtun",
          "location": "TBA",
@@ -69994,7 +67352,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51069",
          "id": "51069",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -70021,7 +67378,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51028",
          "id": "51028",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -70048,7 +67404,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51029",
          "id": "51029",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -70075,7 +67430,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51045",
          "id": "51045",
          "instructor": "Judith Calvo-Ryba",
          "location": "TBA",
@@ -70102,7 +67456,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51030",
          "id": "51030",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -70129,7 +67482,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51070",
          "id": "51070",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -70155,7 +67507,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51739",
          "id": "51739",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -70181,7 +67532,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51777",
          "id": "51777",
          "instructor": "Abe Schwartzbard",
          "location": "TBA",
@@ -70208,7 +67558,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51079",
          "id": "51079",
          "instructor": "Maria Blekher",
          "location": "TBA",
@@ -70235,7 +67584,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51061",
          "id": "51061",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -70262,7 +67610,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51774",
          "id": "51774",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -70289,7 +67636,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51740",
          "id": "51740",
          "instructor": "Judith Calvo-Ryba",
          "location": "TBA",
@@ -70316,7 +67662,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51031",
          "id": "51031",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -70342,7 +67687,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "51083",
          "id": "51083",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -70368,7 +67712,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51016",
          "id": "51016",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -70394,7 +67737,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51051",
          "id": "51051",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -70421,7 +67763,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51059",
          "id": "51059",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -70448,7 +67789,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51032",
          "id": "51032",
          "instructor": "TBA",
          "location": "TBA",
@@ -70474,7 +67814,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51039",
          "id": "51039",
          "instructor": "TBA",
          "location": "TBA",
@@ -70500,7 +67839,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51039",
          "id": "51039",
          "instructor": "TBA",
          "location": "TBA",
@@ -70527,7 +67865,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51033",
          "id": "51033",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -70553,7 +67890,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51775",
          "id": "51775",
          "instructor": "Abe Schwartzbard",
          "location": "TBA",
@@ -70580,7 +67916,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51080",
          "id": "51080",
          "instructor": "Maria Blekher",
          "location": "TBA",
@@ -70607,7 +67942,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51062",
          "id": "51062",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -70634,7 +67968,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51776",
          "id": "51776",
          "instructor": "Johanna Goldstein",
          "location": "TBA",
@@ -70661,7 +67994,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51034",
          "id": "51034",
          "instructor": "Jesse Itzkowitz",
          "location": "TBA",
@@ -70688,7 +68020,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51035",
          "id": "51035",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -70715,7 +68046,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51036",
          "id": "51036",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -70741,7 +68071,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51350",
          "id": "51350",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -70767,7 +68096,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "51658",
          "id": "51658",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -70793,7 +68121,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:35",
-         "_id": "51662",
          "id": "51662",
          "instructor": "Carla Aurich",
          "location": "TBA",
@@ -70819,7 +68146,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:35",
-         "_id": "51196",
          "id": "51196",
          "instructor": "Carla Aurich",
          "location": "TBA",
@@ -70845,7 +68171,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51175",
          "id": "51175",
          "instructor": "Jeremy Wieder",
          "location": "TBA",
@@ -70871,7 +68196,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51176",
          "id": "51176",
          "instructor": "Yaakov Elman",
          "location": "TBA",
@@ -70897,7 +68221,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "51216",
          "id": "51216",
          "instructor": "Elazar Hurvitz",
          "location": "TBA",
@@ -70923,7 +68246,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "53133",
          "id": "53133",
          "instructor": "David Horwitz",
          "location": "TBA",
@@ -70949,7 +68271,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "53034",
          "id": "53034",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -70976,7 +68297,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52771",
          "id": "52771",
          "instructor": "Barry L. Eichler",
          "location": "TBA",
@@ -71002,7 +68322,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "52772",
          "id": "52772",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -71028,7 +68347,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52773",
          "id": "52773",
          "instructor": "J. Mitchell Orlian",
          "location": "TBA",
@@ -71054,7 +68372,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "52769",
          "id": "52769",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -71080,7 +68397,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52770",
          "id": "52770",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -71106,7 +68422,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "53141",
          "id": "53141",
          "instructor": "Joseph L. Angel",
          "location": "TBA",
@@ -71132,7 +68447,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52774",
          "id": "52774",
          "instructor": "Elazar Hurvitz",
          "location": "TBA",
@@ -71158,7 +68472,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:05",
-         "_id": "51089",
          "id": "51089",
          "instructor": "Danielle Wasserman",
          "location": "TBA",
@@ -71184,7 +68497,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "51088",
          "id": "51088",
          "instructor": "Aaron Kogut",
          "location": "TBA",
@@ -71210,7 +68522,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51090",
          "id": "51090",
          "instructor": "Chayim Z. Goldberg",
          "location": "TBA",
@@ -71236,7 +68547,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51091",
          "id": "51091",
          "instructor": "Aaron Kogut",
          "location": "TBA",
@@ -71263,7 +68573,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51092",
          "id": "51092",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -71289,7 +68598,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51093",
          "id": "51093",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -71316,7 +68624,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51094",
          "id": "51094",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -71342,7 +68649,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:15",
-         "_id": "51335",
          "id": "51335",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -71368,7 +68674,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:15",
-         "_id": "51335",
          "id": "51335",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -71395,7 +68700,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51181",
          "id": "51181",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -71421,7 +68725,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51181",
          "id": "51181",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -71448,7 +68751,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51180",
          "id": "51180",
          "instructor": "Josefa M. Steinhauer",
          "location": "TBA",
@@ -71474,7 +68776,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51180",
          "id": "51180",
          "instructor": "Josefa M. Steinhauer",
          "location": "TBA",
@@ -71500,7 +68801,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:40",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71526,7 +68826,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71552,7 +68851,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:20",
-         "_id": "51161",
          "id": "51161",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71579,7 +68877,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51664",
          "id": "51664",
          "instructor": "Sumanta Goswami",
          "location": "TBA",
@@ -71605,7 +68902,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:05",
-         "_id": "51664",
          "id": "51664",
          "instructor": "Sumanta Goswami",
          "location": "TBA",
@@ -71631,7 +68927,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71657,7 +68952,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71683,7 +68977,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "51159",
          "id": "51159",
          "instructor": "Radhashree Maitra",
          "location": "TBA",
@@ -71709,7 +69002,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:10",
-         "_id": "51160",
          "id": "51160",
          "instructor": "Moses D. Tendler",
          "location": "TBA",
@@ -71735,7 +69027,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51368",
          "id": "51368",
          "instructor": "Ido Davidesco",
          "location": "TBA",
@@ -71761,7 +69052,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "53030",
          "id": "53030",
          "instructor": "Ari Shechter",
          "location": "TBA",
@@ -71788,7 +69078,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51212",
          "id": "51212",
          "instructor": "Toni M Schwarz",
          "location": "TBA",
@@ -71812,7 +69101,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51197",
          "id": "51197",
          "instructor": "TBA",
          "location": "TBA",
@@ -71839,7 +69127,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51095",
          "id": "51095",
          "instructor": "James Camara",
          "location": "TBA",
@@ -71865,7 +69152,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51095",
          "id": "51095",
          "instructor": "James Camara",
          "location": "TBA",
@@ -71891,7 +69177,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:45",
-         "_id": "51182",
          "id": "51182",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -71917,7 +69202,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:45",
-         "_id": "51184",
          "id": "51184",
          "instructor": "Allan Burger",
          "location": "TBA",
@@ -71943,7 +69227,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:45",
-         "_id": "51183",
          "id": "51183",
          "instructor": "Racquel K. Malcolm-Whyte",
          "location": "TBA",
@@ -71969,7 +69252,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "51185",
          "id": "51185",
          "instructor": "Jacopo Samson",
          "location": "TBA",
@@ -71996,7 +69278,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51096",
          "id": "51096",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -72022,7 +69303,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51096",
          "id": "51096",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -72048,7 +69328,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "51243",
          "id": "51243",
          "instructor": "James Camara",
          "location": "TBA",
@@ -72074,7 +69353,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:45",
-         "_id": "51243",
          "id": "51243",
          "instructor": "James Camara",
          "location": "TBA",
@@ -72100,7 +69378,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "51172",
          "id": "51172",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -72127,7 +69404,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51171",
          "id": "51171",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -72153,7 +69429,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:15",
-         "_id": "51260",
          "id": "51260",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -72179,7 +69454,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:15",
-         "_id": "51260",
          "id": "51260",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -72206,7 +69480,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51261",
          "id": "51261",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -72232,7 +69505,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51261",
          "id": "51261",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -72258,7 +69530,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:00",
-         "_id": "51097",
          "id": "51097",
          "instructor": "Jianfeng Jiang",
          "location": "TBA",
@@ -72284,7 +69555,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:00",
-         "_id": "51098",
          "id": "51098",
          "instructor": "Rajalakshmi Viswanathan",
          "location": "TBA",
@@ -72308,7 +69578,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51198",
          "id": "51198",
          "instructor": "TBA",
          "location": "TBA",
@@ -72335,7 +69604,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51214",
          "id": "51214",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -72361,7 +69629,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "51262",
          "id": "51262",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -72387,7 +69654,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51206",
          "id": "51206",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -72414,7 +69680,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "52775",
          "id": "52775",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -72440,7 +69705,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:15",
-         "_id": "52775",
          "id": "52775",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -72467,7 +69731,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51164",
          "id": "51164",
          "instructor": "TBA",
          "location": "TBA",
@@ -72493,7 +69756,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51164",
          "id": "51164",
          "instructor": "TBA",
          "location": "TBA",
@@ -72520,7 +69782,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51099",
          "id": "51099",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -72546,7 +69807,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "51242",
          "id": "51242",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -72573,7 +69833,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51133",
          "id": "51133",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -72599,7 +69858,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53032",
          "id": "53032",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -72625,7 +69883,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51265",
          "id": "51265",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -72652,7 +69909,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53146",
          "id": "53146",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -72678,7 +69934,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "53144",
          "id": "53144",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -72705,7 +69960,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53145",
          "id": "53145",
          "instructor": "Lauren Fitzgerald",
          "location": "TBA",
@@ -72732,7 +69986,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53165",
          "id": "53165",
          "instructor": "Jacob Shapiro",
          "location": "TBA",
@@ -72759,7 +70012,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "53148",
          "id": "53148",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -72786,7 +70038,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53153",
          "id": "53153",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -72813,7 +70064,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51187",
          "id": "51187",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -72837,7 +70087,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51186",
          "id": "51186",
          "instructor": "TBA",
          "location": "TBA",
@@ -72864,7 +70113,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53149",
          "id": "53149",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -72890,7 +70138,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53150",
          "id": "53150",
          "instructor": "Aaron J. Koller",
          "location": "TBA",
@@ -72917,7 +70164,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53151",
          "id": "53151",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -72944,7 +70190,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51270",
          "id": "51270",
          "instructor": "Gaetano Bloise",
          "location": "TBA",
@@ -72971,7 +70216,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51102",
          "id": "51102",
          "instructor": "Alessandro Citanna",
          "location": "TBA",
@@ -72998,7 +70242,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53033",
          "id": "53033",
          "instructor": "TBA",
          "location": "TBA",
@@ -73025,7 +70268,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51142",
          "id": "51142",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -73052,7 +70294,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51319",
          "id": "51319",
          "instructor": "TBA",
          "location": "TBA",
@@ -73079,7 +70320,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51167",
          "id": "51167",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -73106,7 +70346,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51168",
          "id": "51168",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -73133,7 +70372,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51169",
          "id": "51169",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -73160,7 +70398,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:15",
-         "_id": "51170",
          "id": "51170",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -73186,7 +70423,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51332",
          "id": "51332",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -73213,7 +70449,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51589",
          "id": "51589",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -73239,7 +70474,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51590",
          "id": "51590",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -73265,7 +70499,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51612",
          "id": "51612",
          "instructor": "Joanne Jacobson",
          "location": "TBA",
@@ -73291,7 +70524,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51613",
          "id": "51613",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -73318,7 +70550,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51139",
          "id": "51139",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -73345,7 +70576,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53036",
          "id": "53036",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -73372,7 +70602,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53035",
          "id": "53035",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -73398,7 +70627,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53152",
          "id": "53152",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -73424,7 +70652,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:45",
-         "_id": "51148",
          "id": "51148",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -73451,7 +70678,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53098",
          "id": "53098",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -73478,7 +70704,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53154",
          "id": "53154",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -73505,7 +70730,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51278",
          "id": "51278",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -73532,7 +70756,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51281",
          "id": "51281",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -73559,7 +70782,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51277",
          "id": "51277",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -73586,7 +70808,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51276",
          "id": "51276",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -73613,7 +70834,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "51280",
          "id": "51280",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -73640,7 +70860,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51279",
          "id": "51279",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -73667,7 +70886,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51101",
          "id": "51101",
          "instructor": "Andrew Scott Dubrov",
          "location": "TBA",
@@ -73694,7 +70912,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51275",
          "id": "51275",
          "instructor": "Raisa Rexer",
          "location": "TBA",
@@ -73718,7 +70935,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51208",
          "id": "51208",
          "instructor": "TBA",
          "location": "TBA",
@@ -73746,7 +70962,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "51244",
          "id": "51244",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -73772,7 +70987,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51244",
          "id": "51244",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -73801,7 +71015,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51245",
          "id": "51245",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -73829,7 +71042,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "51246",
          "id": "51246",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -73855,7 +71067,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51246",
          "id": "51246",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -73884,7 +71095,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51204",
          "id": "51204",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -73913,7 +71123,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51166",
          "id": "51166",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -73940,7 +71149,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51247",
          "id": "51247",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -73966,7 +71174,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:00",
-         "_id": "51247",
          "id": "51247",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -73993,7 +71200,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51248",
          "id": "51248",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -74019,7 +71225,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "51248",
          "id": "51248",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -74048,7 +71253,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "51249",
          "id": "51249",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -74075,7 +71279,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51151",
          "id": "51151",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -74101,7 +71304,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:00",
-         "_id": "51151",
          "id": "51151",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -74128,7 +71330,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "51234",
          "id": "51234",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -74155,7 +71356,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51235",
          "id": "51235",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -74182,7 +71382,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51237",
          "id": "51237",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -74209,7 +71408,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51236",
          "id": "51236",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -74236,7 +71434,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51238",
          "id": "51238",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -74263,7 +71460,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52776",
          "id": "52776",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -74290,7 +71486,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51239",
          "id": "51239",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -74317,7 +71512,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51354",
          "id": "51354",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -74344,7 +71538,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51240",
          "id": "51240",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -74371,7 +71564,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:10",
-         "_id": "53134",
          "id": "53134",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -74398,7 +71590,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51353",
          "id": "51353",
          "instructor": "Joshua D. Zimmerman",
          "location": "TBA",
@@ -74425,7 +71616,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51282",
          "id": "51282",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -74452,7 +71642,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52779",
          "id": "52779",
          "instructor": "TBA",
          "location": "TBA",
@@ -74478,7 +71667,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "53041",
          "id": "53041",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -74505,7 +71693,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52778",
          "id": "52778",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -74532,7 +71719,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52777",
          "id": "52777",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -74559,7 +71745,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "52780",
          "id": "52780",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -74583,7 +71768,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51210",
          "id": "51210",
          "instructor": "TBA",
          "location": "TBA",
@@ -74607,7 +71791,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51137",
          "id": "51137",
          "instructor": "TBA",
          "location": "TBA",
@@ -74631,7 +71814,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51138",
          "id": "51138",
          "instructor": "TBA",
          "location": "TBA",
@@ -74658,7 +71840,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51188",
          "id": "51188",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -74685,7 +71866,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53155",
          "id": "53155",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -74712,7 +71892,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53039",
          "id": "53039",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -74739,7 +71918,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53156",
          "id": "53156",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -74766,7 +71944,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "53038",
          "id": "53038",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -74793,7 +71970,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51591",
          "id": "51591",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -74819,7 +71995,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "51588",
          "id": "51588",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -74846,7 +72021,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51288",
          "id": "51288",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -74872,7 +72046,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "51289",
          "id": "51289",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -74899,7 +72072,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "51587",
          "id": "51587",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -74925,7 +72097,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51672",
          "id": "51672",
          "instructor": "Daniel Beliavsky, Frederic Sugarman ",
          "location": "TBA",
@@ -74952,7 +72123,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51155",
          "id": "51155",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -74979,7 +72149,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53051",
          "id": "53051",
          "instructor": "Ari Mermelstein",
          "location": "TBA",
@@ -75006,7 +72175,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51191",
          "id": "51191",
          "instructor": "Joshua Karlip",
          "location": "TBA",
@@ -75033,7 +72201,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53052",
          "id": "53052",
          "instructor": "Joshua Karlip",
          "location": "TBA",
@@ -75059,7 +72226,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "53053",
          "id": "53053",
          "instructor": "Jeffrey S. Gurock",
          "location": "TBA",
@@ -75086,7 +72252,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53054",
          "id": "53054",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -75113,7 +72278,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52782",
          "id": "52782",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -75139,7 +72303,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "53135",
          "id": "53135",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -75166,7 +72329,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53136",
          "id": "53136",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -75193,7 +72355,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53056",
          "id": "53056",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -75219,7 +72380,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:20",
-         "_id": "51104",
          "id": "51104",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -75245,7 +72405,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "51105",
          "id": "51105",
          "instructor": "Julio Kuplinsky",
          "location": "TBA",
@@ -75271,7 +72430,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:50",
-         "_id": "53055",
          "id": "53055",
          "instructor": "Julio Kuplinsky",
          "location": "TBA",
@@ -75297,7 +72455,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "51106",
          "id": "51106",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -75324,7 +72481,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51107",
          "id": "51107",
          "instructor": "Donald Taylor-Bruce",
          "location": "TBA",
@@ -75351,7 +72507,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51108",
          "id": "51108",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -75378,7 +72533,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51162",
          "id": "51162",
          "instructor": "TBA",
          "location": "TBA",
@@ -75404,7 +72558,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51162",
          "id": "51162",
          "instructor": "TBA",
          "location": "TBA",
@@ -75431,7 +72584,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51109",
          "id": "51109",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -75458,7 +72610,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51110",
          "id": "51110",
          "instructor": "Antonella Marini",
          "location": "TBA",
@@ -75485,7 +72636,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51141",
          "id": "51141",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -75512,7 +72662,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51586",
          "id": "51586",
          "instructor": "TBA",
          "location": "TBA",
@@ -75539,7 +72688,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51111",
          "id": "51111",
          "instructor": "Antonella Marini",
          "location": "TBA",
@@ -75565,7 +72713,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51670",
          "id": "51670",
          "instructor": "Daniel Beliavsky, Frederic Sugarman ",
          "location": "TBA",
@@ -75592,7 +72739,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51225",
          "id": "51225",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -75619,7 +72765,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53166",
          "id": "53166",
          "instructor": "Jonathan Schapiro",
          "location": "TBA",
@@ -75646,7 +72791,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51112",
          "id": "51112",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -75672,7 +72816,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:40",
-         "_id": "51143",
          "id": "51143",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -75699,7 +72842,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "51113",
          "id": "51113",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -75725,7 +72867,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "51665",
          "id": "51665",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -75751,7 +72892,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:15",
-         "_id": "51201",
          "id": "51201",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -75777,7 +72917,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "51202",
          "id": "51202",
          "instructor": "D Barrett Shamir",
          "location": "TBA",
@@ -75804,7 +72943,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52783",
          "id": "52783",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -75831,7 +72969,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "52784",
          "id": "52784",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -75858,7 +72995,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "52785",
          "id": "52785",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -75885,7 +73021,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51227",
          "id": "51227",
          "instructor": "Daniel Rynhold",
          "location": "TBA",
@@ -75909,7 +73044,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51165",
          "id": "51165",
          "instructor": "TBA",
          "location": "TBA",
@@ -75933,7 +73067,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51149",
          "id": "51149",
          "instructor": "TBA",
          "location": "TBA",
@@ -75957,7 +73090,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51150",
          "id": "51150",
          "instructor": "TBA",
          "location": "TBA",
@@ -75981,7 +73113,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51128",
          "id": "51128",
          "instructor": "TBA",
          "location": "TBA",
@@ -76005,7 +73136,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51129",
          "id": "51129",
          "instructor": "TBA",
          "location": "TBA",
@@ -76029,7 +73159,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51130",
          "id": "51130",
          "instructor": "TBA",
          "location": "TBA",
@@ -76053,7 +73182,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51131",
          "id": "51131",
          "instructor": "TBA",
          "location": "TBA",
@@ -76077,7 +73205,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51132",
          "id": "51132",
          "instructor": "TBA",
          "location": "TBA",
@@ -76103,7 +73230,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:25",
-         "_id": "51140",
          "id": "51140",
          "instructor": "Daniel Lazarev",
          "location": "TBA",
@@ -76129,7 +73255,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:25",
-         "_id": "51177",
          "id": "51177",
          "instructor": "Daniel Lazarev",
          "location": "TBA",
@@ -76156,7 +73281,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51114",
          "id": "51114",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -76182,7 +73306,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51346",
          "id": "51346",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -76209,7 +73332,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51347",
          "id": "51347",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -76235,7 +73357,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "51348",
          "id": "51348",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -76261,7 +73382,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:45",
-         "_id": "51215",
          "id": "51215",
          "instructor": "Clifford Marc Bastuscheck",
          "location": "TBA",
@@ -76287,7 +73407,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:45",
-         "_id": "51584",
          "id": "51584",
          "instructor": "Clifford Marc Bastuscheck",
          "location": "TBA",
@@ -76314,7 +73433,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51144",
          "id": "51144",
          "instructor": "Emil Prodan",
          "location": "TBA",
@@ -76340,7 +73458,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:30",
-         "_id": "53157",
          "id": "53157",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -76367,7 +73484,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51300",
          "id": "51300",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -76393,7 +73509,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "51585",
          "id": "51585",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -76420,7 +73535,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53058",
          "id": "53058",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -76444,7 +73558,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51199",
          "id": "51199",
          "instructor": "TBA",
          "location": "TBA",
@@ -76470,7 +73583,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:51",
-         "_id": "51241",
          "id": "51241",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -76497,7 +73609,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "52786",
          "id": "52786",
          "instructor": "Ruth Bevan",
          "location": "TBA",
@@ -76524,7 +73635,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53059",
          "id": "53059",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -76551,7 +73661,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "52789",
          "id": "52789",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -76578,7 +73687,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53160",
          "id": "53160",
          "instructor": "Ruth Bevan, Daniel Ayalon ",
          "location": "TBA",
@@ -76605,7 +73713,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51302",
          "id": "51302",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -76632,7 +73739,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "53099",
          "id": "53099",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -76659,7 +73765,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51115",
          "id": "51115",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -76686,7 +73791,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51194",
          "id": "51194",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -76712,7 +73816,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "51174",
          "id": "51174",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -76739,7 +73842,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "51116",
          "id": "51116",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -76765,7 +73867,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "51116",
          "id": "51116",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -76792,7 +73893,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "53060",
          "id": "53060",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -76818,7 +73918,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:45",
-         "_id": "53060",
          "id": "53060",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -76845,7 +73944,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51251",
          "id": "51251",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -76872,7 +73970,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "51145",
          "id": "51145",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -76898,7 +73995,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51117",
          "id": "51117",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -76925,7 +74021,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53161",
          "id": "53161",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -76951,7 +74046,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "53061",
          "id": "53061",
          "instructor": "Edward Hoffman",
          "location": "TBA",
@@ -76977,7 +74071,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "51343",
          "id": "51343",
          "instructor": "Ido Davidesco",
          "location": "TBA",
@@ -77003,7 +74096,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "53076",
          "id": "53076",
          "instructor": "Ari Shechter",
          "location": "TBA",
@@ -77029,7 +74121,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "53083",
          "id": "53083",
          "instructor": "Stephen I. Glicksman",
          "location": "TBA",
@@ -77053,7 +74144,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "51200",
          "id": "51200",
          "instructor": "TBA",
          "location": "TBA",
@@ -77079,7 +74169,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "53138",
          "id": "53138",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -77106,7 +74195,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "52790",
          "id": "52790",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -77133,7 +74221,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "53096",
          "id": "53096",
          "instructor": "TBA",
          "location": "TBA",
@@ -77160,7 +74247,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "53162",
          "id": "53162",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -77186,7 +74272,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "51231",
          "id": "51231",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -77212,7 +74297,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "51230",
          "id": "51230",
          "instructor": "Jonathan J. Zisook",
          "location": "TBA",
@@ -77239,7 +74323,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51232",
          "id": "51232",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -77266,7 +74349,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:15",
-         "_id": "51118",
          "id": "51118",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -77293,7 +74375,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "51334",
          "id": "51334",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -77320,7 +74401,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "53163",
          "id": "53163",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -77347,7 +74427,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "51310",
          "id": "51310",
          "instructor": "Marcelo Broitman",
          "location": "TBA",
@@ -77373,7 +74452,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "51134",
          "id": "51134",
          "instructor": "Andreas Kakolyris",
          "location": "TBA",
@@ -77400,7 +74478,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34424",
          "id": "34424",
          "instructor": "Constance J. Crawford",
          "location": "LEX215 LX208",
@@ -77427,7 +74504,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "36565",
          "id": "36565",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -77454,7 +74530,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34371",
          "id": "34371",
          "instructor": "David Hornung",
          "location": "LEX215 LX314",
@@ -77481,7 +74556,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34166",
          "id": "34166",
          "instructor": "David Hornung",
          "location": "LEX215 LX314",
@@ -77508,7 +74582,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34220",
          "id": "34220",
          "instructor": "Martin A. Leibowitz",
          "location": "LEX215 LX405",
@@ -77535,7 +74608,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34327",
          "id": "34327",
          "instructor": "Sidney J. Mehl",
          "location": "LEX215 LX313",
@@ -77562,7 +74634,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34239",
          "id": "34239",
          "instructor": "Margaret Samu",
          "location": "LEX215 ",
@@ -77589,7 +74660,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34549",
          "id": "34549",
          "instructor": "Miriam Weinberg",
          "location": "LEX215 ",
@@ -77616,7 +74686,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34548",
          "id": "34548",
          "instructor": "Marnin Young",
          "location": "LEX215 ",
@@ -77643,7 +74712,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34195",
          "id": "34195",
          "instructor": "Melanie Hanan",
          "location": "LEX215 LX717",
@@ -77670,7 +74738,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34194",
          "id": "34194",
          "instructor": "Marnin Young",
          "location": "LEX215 LX717",
@@ -77697,7 +74764,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35504",
          "id": "35504",
          "instructor": "Jacob Wisse",
          "location": "TBA",
@@ -77724,7 +74790,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35503",
          "id": "35503",
          "instructor": "Marnin Young",
          "location": "TBA",
@@ -77750,7 +74815,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "34372",
          "id": "34372",
          "instructor": "John Kriskiewicz",
          "location": "LEX215 LX717",
@@ -77776,7 +74840,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "35505",
          "id": "35505",
          "instructor": "Herb Leventer",
          "location": "TBA",
@@ -77802,7 +74865,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "35505",
          "id": "35505",
          "instructor": "Herb Leventer",
          "location": "TBA",
@@ -77828,7 +74890,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:45",
-         "_id": "35506",
          "id": "35506",
          "instructor": "Elizabeth Anne Eisenberg",
          "location": "TBA",
@@ -77855,7 +74916,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34216",
          "id": "34216",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 ",
@@ -77882,7 +74942,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34167",
          "id": "34167",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -77908,7 +74967,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "34503",
          "id": "34503",
          "instructor": "John Jerard",
          "location": "LEX215 LX803",
@@ -77935,7 +74993,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34217",
          "id": "34217",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -77961,7 +75018,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34505",
          "id": "34505",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -77987,7 +75043,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:10",
-         "_id": "34506",
          "id": "34506",
          "instructor": "Mary Therese Creede",
          "location": "LEX215 LX804",
@@ -78014,7 +75069,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34286",
          "id": "34286",
          "instructor": "Alexander Rysdon-Moulitsas",
          "location": "LEX215 LX809",
@@ -78040,7 +75094,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:00",
-         "_id": "34509",
          "id": "34509",
          "instructor": "Terttu Uibopuu",
          "location": "LEX215 LX809",
@@ -78067,7 +75120,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35494",
          "id": "35494",
          "instructor": "Alexander Rysdon-Moulitsas",
          "location": "TBA",
@@ -78093,7 +75145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:30",
-         "_id": "34510",
          "id": "34510",
          "instructor": "Barbara L Suhr",
          "location": "LEX215 LX801",
@@ -78119,7 +75170,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "34613",
          "id": "34613",
          "instructor": "Mary Therese Creede",
          "location": "TBA",
@@ -78146,7 +75196,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35541",
          "id": "35541",
          "instructor": "Nechama Esther Price",
          "location": "TBA",
@@ -78173,7 +75222,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35539",
          "id": "35539",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -78200,7 +75248,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35540",
          "id": "35540",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -78227,7 +75274,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35542",
          "id": "35542",
          "instructor": "Smadar Rosensweig",
          "location": "TBA",
@@ -78254,7 +75300,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34470",
          "id": "34470",
          "instructor": "Mordechai Z. Cohen, Sara Enna Twersky ",
          "location": "SCW 619",
@@ -78281,7 +75326,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35543",
          "id": "35543",
          "instructor": "Deena S. Rabinovich",
          "location": "TBA",
@@ -78308,7 +75352,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34413",
          "id": "34413",
          "instructor": "Smadar Rosensweig",
          "location": "SCW 606",
@@ -78335,7 +75378,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34234",
          "id": "34234",
          "instructor": "Shoshana Schechter",
          "location": "SCW 406",
@@ -78362,7 +75404,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35544",
          "id": "35544",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -78388,7 +75429,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:10",
-         "_id": "35545",
          "id": "35545",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -78415,7 +75455,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34340",
          "id": "34340",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -78442,7 +75481,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34246",
          "id": "34246",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -78469,7 +75507,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34213",
          "id": "34213",
          "instructor": "Elozor Preil",
          "location": "SCW 518",
@@ -78496,7 +75533,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34476",
          "id": "34476",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 601",
@@ -78523,7 +75559,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35546",
          "id": "35546",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -78550,7 +75585,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35547",
          "id": "35547",
          "instructor": "Gideon I. Shloush",
          "location": "SCW 102",
@@ -78577,7 +75611,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:15",
-         "_id": "35548",
          "id": "35548",
          "instructor": "Shoshana Schechter",
          "location": "TBA",
@@ -78603,7 +75636,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34422",
          "id": "34422",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -78629,7 +75661,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34422",
          "id": "34422",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -78656,7 +75687,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "35549",
          "id": "35549",
          "instructor": "Ian Shaffer",
          "location": "TBA",
@@ -78683,7 +75713,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "34481",
          "id": "34481",
          "instructor": "Ian Shaffer",
          "location": "SCW 806",
@@ -78710,7 +75739,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34251",
          "id": "34251",
          "instructor": "Elozor Preil",
          "location": "SCW 518",
@@ -78737,7 +75765,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34268",
          "id": "34268",
          "instructor": "Smadar Rosensweig",
          "location": "SCW 606",
@@ -78764,7 +75791,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35550",
          "id": "35550",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -78791,7 +75817,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35551",
          "id": "35551",
          "instructor": "Naomi Cohen Grunhaus",
          "location": "TBA",
@@ -78818,7 +75843,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34485",
          "id": "34485",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -78845,7 +75869,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35555",
          "id": "35555",
          "instructor": "Gideon I. Shloush",
          "location": "TBA",
@@ -78872,7 +75895,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35558",
          "id": "35558",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -78899,7 +75921,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35559",
          "id": "35559",
          "instructor": "Moriah Rachel Rosensweig",
          "location": "TBA",
@@ -78925,7 +75946,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "35560",
          "id": "35560",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -78951,7 +75971,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "35560",
          "id": "35560",
          "instructor": "Michelle J. Levine",
          "location": "TBA",
@@ -78978,7 +75997,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34416",
          "id": "34416",
          "instructor": "Ronit Gross",
          "location": "SCW 718",
@@ -79005,7 +76023,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34295",
          "id": "34295",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 418",
@@ -79031,7 +76048,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:20",
-         "_id": "34296",
          "id": "34296",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW LB441",
@@ -79057,7 +76073,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:10",
-         "_id": "34297",
          "id": "34297",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -79083,7 +76098,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:50",
-         "_id": "34298",
          "id": "34298",
          "instructor": "Bill R Bassman",
          "location": "SCW LB441",
@@ -79110,7 +76124,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34342",
          "id": "34342",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -79137,7 +76150,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34343",
          "id": "34343",
          "instructor": "Brenda Loewy",
          "location": "SCW KOCH",
@@ -79164,7 +76176,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34345",
          "id": "34345",
          "instructor": "Marina Kaufman Holz",
          "location": "SCW 619",
@@ -79190,7 +76201,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "34346",
          "id": "34346",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -79216,7 +76226,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:05",
-         "_id": "34347",
          "id": "34347",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -79242,7 +76251,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "36562",
          "id": "36562",
          "instructor": "Bill R Bassman",
          "location": "TBA",
@@ -79268,7 +76276,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:05",
-         "_id": "36114",
          "id": "36114",
          "instructor": "Bill R Bassman",
          "location": "TBA",
@@ -79294,7 +76301,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "36567",
          "id": "36567",
          "instructor": "Mana Mirjany",
          "location": "TBA",
@@ -79320,7 +76326,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "34348",
          "id": "34348",
          "instructor": "Mana Mirjany",
          "location": "SCW LB444",
@@ -79346,7 +76351,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "36564",
          "id": "36564",
          "instructor": "Rafael M. Cuesta-Sanchez",
          "location": "TBA",
@@ -79372,7 +76376,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34349",
          "id": "34349",
          "instructor": "Rafael M. Cuesta-Sanchez",
          "location": "SCW LB444",
@@ -79398,7 +76401,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:00",
-         "_id": "34350",
          "id": "34350",
          "instructor": "Bill R Bassman",
          "location": "SCW LB444",
@@ -79424,7 +76426,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34351",
          "id": "34351",
          "instructor": "AUBREY M TAUER",
          "location": "SCW LB444",
@@ -79451,7 +76452,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35495",
          "id": "35495",
          "instructor": "Daniel Lim",
          "location": "TBA",
@@ -79478,7 +76478,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34168",
          "id": "34168",
          "instructor": "Monica Smiddy",
          "location": "SCW ",
@@ -79505,7 +76504,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:20",
-         "_id": "34324",
          "id": "34324",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -79532,7 +76530,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:35",
-         "_id": "34169",
          "id": "34169",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -79559,7 +76556,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:55",
-         "_id": "34170",
          "id": "34170",
          "instructor": "Jeffrey R. Mollin",
          "location": "SCW LB447",
@@ -79586,7 +76582,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35496",
          "id": "35496",
          "instructor": "Marina Kaufman Holz",
          "location": "TBA",
@@ -79613,7 +76608,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34308",
          "id": "34308",
          "instructor": "Margarita Vigodner",
          "location": "SCW 518",
@@ -79639,7 +76633,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34319",
          "id": "34319",
          "instructor": "Anna Alayev",
          "location": "SCW LB343",
@@ -79665,7 +76658,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "34318",
          "id": "34318",
          "instructor": "Margarita Vigodner",
          "location": "SCW LB343",
@@ -79691,7 +76683,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "34299",
          "id": "34299",
          "instructor": "Raizy Weinreb",
          "location": "SCW 601",
@@ -79718,7 +76709,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35499",
          "id": "35499",
          "instructor": "Victoria E Ruiz",
          "location": "TBA",
@@ -79745,7 +76735,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35499",
          "id": "35499",
          "instructor": "Victoria E Ruiz",
          "location": "TBA",
@@ -79772,7 +76761,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:45",
-         "_id": "34272",
          "id": "34272",
          "instructor": "Richard Bruce Weiss",
          "location": "SCW 418",
@@ -79799,7 +76787,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34173",
          "id": "34173",
          "instructor": "Harvey J. Babich",
          "location": "SCW 1015",
@@ -79826,7 +76813,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34287",
          "id": "34287",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -79853,7 +76839,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34225",
          "id": "34225",
          "instructor": "Harvey J. Babich",
          "location": "SCW LB343",
@@ -79880,7 +76865,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34215",
          "id": "34215",
          "instructor": "Levy Sztark Amar",
          "location": "SCW 1015",
@@ -79907,7 +76891,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34243",
          "id": "34243",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -79933,7 +76916,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34254",
          "id": "34254",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -79959,7 +76941,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34254",
          "id": "34254",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -79985,7 +76966,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "34244",
          "id": "34244",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -80011,7 +76991,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "34244",
          "id": "34244",
          "instructor": "Levy Sztark Amar",
          "location": "SCW LB343",
@@ -80037,7 +77016,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:55",
-         "_id": "35500",
          "id": "35500",
          "instructor": "Margarita Vigodner",
          "location": "TBA",
@@ -80063,7 +77041,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34491",
          "id": "34491",
          "instructor": "Amanda Mitchell",
          "location": "LEX215 LX209",
@@ -80089,7 +77066,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34491",
          "id": "34491",
          "instructor": "Amanda Mitchell",
          "location": "LEX215 LX209",
@@ -80116,7 +77092,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34344",
          "id": "34344",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW 1015",
@@ -80143,7 +77118,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34320",
          "id": "34320",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -80170,7 +77144,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34321",
          "id": "34321",
          "instructor": "Alyssa Gabrielle Schuck",
          "location": "SCW LB343",
@@ -80196,7 +77169,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35497",
          "id": "35497",
          "instructor": "James Nussbaum",
          "location": "TBA",
@@ -80222,7 +77194,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:40",
-         "_id": "35498",
          "id": "35498",
          "instructor": "TBA",
          "location": "TBA",
@@ -80249,7 +77220,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34435",
          "id": "34435",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "SCW 501",
@@ -80275,7 +77245,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "34541",
          "id": "34541",
          "instructor": "Moses L. Pava",
          "location": "LEX215 LX313",
@@ -80301,7 +77270,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34283",
          "id": "34283",
          "instructor": "Robert Jay Greenberg",
          "location": "LEX215 LX314",
@@ -80327,7 +77295,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34283",
          "id": "34283",
          "instructor": "Robert Jay Greenberg",
          "location": "LEX215 LX314",
@@ -80354,7 +77321,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34175",
          "id": "34175",
          "instructor": "Robert Jay Greenberg",
          "location": "LEX215 LX314",
@@ -80381,7 +77347,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34256",
          "id": "34256",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -80407,7 +77372,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:30",
-         "_id": "34256",
          "id": "34256",
          "instructor": "Lora Danley",
          "location": "SCW LB543",
@@ -80434,7 +77398,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34232",
          "id": "34232",
          "instructor": "Chaya Rapp",
          "location": "SCW KOCH",
@@ -80461,7 +77424,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34354",
          "id": "34354",
          "instructor": "Chaya Rapp",
          "location": "SCW 306",
@@ -80488,7 +77450,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "36155",
          "id": "36155",
          "instructor": "Chaya Rapp",
          "location": "TBA",
@@ -80514,7 +77475,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "34407",
          "id": "34407",
          "instructor": "TBA",
          "location": "SCW 301",
@@ -80540,7 +77500,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34355",
          "id": "34355",
          "instructor": "Donald Estes",
          "location": "SCW 601",
@@ -80566,7 +77525,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:20",
-         "_id": "34356",
          "id": "34356",
          "instructor": "Donald Estes",
          "location": "SCW 607",
@@ -80592,7 +77550,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "34357",
          "id": "34357",
          "instructor": "TBA",
          "location": "SCW 401",
@@ -80618,7 +77575,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:20",
-         "_id": "34423",
          "id": "34423",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -80644,7 +77600,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:30",
-         "_id": "34226",
          "id": "34226",
          "instructor": "Donald Estes",
          "location": "SCW LB541",
@@ -80670,7 +77625,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "36560",
          "id": "36560",
          "instructor": "Cecily Dobin",
          "location": "TBA",
@@ -80696,7 +77650,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "34196",
          "id": "34196",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -80722,7 +77675,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "36563",
          "id": "36563",
          "instructor": "Rosalyn Strauss",
          "location": "TBA",
@@ -80748,7 +77700,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "34257",
          "id": "34257",
          "instructor": "Rosalyn Strauss",
          "location": "SCW LB541",
@@ -80774,7 +77725,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34198",
          "id": "34198",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -80800,7 +77750,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "34197",
          "id": "34197",
          "instructor": "Cecily Dobin",
          "location": "SCW LB541",
@@ -80826,7 +77775,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "36561",
          "id": "36561",
          "instructor": "Cecily Dobin",
          "location": "TBA",
@@ -80852,7 +77800,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "36559",
          "id": "36559",
          "instructor": "Cecily Dobin",
          "location": "TBA",
@@ -80879,7 +77826,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34199",
          "id": "34199",
          "instructor": "Evan Mintzer",
          "location": "SCW KOCH",
@@ -80905,7 +77851,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:15",
-         "_id": "34358",
          "id": "34358",
          "instructor": "Donald Estes",
          "location": "SCW 601",
@@ -80931,7 +77876,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:25",
-         "_id": "34358",
          "id": "34358",
          "instructor": "Donald Estes",
          "location": "SCW LB543",
@@ -80957,7 +77901,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "9:50",
-         "_id": "34359",
          "id": "34359",
          "instructor": "Donald Estes",
          "location": "SCW 501",
@@ -80983,7 +77926,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "34359",
          "id": "34359",
          "instructor": "Donald Estes",
          "location": "SCW LB543",
@@ -81009,7 +77951,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:20",
-         "_id": "34360",
          "id": "34360",
          "instructor": "Donald Estes",
          "location": "SCW ",
@@ -81035,7 +77976,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:30",
-         "_id": "34360",
          "id": "34360",
          "instructor": "Donald Estes",
          "location": "SCW LB543",
@@ -81061,7 +78001,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:35",
-         "_id": "34361",
          "id": "34361",
          "instructor": "Donald Estes",
          "location": "SCW 401",
@@ -81087,7 +78026,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:45",
-         "_id": "34361",
          "id": "34361",
          "instructor": "Donald Estes",
          "location": "SCW LB543",
@@ -81114,7 +78052,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35527",
          "id": "35527",
          "instructor": "Daniel Lim",
          "location": "TBA",
@@ -81141,7 +78078,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34363",
          "id": "34363",
          "instructor": "Chaya Rapp",
          "location": "SCW 306",
@@ -81167,7 +78103,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34326",
          "id": "34326",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81193,7 +78128,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:25",
-         "_id": "34326",
          "id": "34326",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81219,7 +78153,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34326",
          "id": "34326",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81245,7 +78178,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "34326",
          "id": "34326",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81272,7 +78204,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "36002",
          "id": "36002",
          "instructor": "Joshua Waxman",
          "location": "TBA",
@@ -81299,7 +78230,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "36002",
          "id": "36002",
          "instructor": "Joshua Waxman",
          "location": "TBA",
@@ -81326,7 +78256,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34364",
          "id": "34364",
          "instructor": "Michael Dalezman",
          "location": "SCW 619",
@@ -81352,7 +78281,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34432",
          "id": "34432",
          "instructor": "Thomas M. Schmidt",
          "location": "SCW 315",
@@ -81378,7 +78306,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:25",
-         "_id": "34432",
          "id": "34432",
          "instructor": "Thomas M. Schmidt",
          "location": "SCW 315",
@@ -81404,7 +78331,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34432",
          "id": "34432",
          "instructor": "Thomas M. Schmidt",
          "location": "SCW 315",
@@ -81430,7 +78356,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "34432",
          "id": "34432",
          "instructor": "Thomas M. Schmidt",
          "location": "SCW 315",
@@ -81457,7 +78382,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:15",
-         "_id": "34365",
          "id": "34365",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81484,7 +78408,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:15",
-         "_id": "34365",
          "id": "34365",
          "instructor": "Alan J. Broder",
          "location": "LEX215 LX312",
@@ -81511,7 +78434,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35186",
          "id": "35186",
          "instructor": "Joshua Waxman",
          "location": "TBA",
@@ -81538,7 +78460,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35187",
          "id": "35187",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -81565,7 +78486,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34494",
          "id": "34494",
          "instructor": "James Kahn",
          "location": "LEX215 LX210",
@@ -81592,7 +78512,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34410",
          "id": "34410",
          "instructor": "Tadashi Hashimoto",
          "location": "LEX215 LX719",
@@ -81619,7 +78538,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35508",
          "id": "35508",
          "instructor": "James Kahn",
          "location": "TBA",
@@ -81643,7 +78561,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "34366",
          "id": "34366",
          "instructor": "TBA",
          "location": "TBA",
@@ -81669,7 +78586,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "15:00",
-         "_id": "34301",
          "id": "34301",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 906",
@@ -81696,7 +78612,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34317",
          "id": "34317",
          "instructor": "Miriam Ungar Hirsch",
          "location": "SCW 906",
@@ -81723,7 +78638,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34303",
          "id": "34303",
          "instructor": "Emily A. Witty",
          "location": "SCW 906",
@@ -81750,7 +78664,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34253",
          "id": "34253",
          "instructor": "Miriam Ungar Hirsch",
          "location": "SCW 906",
@@ -81776,7 +78689,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:15",
-         "_id": "34498",
          "id": "34498",
          "instructor": "Miriam Ungar Hirsch",
          "location": "SCW 906",
@@ -81802,7 +78714,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:45",
-         "_id": "34211",
          "id": "34211",
          "instructor": "Chaya R. Gorsetman",
          "location": "SCW 906",
@@ -81830,7 +78741,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:00",
-         "_id": "34499",
          "id": "34499",
          "instructor": "Donna J. Greenberg",
          "location": "OFF SITE",
@@ -81856,7 +78766,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:00",
-         "_id": "34499",
          "id": "34499",
          "instructor": "Donna J. Greenberg",
          "location": "OFF SITE",
@@ -81882,7 +78791,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "34499",
          "id": "34499",
          "instructor": "Donna J. Greenberg",
          "location": "OFF SITE",
@@ -81910,7 +78818,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:30",
-         "_id": "34191",
          "id": "34191",
          "instructor": "Chaya R. Gorsetman",
          "location": "OFF SITE",
@@ -81936,7 +78843,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:30",
-         "_id": "34191",
          "id": "34191",
          "instructor": "Chaya R. Gorsetman",
          "location": "OFF SITE",
@@ -81962,7 +78868,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:30",
-         "_id": "34191",
          "id": "34191",
          "instructor": "Chaya R. Gorsetman",
          "location": "OFF SITE",
@@ -81989,7 +78894,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "36421",
          "id": "36421",
          "instructor": "Sierra Ladan Tavasolian",
          "location": "TBA",
@@ -82016,7 +78920,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "36422",
          "id": "36422",
          "instructor": "TBA",
          "location": "TBA",
@@ -82043,7 +78946,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34219",
          "id": "34219",
          "instructor": "Gina Grimaldi",
          "location": "LEX215 ",
@@ -82070,7 +78972,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34221",
          "id": "34221",
          "instructor": "Michael Shelichach",
          "location": "LEX215 LX719",
@@ -82097,7 +78998,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34228",
          "id": "34228",
          "instructor": "Michael Shelichach",
          "location": "LEX215 ",
@@ -82124,7 +79024,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34227",
          "id": "34227",
          "instructor": "Lauren Lee Fusilier",
          "location": "LEX215 ",
@@ -82151,7 +79050,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34277",
          "id": "34277",
          "instructor": "Lauren Lee Fusilier",
          "location": "LEX215 LX719",
@@ -82178,7 +79076,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34171",
          "id": "34171",
          "instructor": "Ann Peters",
          "location": "LEX215 ",
@@ -82205,7 +79102,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34172",
          "id": "34172",
          "instructor": "Jen DeGregorio",
          "location": "LEX215 LX314",
@@ -82232,7 +79128,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34247",
          "id": "34247",
          "instructor": "Sierra Ladan Tavasolian",
          "location": "LEX215 ",
@@ -82259,7 +79154,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34310",
          "id": "34310",
          "instructor": "Seamus O'Malley",
          "location": "LEX215 ",
@@ -82286,7 +79180,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34309",
          "id": "34309",
          "instructor": "Joy Ladin",
          "location": "LEX215 LX718",
@@ -82313,7 +79206,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35172",
          "id": "35172",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -82340,7 +79232,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34322",
          "id": "34322",
          "instructor": "Lynda Johnson",
          "location": "LEX215 LX405",
@@ -82366,7 +79257,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35173",
          "id": "35173",
          "instructor": "Avital Rachel Chizhik",
          "location": "TBA",
@@ -82392,7 +79282,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "34556",
          "id": "34556",
          "instructor": "Erik Mintz",
          "location": "LEX215 LX718",
@@ -82418,7 +79307,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:30",
-         "_id": "34294",
          "id": "34294",
          "instructor": "Deborah Schlueter",
          "location": "LEX215 LX718",
@@ -82444,7 +79332,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "34523",
          "id": "34523",
          "instructor": "Ted Birkhahn",
          "location": "LEX215 ",
@@ -82471,7 +79358,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35174",
          "id": "35174",
          "instructor": "Joy Ladin",
          "location": "TBA",
@@ -82498,7 +79384,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35175",
          "id": "35175",
          "instructor": "Leslie Russell",
          "location": "TBA",
@@ -82524,7 +79409,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34279",
          "id": "34279",
          "instructor": "Matthew Ward Miller",
          "location": "LEX215 ",
@@ -82550,7 +79434,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34279",
          "id": "34279",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -82577,7 +79460,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34402",
          "id": "34402",
          "instructor": "Linda M. Shires",
          "location": "LEX215 ",
@@ -82604,7 +79486,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "35176",
          "id": "35176",
          "instructor": "Ann Peters",
          "location": "TBA",
@@ -82631,7 +79512,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35177",
          "id": "35177",
          "instructor": "Cynthia Wachtell",
          "location": "TBA",
@@ -82657,7 +79537,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "35535",
          "id": "35535",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -82683,7 +79562,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "35535",
          "id": "35535",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -82709,7 +79587,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "35536",
          "id": "35536",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -82735,7 +79612,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "35536",
          "id": "35536",
          "instructor": "Matthew Ward Miller",
          "location": "TBA",
@@ -82762,7 +79638,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35178",
          "id": "35178",
          "instructor": "Gina Grimaldi",
          "location": "TBA",
@@ -82789,7 +79664,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35179",
          "id": "35179",
          "instructor": "Linda M. Shires",
          "location": "TBA",
@@ -82816,7 +79690,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35538",
          "id": "35538",
          "instructor": "Seamus O'Malley",
          "location": "TBA",
@@ -82843,7 +79716,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35537",
          "id": "35537",
          "instructor": "Ann Peters",
          "location": "TBA",
@@ -82870,7 +79742,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34245",
          "id": "34245",
          "instructor": "Gabriela Coiculescu",
          "location": "LEX215 LX313",
@@ -82897,7 +79768,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "34176",
          "id": "34176",
          "instructor": "Joshua Krausz",
          "location": "LEX215 LX402",
@@ -82924,7 +79794,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34284",
          "id": "34284",
          "instructor": "Sidney J. Mehl",
          "location": "LEX215 LX313",
@@ -82951,7 +79820,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34236",
          "id": "34236",
          "instructor": "Rivka Weiner",
          "location": "SCW 301",
@@ -82978,7 +79846,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:30",
-         "_id": "34236",
          "id": "34236",
          "instructor": " Staff ",
          "location": "SCW 607",
@@ -83004,7 +79871,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "34307",
          "id": "34307",
          "instructor": "Rivka Weiner",
          "location": "SCW 301",
@@ -83031,7 +79897,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:30",
-         "_id": "34307",
          "id": "34307",
          "instructor": " Staff ",
          "location": "SCW 606",
@@ -83057,7 +79922,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34307",
          "id": "34307",
          "instructor": "Rivka Weiner",
          "location": "SCW 301",
@@ -83084,7 +79948,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34587",
          "id": "34587",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 815",
@@ -83110,7 +79973,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "34587",
          "id": "34587",
          "instructor": "TBA",
          "location": "SCW 818",
@@ -83137,7 +79999,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34405",
          "id": "34405",
          "instructor": "Dawn Arussy",
          "location": "SCW ",
@@ -83163,7 +80024,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "34405",
          "id": "34405",
          "instructor": "TBA",
          "location": "SCW ",
@@ -83189,7 +80049,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "34304",
          "id": "34304",
          "instructor": "Sarah Hochfeld",
          "location": "SCW ",
@@ -83215,7 +80074,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "34304",
          "id": "34304",
          "instructor": "TBA",
          "location": "TBA",
@@ -83241,7 +80099,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34304",
          "id": "34304",
          "instructor": "Sarah Hochfeld",
          "location": "TBA",
@@ -83268,7 +80125,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34258",
          "id": "34258",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 819",
@@ -83294,7 +80150,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:50",
-         "_id": "34258",
          "id": "34258",
          "instructor": "TBA",
          "location": "SCW 819",
@@ -83321,7 +80176,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34397",
          "id": "34397",
          "instructor": "Sarah Hochfeld",
          "location": "SCW 815",
@@ -83347,7 +80201,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:30",
-         "_id": "34397",
          "id": "34397",
          "instructor": "TBA",
          "location": "SCW 815",
@@ -83374,7 +80227,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34275",
          "id": "34275",
          "instructor": "Osnat Bishko",
          "location": "SCW ",
@@ -83401,7 +80253,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34261",
          "id": "34261",
          "instructor": "Osnat Bishko",
          "location": "SCW 906",
@@ -83428,7 +80279,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34305",
          "id": "34305",
          "instructor": "Dawn Arussy",
          "location": "SCW 819",
@@ -83455,7 +80305,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34263",
          "id": "34263",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -83481,7 +80330,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "34264",
          "id": "34264",
          "instructor": "Hilla Goldwicht",
          "location": "TBA",
@@ -83507,7 +80355,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34264",
          "id": "34264",
          "instructor": "Hilla Goldwicht",
          "location": "SCW ",
@@ -83533,7 +80380,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34262",
          "id": "34262",
          "instructor": "Rivka Weiner",
          "location": "SCW 1019",
@@ -83559,7 +80405,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34262",
          "id": "34262",
          "instructor": "Rivka Weiner",
          "location": "TBA",
@@ -83586,7 +80431,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34288",
          "id": "34288",
          "instructor": "Ilona Ben-Moshe",
          "location": "SCW 818",
@@ -83613,7 +80457,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34266",
          "id": "34266",
          "instructor": "Osnat Bishko",
          "location": "SCW ",
@@ -83639,7 +80482,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "34265",
          "id": "34265",
          "instructor": "Osnat Bishko",
          "location": "SCW ",
@@ -83665,7 +80507,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34265",
          "id": "34265",
          "instructor": "Osnat Bishko",
          "location": "TBA",
@@ -83692,7 +80533,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34274",
          "id": "34274",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW 1019",
@@ -83719,7 +80559,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34370",
          "id": "34370",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "SCW 919",
@@ -83746,7 +80585,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34233",
          "id": "34233",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 919",
@@ -83773,7 +80611,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34329",
          "id": "34329",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 815",
@@ -83799,7 +80636,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:30",
-         "_id": "34248",
          "id": "34248",
          "instructor": "Hilla Goldwicht",
          "location": "SCW 818",
@@ -83825,7 +80661,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "35509",
          "id": "35509",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "TBA",
@@ -83851,7 +80686,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35509",
          "id": "35509",
          "instructor": "Zafrira Lidovsky Cohen",
          "location": "TBA",
@@ -83878,7 +80712,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35196",
          "id": "35196",
          "instructor": "TBA",
          "location": "TBA",
@@ -83905,7 +80738,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35567",
          "id": "35567",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -83932,7 +80764,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35193",
          "id": "35193",
          "instructor": "Joshua D. Zimmerman",
          "location": "TBA",
@@ -83959,7 +80790,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35568",
          "id": "35568",
          "instructor": "Mario Kessler",
          "location": "TBA",
@@ -83986,7 +80816,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35566",
          "id": "35566",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -84013,7 +80842,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35190",
          "id": "35190",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -84040,7 +80868,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35194",
          "id": "35194",
          "instructor": "Hadassa Kosak",
          "location": "TBA",
@@ -84067,7 +80894,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34438",
          "id": "34438",
          "instructor": "Avi Naiman",
          "location": "LEX215 LX420",
@@ -84094,7 +80920,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34300",
          "id": "34300",
          "instructor": "Kevin Brabazon",
          "location": "LEX215 LX312",
@@ -84121,7 +80946,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35594",
          "id": "35594",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -84148,7 +80972,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34380",
          "id": "34380",
          "instructor": "Vladimir Kovtun",
          "location": "LEX215 LX313",
@@ -84175,7 +80998,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34331",
          "id": "34331",
          "instructor": "Vladimir Kovtun",
          "location": "LEX215 LX210",
@@ -84202,7 +81024,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34439",
          "id": "34439",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "SCW 315",
@@ -84229,7 +81050,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35641",
          "id": "35641",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -84255,7 +81075,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:00",
-         "_id": "34408",
          "id": "34408",
          "instructor": "Deena S. Rabinovich",
          "location": "OFF SITE",
@@ -84281,7 +81100,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34408",
          "id": "34408",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 918",
@@ -84307,7 +81125,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:00",
-         "_id": "34316",
          "id": "34316",
          "instructor": "Deena S. Rabinovich",
          "location": "OFF SITE",
@@ -84333,7 +81150,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34316",
          "id": "34316",
          "instructor": "Deena S. Rabinovich",
          "location": "SCW 918",
@@ -84359,7 +81175,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "35501",
          "id": "35501",
          "instructor": "Ephraim Kanarfogel",
          "location": "TBA",
@@ -84385,7 +81200,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34278",
          "id": "34278",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -84411,7 +81225,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34278",
          "id": "34278",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -84437,7 +81250,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "34260",
          "id": "34260",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -84463,7 +81275,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "34260",
          "id": "34260",
          "instructor": "Mordecai Paldiel",
          "location": "SCW 1015",
@@ -84489,7 +81300,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:23",
-         "_id": "34458",
          "id": "34458",
          "instructor": "Jeffrey S. Gurock",
          "location": "SCW 102",
@@ -84516,7 +81326,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34445",
          "id": "34445",
          "instructor": "Jill C. Katz",
          "location": "SCW 306",
@@ -84543,7 +81352,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35502",
          "id": "35502",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -84569,7 +81377,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "34200",
          "id": "34200",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -84595,7 +81402,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "34200",
          "id": "34200",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -84621,7 +81427,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:14",
-         "_id": "35529",
          "id": "35529",
          "instructor": "Gamliel Shmalo",
          "location": "TBA",
@@ -84647,7 +81452,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:30",
-         "_id": "35528",
          "id": "35528",
          "instructor": "Gamliel Shmalo",
          "location": "TBA",
@@ -84673,7 +81477,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:55",
-         "_id": "35530",
          "id": "35530",
          "instructor": "Yosef Zvi Bronstein",
          "location": "TBA",
@@ -84700,7 +81503,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34224",
          "id": "34224",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -84727,7 +81529,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34282",
          "id": "34282",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -84753,7 +81554,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "35515",
          "id": "35515",
          "instructor": "Elchanan A. Adler",
          "location": "TBA",
@@ -84780,7 +81580,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34290",
          "id": "34290",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "SCW 418",
@@ -84806,7 +81605,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "34406",
          "id": "34406",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -84832,7 +81630,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34406",
          "id": "34406",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -84859,7 +81656,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35532",
          "id": "35532",
          "instructor": "Lawrence Moshiach Hajioff",
          "location": "TBA",
@@ -84886,7 +81682,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35517",
          "id": "35517",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -84913,7 +81708,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34252",
          "id": "34252",
          "instructor": "Mindy F. Eisenman",
          "location": "SCW 401",
@@ -84940,7 +81734,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34231",
          "id": "34231",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -84966,7 +81759,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:20",
-         "_id": "34192",
          "id": "34192",
          "instructor": "Meir Fulda",
          "location": "SCW 401",
@@ -84992,7 +81784,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34187",
          "id": "34187",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 401",
@@ -85018,7 +81809,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34187",
          "id": "34187",
          "instructor": "Shlomo Hochberg",
          "location": "SCW 401",
@@ -85045,7 +81835,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34280",
          "id": "34280",
          "instructor": "Nechama Esther Price",
          "location": "SCW 601",
@@ -85072,7 +81861,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35519",
          "id": "35519",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -85099,7 +81887,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35523",
          "id": "35523",
          "instructor": "Aaron Cohen",
          "location": "TBA",
@@ -85126,7 +81913,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "35518",
          "id": "35518",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -85153,7 +81939,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34285",
          "id": "34285",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -85179,7 +81964,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "35516",
          "id": "35516",
          "instructor": "Moshe Y. Kahn",
          "location": "TBA",
@@ -85206,7 +81990,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35522",
          "id": "35522",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -85233,7 +82016,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35520",
          "id": "35520",
          "instructor": "Gideon I. Shloush",
          "location": "TBA",
@@ -85260,7 +82042,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35526",
          "id": "35526",
          "instructor": "Daniel E. Wolff",
          "location": "TBA",
@@ -85286,7 +82067,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:55",
-         "_id": "35521",
          "id": "35521",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -85312,7 +82092,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35521",
          "id": "35521",
          "instructor": "Saul J. Berman",
          "location": "TBA",
@@ -85339,7 +82118,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34292",
          "id": "34292",
          "instructor": "Saul J. Berman",
          "location": "SCW 102",
@@ -85366,7 +82144,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35534",
          "id": "35534",
          "instructor": "Kenneth Auman",
          "location": "TBA",
@@ -85392,7 +82169,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:40",
-         "_id": "35524",
          "id": "35524",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -85419,7 +82195,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34238",
          "id": "34238",
          "instructor": "David A. Pahmer",
          "location": "SCW 101",
@@ -85446,7 +82221,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:00",
-         "_id": "34174",
          "id": "34174",
          "instructor": "Moshe Y. Kahn",
          "location": "SCW 406",
@@ -85473,7 +82247,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34230",
          "id": "34230",
          "instructor": "Moshe Y. Kahn",
          "location": "SCW 606",
@@ -85500,7 +82273,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:20",
-         "_id": "34230",
          "id": "34230",
          "instructor": "Moshe Y. Kahn",
          "location": "SCW 606",
@@ -85526,7 +82298,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35525",
          "id": "35525",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -85553,7 +82324,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34425",
          "id": "34425",
          "instructor": "Aaron Cohen",
          "location": "SCW 101",
@@ -85580,7 +82350,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34209",
          "id": "34209",
          "instructor": "Judith Calvo-Ryba",
          "location": "LEX215 YAGODACOMM",
@@ -85607,7 +82376,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35595",
          "id": "35595",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -85634,7 +82402,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34314",
          "id": "34314",
          "instructor": "Steven M. Nissenfeld",
          "location": "LEX215 LX314",
@@ -85661,7 +82428,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34381",
          "id": "34381",
          "instructor": "Robert Tufts",
          "location": "LEX215 ",
@@ -85688,7 +82454,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34420",
          "id": "34420",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX405",
@@ -85715,7 +82480,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34332",
          "id": "34332",
          "instructor": "Jesse Itzkowitz",
          "location": "LEX215 ",
@@ -85742,7 +82506,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34384",
          "id": "34384",
          "instructor": "Robert Tufts",
          "location": "LEX215 LX405",
@@ -85768,7 +82531,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "34431",
          "id": "34431",
          "instructor": "Erik Mintz",
          "location": "LEX215 LX718",
@@ -85795,7 +82557,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34429",
          "id": "34429",
          "instructor": "Johanna Goldstein",
          "location": "LEX215 LX209",
@@ -85821,7 +82582,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35642",
          "id": "35642",
          "instructor": "TBA",
          "location": "TBA",
@@ -85848,7 +82608,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34428",
          "id": "34428",
          "instructor": "Jesse Itzkowitz",
          "location": "LEX215 LX210",
@@ -85875,7 +82634,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34281",
          "id": "34281",
          "instructor": "Margarita R. Levin",
          "location": "SCW 501",
@@ -85902,7 +82660,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34242",
          "id": "34242",
          "instructor": "Michael Dalezman",
          "location": "TBA",
@@ -85928,7 +82685,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:50",
-         "_id": "34399",
          "id": "34399",
          "instructor": "Wai Ting Lam",
          "location": "LEX215 LX403",
@@ -85954,7 +82710,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:35",
-         "_id": "34404",
          "id": "34404",
          "instructor": "Wai Ting Lam",
          "location": "LEX215 ",
@@ -85980,7 +82735,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:35",
-         "_id": "34400",
          "id": "34400",
          "instructor": "Wai Ting Lam",
          "location": "LEX215 ",
@@ -86007,7 +82761,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "34177",
          "id": "34177",
          "instructor": "Morton Lowengrub",
          "location": "SCW ",
@@ -86034,7 +82787,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34177",
          "id": "34177",
          "instructor": "Morton Lowengrub",
          "location": "SCW ",
@@ -86061,7 +82813,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34306",
          "id": "34306",
          "instructor": "Michael Dalezman",
          "location": "SCW 619",
@@ -86088,7 +82839,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34368",
          "id": "34368",
          "instructor": "Marian Gidea",
          "location": "LEX215 LX313",
@@ -86114,7 +82864,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:20",
-         "_id": "34368",
          "id": "34368",
          "instructor": "Esther Ben-Ari ",
          "location": "LEX215 LX313",
@@ -86141,7 +82890,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "35514",
          "id": "35514",
          "instructor": "Michael Dalezman",
          "location": "TBA",
@@ -86168,7 +82916,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34273",
          "id": "34273",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -86195,7 +82942,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34293",
          "id": "34293",
          "instructor": "Marcia Young",
          "location": "SCW 407",
@@ -86221,7 +82967,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34229",
          "id": "34229",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -86247,7 +82992,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34229",
          "id": "34229",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -86274,7 +83018,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34426",
          "id": "34426",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -86301,7 +83044,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35552",
          "id": "35552",
          "instructor": "David Glaser",
          "location": "TBA",
@@ -86328,7 +83070,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34276",
          "id": "34276",
          "instructor": "David Glaser",
          "location": "SCW 407",
@@ -86354,7 +83095,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:55",
-         "_id": "34222",
          "id": "34222",
          "instructor": "Stanley Dorn",
          "location": "SCW 407",
@@ -86380,7 +83120,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:30",
-         "_id": "35553",
          "id": "35553",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -86406,7 +83145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:50",
-         "_id": "35553",
          "id": "35553",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -86432,7 +83170,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:30",
-         "_id": "35554",
          "id": "35554",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -86458,7 +83195,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:55",
-         "_id": "35556",
          "id": "35556",
          "instructor": "Marcia Young",
          "location": "TBA",
@@ -86485,7 +83221,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35531",
          "id": "35531",
          "instructor": "David C. Shatz",
          "location": "TBA",
@@ -86511,7 +83246,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "35533",
          "id": "35533",
          "instructor": "Herb Leventer",
          "location": "TBA",
@@ -86537,7 +83271,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "35533",
          "id": "35533",
          "instructor": "Herb Leventer",
          "location": "TBA",
@@ -86564,7 +83297,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34376",
          "id": "34376",
          "instructor": "Jamie Aroosi",
          "location": "SCW ",
@@ -86590,7 +83322,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34377",
          "id": "34377",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -86616,7 +83347,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34377",
          "id": "34377",
          "instructor": "David C. Shatz",
          "location": "LEX215 LX210",
@@ -86646,7 +83376,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "34250",
          "id": "34250",
          "instructor": "TBA",
          "location": "OFF SITE",
@@ -86676,7 +83405,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "34178",
          "id": "34178",
          "instructor": "Naomi Kaszovitz",
          "location": "OFF SITE",
@@ -86706,7 +83434,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "34179",
          "id": "34179",
          "instructor": "Michael Alon",
          "location": "OFF SITE",
@@ -86736,7 +83463,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "34237",
          "id": "34237",
          "instructor": "Gabe Haber",
          "location": "OFF SITE",
@@ -86764,7 +83490,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "34383",
          "id": "34383",
          "instructor": "Steven Schucker",
          "location": "OFF SITE",
@@ -86792,7 +83517,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:00",
-         "_id": "34180",
          "id": "34180",
          "instructor": "Judith Cummins",
          "location": "OFF SITE",
@@ -86818,7 +83542,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "34180",
          "id": "34180",
          "instructor": "Judith Cummins",
          "location": "OFF SITE",
@@ -86845,7 +83568,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35507",
          "id": "35507",
          "instructor": "Lea F. Santos",
          "location": "TBA",
@@ -86872,7 +83594,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34386",
          "id": "34386",
          "instructor": "Lea F. Santos",
          "location": "SCW 518",
@@ -86898,7 +83619,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:50",
-         "_id": "34560",
          "id": "34560",
          "instructor": "Lea F. Santos",
          "location": "SCW 518",
@@ -86924,7 +83644,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "34387",
          "id": "34387",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -86950,7 +83669,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "34388",
          "id": "34388",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -86976,7 +83694,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "34389",
          "id": "34389",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87002,7 +83719,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "34390",
          "id": "34390",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87029,7 +83745,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34201",
          "id": "34201",
          "instructor": "Anatoly I. Frenkel",
          "location": "SCW 501",
@@ -87055,7 +83770,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "14:15",
-         "_id": "34201",
          "id": "34201",
          "instructor": "Anatoly I. Frenkel",
          "location": "TBA",
@@ -87081,7 +83795,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:10",
-         "_id": "34391",
          "id": "34391",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87107,7 +83820,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "34392",
          "id": "34392",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87133,7 +83845,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:45",
-         "_id": "34393",
          "id": "34393",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87159,7 +83870,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:25",
-         "_id": "34394",
          "id": "34394",
          "instructor": "Mark Edelman",
          "location": "SCW 507",
@@ -87185,7 +83895,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:00",
-         "_id": "34270",
          "id": "34270",
          "instructor": "Mark Edelman",
          "location": "LEX215 LX506",
@@ -87211,7 +83920,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34240",
          "id": "34240",
          "instructor": "Hill Krishnan",
          "location": "SCW 806",
@@ -87237,7 +83945,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34240",
          "id": "34240",
          "instructor": "Hill Krishnan",
          "location": "TBA",
@@ -87264,7 +83971,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34396",
          "id": "34396",
          "instructor": "Jamie Aroosi",
          "location": "SCW 518",
@@ -87291,7 +83997,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34249",
          "id": "34249",
          "instructor": "Joseph Luders",
          "location": "SCW ",
@@ -87318,7 +84023,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35613",
          "id": "35613",
          "instructor": "Joseph Luders",
          "location": "TBA",
@@ -87344,7 +84048,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:30",
-         "_id": "34395",
          "id": "34395",
          "instructor": "Joel B. Strauss",
          "location": "SCW 806",
@@ -87371,7 +84074,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "35562",
          "id": "35562",
          "instructor": "Alper Yildiz",
          "location": "TBA",
@@ -87398,7 +84100,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "35563",
          "id": "35563",
          "instructor": "Joanna Phua",
          "location": "TBA",
@@ -87425,7 +84126,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35564",
          "id": "35564",
          "instructor": "Joanna Phua",
          "location": "TBA",
@@ -87451,7 +84151,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:30",
-         "_id": "35565",
          "id": "35565",
          "instructor": "Matthew Holbreich",
          "location": "TBA",
@@ -87478,7 +84177,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34325",
          "id": "34325",
          "instructor": "TBA",
          "location": "LEX215 LX403",
@@ -87505,7 +84203,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34235",
          "id": "34235",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -87532,7 +84229,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34339",
          "id": "34339",
          "instructor": "Shira Hochberg",
          "location": "LEX215 ",
@@ -87559,7 +84255,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34330",
          "id": "34330",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX208",
@@ -87586,7 +84281,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34403",
          "id": "34403",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX208",
@@ -87613,7 +84307,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34181",
          "id": "34181",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX314",
@@ -87639,7 +84332,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:00",
-         "_id": "34443",
          "id": "34443",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX414",
@@ -87665,7 +84357,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "36420",
          "id": "36420",
          "instructor": "Lisa Doreen Glukhovsky",
          "location": "TBA",
@@ -87691,7 +84382,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:10",
-         "_id": "34182",
          "id": "34182",
          "instructor": "Jessica Hope Sloan",
          "location": "LEX215 LX414",
@@ -87717,7 +84407,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "15:10",
-         "_id": "36154",
          "id": "36154",
          "instructor": "TBA",
          "location": "TBA",
@@ -87743,7 +84432,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:20",
-         "_id": "34183",
          "id": "34183",
          "instructor": "TBA",
          "location": "LEX215 LX414",
@@ -87769,7 +84457,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34519",
          "id": "34519",
          "instructor": "Rachel Ebner",
          "location": "LEX215 LX208",
@@ -87795,7 +84482,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34519",
          "id": "34519",
          "instructor": "Rachel Ebner",
          "location": "LEX215 LX208",
@@ -87822,7 +84508,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34188",
          "id": "34188",
          "instructor": "Joshua H. Bacon",
          "location": "LEX215 LX314",
@@ -87849,7 +84534,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34189",
          "id": "34189",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -87876,7 +84560,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "35736",
          "id": "35736",
          "instructor": "Koby E. Frances",
          "location": "TBA",
@@ -87903,7 +84586,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34214",
          "id": "34214",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -87929,7 +84611,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:40",
-         "_id": "34223",
          "id": "34223",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 ",
@@ -87956,7 +84637,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34378",
          "id": "34378",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 LX209",
@@ -87983,7 +84663,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:45",
-         "_id": "34190",
          "id": "34190",
          "instructor": "Marcel Isaac Perlman",
          "location": "LEX215 LX420",
@@ -88009,7 +84688,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "34315",
          "id": "34315",
          "instructor": "Amanda Mitchell",
          "location": "LEX215 LX209",
@@ -88035,7 +84713,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "34315",
          "id": "34315",
          "instructor": "Amanda Mitchell",
          "location": "LEX215 LX209",
@@ -88062,7 +84739,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34520",
          "id": "34520",
          "instructor": "Aharon Hersh Fried",
          "location": "LEX215 LX208",
@@ -88089,7 +84765,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35704",
          "id": "35704",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -88115,7 +84790,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:00",
-         "_id": "35709",
          "id": "35709",
          "instructor": "Raizy Weinreb",
          "location": "TBA",
@@ -88142,7 +84816,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "35708",
          "id": "35708",
          "instructor": "Terry DiLorenzo",
          "location": "TBA",
@@ -88169,7 +84842,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34323",
          "id": "34323",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -88196,7 +84868,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34367",
          "id": "34367",
          "instructor": "Lora Danley",
          "location": "SCW 501",
@@ -88223,7 +84894,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "34185",
          "id": "34185",
          "instructor": "Sidney Langer",
          "location": "SCW 101",
@@ -88250,7 +84920,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "34184",
          "id": "34184",
          "instructor": "Roberta Farber",
          "location": "SCW 501",
@@ -88277,7 +84946,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34186",
          "id": "34186",
          "instructor": "Sidney Langer",
          "location": "SCW 401",
@@ -88304,7 +84972,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35510",
          "id": "35510",
          "instructor": "Jill C. Katz",
          "location": "TBA",
@@ -88331,7 +84998,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34379",
          "id": "34379",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 LX209",
@@ -88358,7 +85024,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "35512",
          "id": "35512",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -88385,7 +85050,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "35511",
          "id": "35511",
          "instructor": "Roberta Farber",
          "location": "TBA",
@@ -88412,7 +85076,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:40",
-         "_id": "34333",
          "id": "34333",
          "instructor": "Terry DiLorenzo",
          "location": "LEX215 LX209",
@@ -88439,7 +85102,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35513",
          "id": "35513",
          "instructor": "Marcelo Broitman",
          "location": "TBA",
@@ -88465,7 +85127,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34409",
          "id": "34409",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -88491,7 +85152,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34409",
          "id": "34409",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -88518,7 +85178,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:15",
-         "_id": "36350",
          "id": "36350",
          "instructor": "Robert Russell",
          "location": "TBA",
@@ -88545,7 +85204,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34271",
          "id": "34271",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -88572,7 +85230,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:55",
-         "_id": "34436",
          "id": "34436",
          "instructor": "Robert Russell",
          "location": "SCW 501",
@@ -88598,7 +85255,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:25",
-         "_id": "34202",
          "id": "34202",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -88624,7 +85280,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "34202",
          "id": "34202",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -88651,7 +85306,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:00",
-         "_id": "34203",
          "id": "34203",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -88677,7 +85331,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:55",
-         "_id": "34255",
          "id": "34255",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -88703,7 +85356,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:15",
-         "_id": "34255",
          "id": "34255",
          "instructor": "Neva Goldstein",
          "location": "LEX215 LX405",
@@ -88730,7 +85382,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:30",
-         "_id": "34204",
          "id": "34204",
          "instructor": "Joseph Danto",
          "location": "LEX215 LX405",
@@ -88757,7 +85408,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:00",
-         "_id": "34205",
          "id": "34205",
          "instructor": "Ashley Danielle Small",
          "location": "LEX215 LX405",
@@ -88783,7 +85433,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:25",
-         "_id": "34369",
          "id": "34369",
          "instructor": "Susan Wilson",
          "location": "LEX215 LX506",
@@ -88810,7 +85459,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:10",
-         "_id": "34206",
          "id": "34206",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX313",
@@ -88837,7 +85485,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:40",
-         "_id": "34313",
          "id": "34313",
          "instructor": "George T. H. Fuller",
          "location": "LEX215 LX313",
@@ -88863,7 +85510,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:30",
-         "_id": "34334",
          "id": "34334",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "LEX215 ",
@@ -88889,7 +85535,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:30",
-         "_id": "34334",
          "id": "34334",
          "instructor": "Jeffrey Glenn Portnoy",
          "location": "TBA",
@@ -88915,7 +85560,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:15",
-         "_id": "36545",
          "id": "36545",
          "instructor": "Caroline Sibel Altaras",
          "location": "TBA",
@@ -88941,7 +85585,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:35",
-         "_id": "36545",
          "id": "36545",
          "instructor": "Caroline Sibel Altaras",
          "location": "TBA",
@@ -88968,7 +85611,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "34269",
          "id": "34269",
          "instructor": "Leonard Schlangel",
          "location": "LEX215 LX210",
@@ -88994,7 +85636,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35699",
          "id": "35699",
          "instructor": "Jacob Wisse, Meir Yakov Soloveichik ",
          "location": "TBA",
@@ -89020,7 +85661,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "35570",
          "id": "35570",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -89046,7 +85686,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "35643",
          "id": "35643",
          "instructor": "Paul Glassman",
          "location": "TBA",
@@ -89072,7 +85711,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:30",
-         "_id": "33989",
          "id": "33989",
          "instructor": "Carla Aurich",
          "location": "MUSS MU107",
@@ -89098,7 +85736,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "33969",
          "id": "33969",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -89124,7 +85761,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "33972",
          "id": "33972",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -89150,7 +85786,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33971",
          "id": "33971",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -89176,7 +85811,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33973",
          "id": "33973",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -89202,7 +85836,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33970",
          "id": "33970",
          "instructor": "Yaakov Elman",
          "location": "TBA",
@@ -89228,7 +85861,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "33974",
          "id": "33974",
          "instructor": "Elazar Hurvitz",
          "location": "FURST F206",
@@ -89254,7 +85886,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "35571",
          "id": "35571",
          "instructor": "Barry L. Eichler",
          "location": "TBA",
@@ -89281,7 +85912,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35573",
          "id": "35573",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -89307,7 +85937,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "34637",
          "id": "34637",
          "instructor": "Joseph L. Angel",
          "location": "TBA",
@@ -89333,7 +85962,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "35569",
          "id": "35569",
          "instructor": "Jeremy Wieder",
          "location": "TBA",
@@ -89359,7 +85987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33975",
          "id": "33975",
          "instructor": "Elazar Hurvitz",
          "location": "FURST F206",
@@ -89385,7 +86012,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "35575",
          "id": "35575",
          "instructor": "J. Mitchell Orlian",
          "location": "FURST F209",
@@ -89411,7 +86037,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "35572",
          "id": "35572",
          "instructor": "J. Mitchell Orlian",
          "location": "FURST F209",
@@ -89437,7 +86062,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:05",
-         "_id": "33868",
          "id": "33868",
          "instructor": "Danielle Wasserman",
          "location": "BELFHL B1415",
@@ -89463,7 +86087,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "33869",
          "id": "33869",
          "instructor": "Aaron Kogut",
          "location": "BELFHL B1415",
@@ -89489,7 +86112,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "33870",
          "id": "33870",
          "instructor": "TBA",
          "location": "BELFHL B1415",
@@ -89515,7 +86137,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "37211",
          "id": "37211",
          "instructor": "TBA",
          "location": "TBA",
@@ -89542,7 +86163,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33872",
          "id": "33872",
          "instructor": "Somdeb Mitra",
          "location": "TBA",
@@ -89568,7 +86188,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "33873",
          "id": "33873",
          "instructor": "Somdeb Mitra",
          "location": "BELFHL B1417",
@@ -89595,7 +86214,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33874",
          "id": "33874",
          "instructor": "Daniel Lim",
          "location": "TBA",
@@ -89621,7 +86239,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:40",
-         "_id": "33876",
          "id": "33876",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -89647,7 +86264,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "33876",
          "id": "33876",
          "instructor": "Vincent Chiappetta",
          "location": "TBA",
@@ -89674,7 +86290,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:50",
-         "_id": "33877",
          "id": "33877",
          "instructor": "TBA",
          "location": "TBA",
@@ -89700,7 +86315,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:05",
-         "_id": "33877",
          "id": "33877",
          "instructor": "TBA",
          "location": "FURST F020",
@@ -89727,7 +86341,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "15:50",
-         "_id": "33939",
          "id": "33939",
          "instructor": "Josefa M. Steinhauer",
          "location": "BELFHL B1410",
@@ -89753,7 +86366,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "33939",
          "id": "33939",
          "instructor": "Josefa M. Steinhauer",
          "location": "BELFHL B1407",
@@ -89779,7 +86391,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "33940",
          "id": "33940",
          "instructor": "Sumanta Goswami",
          "location": "BELFHL B1410",
@@ -89805,7 +86416,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "33940",
          "id": "33940",
          "instructor": "Sumanta Goswami",
          "location": "BELFHL B1407",
@@ -89831,7 +86441,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:05",
-         "_id": "33920",
          "id": "33920",
          "instructor": "Toni M Schwarz",
          "location": "TBA",
@@ -89857,7 +86466,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:10",
-         "_id": "33921",
          "id": "33921",
          "instructor": "Moses D. Tendler",
          "location": "TBA",
@@ -89881,7 +86489,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33978",
          "id": "33978",
          "instructor": "TBA",
          "location": "TBA",
@@ -89908,7 +86515,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35574",
          "id": "35574",
          "instructor": "Esther Devorah Rollhaus",
          "location": "TBA",
@@ -89934,7 +86540,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:25",
-         "_id": "33977",
          "id": "33977",
          "instructor": "TBA",
          "location": "TBA",
@@ -89961,7 +86566,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33878",
          "id": "33878",
          "instructor": "James Camara",
          "location": "TBA",
@@ -89987,7 +86591,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "33878",
          "id": "33878",
          "instructor": "James Camara",
          "location": "TBA",
@@ -90014,7 +86617,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34029",
          "id": "34029",
          "instructor": "Jianfeng Jiang",
          "location": "BELFHL B1610",
@@ -90040,7 +86642,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:45",
-         "_id": "34029",
          "id": "34029",
          "instructor": "Jianfeng Jiang",
          "location": "BELFHL B1613",
@@ -90067,7 +86668,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33879",
          "id": "33879",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -90093,7 +86693,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "33879",
          "id": "33879",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "TBA",
@@ -90119,7 +86718,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:45",
-         "_id": "33961",
          "id": "33961",
          "instructor": "Jacopo Samson",
          "location": "BELFHL B1510",
@@ -90145,7 +86743,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "22:45",
-         "_id": "33962",
          "id": "33962",
          "instructor": "Racquel K. Malcolm-Whyte",
          "location": "BELFHL B1510",
@@ -90171,7 +86768,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:00",
-         "_id": "33963",
          "id": "33963",
          "instructor": "Fabiola Barrios-Landeros",
          "location": "BELFHL B1510",
@@ -90197,7 +86793,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "22:05",
-         "_id": "33927",
          "id": "33927",
          "instructor": "Somdeb Mitra",
          "location": "BELFHL B1417",
@@ -90224,7 +86819,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33928",
          "id": "33928",
          "instructor": "Daniel Lim",
          "location": "TBA",
@@ -90251,7 +86845,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33932",
          "id": "33932",
          "instructor": "Raji Viswanathan",
          "location": "TBA",
@@ -90277,7 +86870,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "19:40",
-         "_id": "33932",
          "id": "33932",
          "instructor": "Raji Viswanathan",
          "location": "TBA",
@@ -90301,7 +86893,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33979",
          "id": "33979",
          "instructor": "TBA",
          "location": "TBA",
@@ -90328,7 +86919,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33985",
          "id": "33985",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -90354,7 +86944,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:15",
-         "_id": "33955",
          "id": "33955",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -90380,7 +86969,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:15",
-         "_id": "34129",
          "id": "34129",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -90407,7 +86995,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33936",
          "id": "33936",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -90433,7 +87020,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "34030",
          "id": "34030",
          "instructor": "TBA",
          "location": "TBA",
@@ -90460,7 +87046,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33943",
          "id": "33943",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -90486,7 +87071,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "33943",
          "id": "33943",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -90513,7 +87097,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35896",
          "id": "35896",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -90539,7 +87122,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "33922",
          "id": "33922",
          "instructor": "Judah M. Diament",
          "location": "TBA",
@@ -90566,7 +87148,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33931",
          "id": "33931",
          "instructor": "Van Kelly",
          "location": "TBA",
@@ -90593,7 +87174,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34023",
          "id": "34023",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -90620,7 +87200,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35644",
          "id": "35644",
          "instructor": "Jonathan Schapiro",
          "location": "TBA",
@@ -90647,7 +87226,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "35645",
          "id": "35645",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -90674,7 +87252,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35646",
          "id": "35646",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -90700,7 +87277,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "35579",
          "id": "35579",
          "instructor": "Jonathan J. Zisook",
          "location": "TBA",
@@ -90727,7 +87303,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34108",
          "id": "34108",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -90754,7 +87329,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35647",
          "id": "35647",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -90781,7 +87355,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "35648",
          "id": "35648",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -90808,7 +87381,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34132",
          "id": "34132",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -90834,7 +87406,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "35649",
          "id": "35649",
          "instructor": "Aaron J. Koller",
          "location": "TBA",
@@ -90861,7 +87432,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34082",
          "id": "34082",
          "instructor": "Ran Shao",
          "location": "TBA",
@@ -90888,7 +87458,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34002",
          "id": "34002",
          "instructor": "Tadashi Hashimoto",
          "location": "TBA",
@@ -90915,7 +87484,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33923",
          "id": "33923",
          "instructor": "Omer Acikgoz",
          "location": "TBA",
@@ -90942,7 +87510,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35846",
          "id": "35846",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -90968,7 +87535,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "33935",
          "id": "33935",
          "instructor": "Orkideh Gharehgozli",
          "location": "TBA",
@@ -90995,7 +87561,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35584",
          "id": "35584",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -91022,7 +87587,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33919",
          "id": "33919",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -91049,7 +87613,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33958",
          "id": "33958",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -91076,7 +87639,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33959",
          "id": "33959",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -91103,7 +87665,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33960",
          "id": "33960",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -91130,7 +87691,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35652",
          "id": "35652",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -91157,7 +87717,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35653",
          "id": "35653",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -91184,7 +87743,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35654",
          "id": "35654",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -91211,7 +87769,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35656",
          "id": "35656",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -91238,7 +87795,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35677",
          "id": "35677",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -91264,7 +87820,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35657",
          "id": "35657",
          "instructor": "David Lavinsky",
          "location": "TBA",
@@ -91290,7 +87845,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35658",
          "id": "35658",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -91316,7 +87870,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "35655",
          "id": "35655",
          "instructor": "Rachel Mesch",
          "location": "TBA",
@@ -91342,7 +87895,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:45",
-         "_id": "33933",
          "id": "33933",
          "instructor": "Lauren Fitzgerald",
          "location": "TBA",
@@ -91368,7 +87920,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:45",
-         "_id": "34007",
          "id": "34007",
          "instructor": "Raji Viswanathan",
          "location": "TBA",
@@ -91394,7 +87945,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34007",
          "id": "34007",
          "instructor": "Raji Viswanathan",
          "location": "TBA",
@@ -91421,7 +87971,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35578",
          "id": "35578",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -91448,7 +87997,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "34068",
          "id": "34068",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -91475,7 +88023,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34069",
          "id": "34069",
          "instructor": "Liesl Schwabe",
          "location": "TBA",
@@ -91502,7 +88049,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34072",
          "id": "34072",
          "instructor": "Elizabeth Stewart",
          "location": "TBA",
@@ -91529,7 +88075,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34070",
          "id": "34070",
          "instructor": "Lauren Fitzgerald",
          "location": "TBA",
@@ -91556,7 +88101,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34076",
          "id": "34076",
          "instructor": "Norma Silbermintz",
          "location": "TBA",
@@ -91583,7 +88127,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34117",
          "id": "34117",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -91610,7 +88153,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35582",
          "id": "35582",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -91637,7 +88179,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34071",
          "id": "34071",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -91664,7 +88205,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "34073",
          "id": "34073",
          "instructor": "Barbara A. Blatner",
          "location": "TBA",
@@ -91691,7 +88231,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33881",
          "id": "33881",
          "instructor": "Raisa Rexer",
          "location": "TBA",
@@ -91718,7 +88257,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34119",
          "id": "34119",
          "instructor": "Raisa Rexer",
          "location": "TBA",
@@ -91746,7 +88284,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "34012",
          "id": "34012",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -91772,7 +88309,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "34012",
          "id": "34012",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -91801,7 +88337,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:50",
-         "_id": "33976",
          "id": "33976",
          "instructor": "Lori Linzer",
          "location": "TBA",
@@ -91829,7 +88364,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:50",
-         "_id": "34013",
          "id": "34013",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -91855,7 +88389,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:10",
-         "_id": "34013",
          "id": "34013",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -91883,7 +88416,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:55",
-         "_id": "33952",
          "id": "33952",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -91909,7 +88441,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:00",
-         "_id": "33952",
          "id": "33952",
          "instructor": "Rachel Kra Schaum",
          "location": "TBA",
@@ -91938,7 +88469,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "33948",
          "id": "33948",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -91965,7 +88495,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34014",
          "id": "34014",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -91991,7 +88520,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:40",
-         "_id": "34014",
          "id": "34014",
          "instructor": "Ezra H. Frazer",
          "location": "TBA",
@@ -92020,7 +88548,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:25",
-         "_id": "33953",
          "id": "33953",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -92047,7 +88574,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:20",
-         "_id": "34015",
          "id": "34015",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -92073,7 +88599,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "13:00",
-         "_id": "34015",
          "id": "34015",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -92100,7 +88625,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34016",
          "id": "34016",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -92126,7 +88650,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:50",
-         "_id": "34016",
          "id": "34016",
          "instructor": "Chaya Glaser",
          "location": "TBA",
@@ -92153,7 +88676,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "36037",
          "id": "36037",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -92180,7 +88702,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "35662",
          "id": "35662",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -92207,7 +88728,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34053",
          "id": "34053",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -92234,7 +88754,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34017",
          "id": "34017",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -92261,7 +88780,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35663",
          "id": "35663",
          "instructor": "Samuel Schneider",
          "location": "TBA",
@@ -92288,7 +88806,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34054",
          "id": "34054",
          "instructor": "Sigal Shalom",
          "location": "TBA",
@@ -92315,7 +88832,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34055",
          "id": "34055",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -92342,7 +88858,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34034",
          "id": "34034",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -92369,7 +88884,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35664",
          "id": "35664",
          "instructor": "Sarah Kasher-Bendet",
          "location": "TBA",
@@ -92396,7 +88910,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35602",
          "id": "35602",
          "instructor": "Shalom E. Holtz",
          "location": "TBA",
@@ -92422,7 +88935,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35666",
          "id": "35666",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -92449,7 +88961,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34137",
          "id": "34137",
          "instructor": "Jeffrey Freedman",
          "location": "TBA",
@@ -92476,7 +88987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35604",
          "id": "35604",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -92503,7 +89013,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "35605",
          "id": "35605",
          "instructor": "Douglas Burgess",
          "location": "TBA",
@@ -92530,7 +89039,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "34050",
          "id": "34050",
          "instructor": "Elias C. Grivoyannis",
          "location": "TBA",
@@ -92557,7 +89065,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33967",
          "id": "33967",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -92584,7 +89091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35583",
          "id": "35583",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -92610,7 +89116,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35585",
          "id": "35585",
          "instructor": "Akiva J. Covitz",
          "location": "TBA",
@@ -92637,7 +89142,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35659",
          "id": "35659",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -92663,7 +89167,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "35660",
          "id": "35660",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -92690,7 +89193,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35606",
          "id": "35606",
          "instructor": "William Lamborn Lee",
          "location": "TBA",
@@ -92717,7 +89219,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35608",
          "id": "35608",
          "instructor": "Richard Leonard Nochimson",
          "location": "TBA",
@@ -92744,7 +89245,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33994",
          "id": "33994",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -92771,7 +89271,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "34131",
          "id": "34131",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -92797,7 +89296,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35607",
          "id": "35607",
          "instructor": "Ronnie Perelis",
          "location": "TBA",
@@ -92823,7 +89321,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "35688",
          "id": "35688",
          "instructor": "Jacob Wisse, Meir Yakov Soloveichik ",
          "location": "TBA",
@@ -92850,7 +89347,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "33986",
          "id": "33986",
          "instructor": "Steven Fine",
          "location": "TBA",
@@ -92877,7 +89373,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33987",
          "id": "33987",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -92904,7 +89399,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35611",
          "id": "35611",
          "instructor": "Chaviva Levin",
          "location": "TBA",
@@ -92931,7 +89425,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34006",
          "id": "34006",
          "instructor": "Joshua Karlip",
          "location": "TBA",
@@ -92958,7 +89451,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35668",
          "id": "35668",
          "instructor": "Jess J. Olson",
          "location": "TBA",
@@ -92985,7 +89477,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "36386",
          "id": "36386",
          "instructor": "Shalom Carmy",
          "location": "TBA",
@@ -93012,7 +89503,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35695",
          "id": "35695",
          "instructor": "Moshe J. Bernstein",
          "location": "TBA",
@@ -93039,7 +89529,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35610",
          "id": "35610",
          "instructor": "Jonathan V. Dauber",
          "location": "TBA",
@@ -93065,7 +89554,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "33882",
          "id": "33882",
          "instructor": "Donald Taylor-Bruce",
          "location": "TBA",
@@ -93092,7 +89580,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33882",
          "id": "33882",
          "instructor": "Donald Taylor-Bruce",
          "location": "TBA",
@@ -93118,7 +89605,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "17:20",
-         "_id": "34040",
          "id": "34040",
          "instructor": "Yan Li",
          "location": "TBA",
@@ -93144,7 +89630,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "33883",
          "id": "33883",
          "instructor": "Yan Li",
          "location": "TBA",
@@ -93170,7 +89655,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:35",
-         "_id": "33884",
          "id": "33884",
          "instructor": "Yan Li",
          "location": "TBA",
@@ -93196,7 +89680,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "33925",
          "id": "33925",
          "instructor": "Yan Li",
          "location": "TBA",
@@ -93222,7 +89705,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:40",
-         "_id": "33885",
          "id": "33885",
          "instructor": "Donald Taylor-Bruce",
          "location": "TBA",
@@ -93249,7 +89731,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33886",
          "id": "33886",
          "instructor": "Yan Li",
          "location": "TBA",
@@ -93276,7 +89757,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33887",
          "id": "33887",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -93303,7 +89783,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33957",
          "id": "33957",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -93329,7 +89808,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "33957",
          "id": "33957",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -93356,7 +89834,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33888",
          "id": "33888",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -93383,7 +89860,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33889",
          "id": "33889",
          "instructor": "Wenxiong Chen",
          "location": "TBA",
@@ -93410,7 +89886,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33942",
          "id": "33942",
          "instructor": "Maxwell Musser",
          "location": "TBA",
@@ -93437,7 +89912,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33890",
          "id": "33890",
          "instructor": "Arnold Lebow",
          "location": "TBA",
@@ -93464,7 +89938,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35669",
          "id": "35669",
          "instructor": "Jonathan Schapiro",
          "location": "TBA",
@@ -93491,7 +89964,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "34135",
          "id": "34135",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -93518,7 +89990,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33996",
          "id": "33996",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -93545,7 +90016,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "34074",
          "id": "34074",
          "instructor": "Harry Ballan",
          "location": "TBA",
@@ -93572,7 +90042,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34018",
          "id": "34018",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -93598,7 +90067,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "34019",
          "id": "34019",
          "instructor": "Daniel Beliavsky",
          "location": "TBA",
@@ -93625,7 +90093,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33934",
          "id": "33934",
          "instructor": "Kurt Nelson",
          "location": "TBA",
@@ -93652,7 +90119,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "35670",
          "id": "35670",
          "instructor": "Kurt Nelson",
          "location": "TBA",
@@ -93679,7 +90145,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "15:50",
-         "_id": "34042",
          "id": "34042",
          "instructor": "Jonathan Schapiro",
          "location": "TBA",
@@ -93706,7 +90171,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35696",
          "id": "35696",
          "instructor": "TBA",
          "location": "TBA",
@@ -93732,7 +90196,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "35697",
          "id": "35697",
          "instructor": "Gabriel Cwilich",
          "location": "TBA",
@@ -93759,7 +90222,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35618",
          "id": "35618",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -93786,7 +90248,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "34109",
          "id": "34109",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -93813,7 +90274,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "34146",
          "id": "34146",
          "instructor": "Meir Yakov Soloveichik",
          "location": "TBA",
@@ -93840,7 +90300,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35671",
          "id": "35671",
          "instructor": "David R. Johnson",
          "location": "TBA",
@@ -93867,7 +90326,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "36144",
          "id": "36144",
          "instructor": "Daniel Rynhold",
          "location": "TBA",
@@ -93891,7 +90349,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33956",
          "id": "33956",
          "instructor": "TBA",
          "location": "TBA",
@@ -93915,7 +90372,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33945",
          "id": "33945",
          "instructor": "TBA",
          "location": "TBA",
@@ -93939,7 +90395,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33944",
          "id": "33944",
          "instructor": "TBA",
          "location": "TBA",
@@ -93963,7 +90418,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33904",
          "id": "33904",
          "instructor": "TBA",
          "location": "TBA",
@@ -93987,7 +90441,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33905",
          "id": "33905",
          "instructor": "TBA",
          "location": "TBA",
@@ -94011,7 +90464,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33906",
          "id": "33906",
          "instructor": "TBA",
          "location": "TBA",
@@ -94035,7 +90487,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33907",
          "id": "33907",
          "instructor": "TBA",
          "location": "TBA",
@@ -94059,7 +90510,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33908",
          "id": "33908",
          "instructor": "TBA",
          "location": "TBA",
@@ -94085,7 +90535,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:25",
-         "_id": "33892",
          "id": "33892",
          "instructor": "Neer Asherie",
          "location": "TBA",
@@ -94111,7 +90560,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "33964",
          "id": "33964",
          "instructor": "TBA",
          "location": "TBA",
@@ -94137,7 +90585,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:25",
-         "_id": "33982",
          "id": "33982",
          "instructor": "Clifford Marc Bastuscheck",
          "location": "TBA",
@@ -94164,7 +90611,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33893",
          "id": "33893",
          "instructor": "Neer Asherie",
          "location": "TBA",
@@ -94190,7 +90636,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "35634",
          "id": "35634",
          "instructor": "Neer Asherie",
          "location": "TBA",
@@ -94216,7 +90661,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "35638",
          "id": "35638",
          "instructor": "Neer Asherie",
          "location": "TBA",
@@ -94243,7 +90687,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34010",
          "id": "34010",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -94269,7 +90712,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "18:40",
-         "_id": "35888",
          "id": "35888",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -94295,7 +90737,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "13:30",
-         "_id": "35676",
          "id": "35676",
          "instructor": "Fredy Zypman",
          "location": "TBA",
@@ -94321,7 +90762,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35672",
          "id": "35672",
          "instructor": "Gabriel Cwilich",
          "location": "TBA",
@@ -94348,7 +90788,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "33926",
          "id": "33926",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -94375,7 +90814,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34088",
          "id": "34088",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -94401,7 +90839,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:40",
-         "_id": "35678",
          "id": "35678",
          "instructor": "Sergey V. Buldyrev",
          "location": "TBA",
@@ -94427,7 +90864,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:45",
-         "_id": "34087",
          "id": "34087",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -94453,7 +90889,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:45",
-         "_id": "35633",
          "id": "35633",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -94477,7 +90912,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "34140",
          "id": "34140",
          "instructor": "TBA",
          "location": "TBA",
@@ -94503,7 +90937,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:50",
-         "_id": "33941",
          "id": "33941",
          "instructor": "Mahdokht Behravan",
          "location": "TBA",
@@ -94530,7 +90963,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33981",
          "id": "33981",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -94557,7 +90989,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "34094",
          "id": "34094",
          "instructor": "Jamie Aroosi",
          "location": "TBA",
@@ -94584,7 +91015,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35620",
          "id": "35620",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -94611,7 +91041,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33988",
          "id": "33988",
          "instructor": "Ruth Bevan",
          "location": "TBA",
@@ -94638,7 +91067,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35623",
          "id": "35623",
          "instructor": "Roberto Genoves",
          "location": "TBA",
@@ -94665,7 +91093,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35622",
          "id": "35622",
          "instructor": "Ruth Bevan",
          "location": "TBA",
@@ -94692,7 +91119,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35639",
          "id": "35639",
          "instructor": "Maria N. Zaitseva",
          "location": "TBA",
@@ -94719,7 +91145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35621",
          "id": "35621",
          "instructor": "Joseph Lieberman, Ruth Bevan ",
          "location": "TBA",
@@ -94745,7 +91170,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35843",
          "id": "35843",
          "instructor": "TBA",
          "location": "TBA",
@@ -94772,7 +91196,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33895",
          "id": "33895",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -94799,7 +91222,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35625",
          "id": "35625",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -94826,7 +91248,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33968",
          "id": "33968",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -94852,7 +91273,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "33896",
          "id": "33896",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -94878,7 +91298,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:30",
-         "_id": "35626",
          "id": "35626",
          "instructor": "Stephen I. Glicksman",
          "location": "TBA",
@@ -94905,7 +91324,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33897",
          "id": "33897",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -94931,7 +91349,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "19:45",
-         "_id": "33897",
          "id": "33897",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -94958,7 +91375,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "34112",
          "id": "34112",
          "instructor": "Bruno Galantucci",
          "location": "TBA",
@@ -94985,7 +91401,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35998",
          "id": "35998",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -95012,7 +91427,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33898",
          "id": "33898",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -95039,7 +91453,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "34077",
          "id": "34077",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -95066,7 +91479,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35624",
          "id": "35624",
          "instructor": "Ariel Malka",
          "location": "TBA",
@@ -95092,7 +91504,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "34047",
          "id": "34047",
          "instructor": "E. Hoffman",
          "location": "TBA",
@@ -95118,7 +91529,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "35627",
          "id": "35627",
          "instructor": "Ari Shechter",
          "location": "TBA",
@@ -95144,7 +91554,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:30",
-         "_id": "33899",
          "id": "33899",
          "instructor": "Ido Davidesco",
          "location": "TBA",
@@ -95171,7 +91580,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "34075",
          "id": "34075",
          "instructor": "Harry Ballan",
          "location": "TBA",
@@ -95195,7 +91603,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "33980",
          "id": "33980",
          "instructor": "TBA",
          "location": "TBA",
@@ -95222,7 +91629,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "35628",
          "id": "35628",
          "instructor": "Esther Devorah Rollhaus",
          "location": "TBA",
@@ -95248,7 +91654,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:30",
-         "_id": "35842",
          "id": "35842",
          "instructor": "Jenny Isaacs",
          "location": "TBA",
@@ -95275,7 +91680,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33900",
          "id": "33900",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -95301,7 +91705,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:00",
-         "_id": "35630",
          "id": "35630",
          "instructor": "Jonathan J. Zisook",
          "location": "TBA",
@@ -95327,7 +91730,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "35629",
          "id": "35629",
          "instructor": "Amy Stuart",
          "location": "TBA",
@@ -95354,7 +91756,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35632",
          "id": "35632",
          "instructor": "Daniel Kimmel",
          "location": "TBA",
@@ -95381,7 +91782,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "34004",
          "id": "34004",
          "instructor": "Eliezer H. Schnall",
          "location": "TBA",
@@ -95407,7 +91807,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "34003",
          "id": "34003",
          "instructor": "TBA",
          "location": "TBA",
@@ -95434,7 +91833,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33901",
          "id": "33901",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -95461,7 +91859,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33902",
          "id": "33902",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -95488,7 +91885,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "36557",
          "id": "36557",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -95515,7 +91911,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33903",
          "id": "33903",
          "instructor": "Graciela Bazet de Broitman",
          "location": "TBA",
@@ -95542,7 +91937,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "36038",
          "id": "36038",
          "instructor": "Marcelo Broitman",
          "location": "TBA",
@@ -95568,7 +91962,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "33909",
          "id": "33909",
          "instructor": "Andreas Kakolyris",
          "location": "TBA",
@@ -95594,7 +91987,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35698",
          "id": "35698",
          "instructor": "Lin Snider",
          "location": "TBA",
@@ -95621,7 +92013,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "33793",
          "id": "33793",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -95648,7 +92039,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33866",
          "id": "33866",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -95675,7 +92065,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33817",
          "id": "33817",
          "instructor": "Constance J. Crawford",
          "location": "TBA",
@@ -95702,7 +92091,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33794",
          "id": "33794",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -95729,7 +92117,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35635",
          "id": "35635",
          "instructor": "TBA",
          "location": "TBA",
@@ -95756,7 +92143,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33821",
          "id": "33821",
          "instructor": "Joel A. Hochman",
          "location": "TBA",
@@ -95783,7 +92169,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33795",
          "id": "33795",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -95810,7 +92195,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33796",
          "id": "33796",
          "instructor": "Aliza Rotenstein",
          "location": "TBA",
@@ -95837,7 +92221,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "36423",
          "id": "36423",
          "instructor": "Francine Mellors-Rothenstein",
          "location": "TBA",
@@ -95863,7 +92246,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "33797",
          "id": "33797",
          "instructor": "He Huang",
          "location": "TBA",
@@ -95890,7 +92272,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33825",
          "id": "33825",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -95917,7 +92298,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33798",
          "id": "33798",
          "instructor": "Martin A. Leibowitz",
          "location": "TBA",
@@ -95943,7 +92323,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "33816",
          "id": "33816",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -95969,7 +92348,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "33851",
          "id": "33851",
          "instructor": "Moses L. Pava",
          "location": "TBA",
@@ -95996,7 +92374,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33799",
          "id": "33799",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -96023,7 +92400,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35661",
          "id": "35661",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -96050,7 +92426,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33800",
          "id": "33800",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -96077,7 +92452,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33801",
          "id": "33801",
          "instructor": "Robert Jay Greenberg",
          "location": "TBA",
@@ -96103,7 +92477,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "33831",
          "id": "33831",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -96129,7 +92502,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "33822",
          "id": "33822",
          "instructor": "Daniel Feldman",
          "location": "TBA",
@@ -96155,7 +92527,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33832",
          "id": "33832",
          "instructor": "Ozer Glickman",
          "location": "TBA",
@@ -96182,7 +92553,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33802",
          "id": "33802",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -96209,7 +92579,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35673",
          "id": "35673",
          "instructor": "Rachel Calipha",
          "location": "TBA",
@@ -96236,7 +92605,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35674",
          "id": "35674",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -96263,7 +92631,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33803",
          "id": "33803",
          "instructor": "Gabriela Coiculescu",
          "location": "TBA",
@@ -96290,7 +92657,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33804",
          "id": "33804",
          "instructor": "Joshua Krausz",
          "location": "TBA",
@@ -96317,7 +92683,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33844",
          "id": "33844",
          "instructor": "Rachel Calipha",
          "location": "TBA",
@@ -96343,7 +92708,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:15",
-         "_id": "33820",
          "id": "33820",
          "instructor": "S. Abraham Ravid",
          "location": "TBA",
@@ -96369,7 +92733,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:15",
-         "_id": "33806",
          "id": "33806",
          "instructor": "Sidney J. Mehl",
          "location": "TBA",
@@ -96396,7 +92759,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "33827",
          "id": "33827",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -96423,7 +92785,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33853",
          "id": "33853",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -96450,7 +92811,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33852",
          "id": "33852",
          "instructor": "Marc Spear",
          "location": "TBA",
@@ -96477,7 +92837,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33858",
          "id": "33858",
          "instructor": "TBA",
          "location": "TBA",
@@ -96504,7 +92863,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "33857",
          "id": "33857",
          "instructor": "TBA",
          "location": "TBA",
@@ -96531,7 +92889,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33860",
          "id": "33860",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -96558,7 +92915,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33859",
          "id": "33859",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -96585,7 +92941,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33861",
          "id": "33861",
          "instructor": "Timothy J. Berrigan",
          "location": "TBA",
@@ -96612,7 +92967,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "36573",
          "id": "36573",
          "instructor": "TBA",
          "location": "TBA",
@@ -96639,7 +92993,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33839",
          "id": "33839",
          "instructor": "Avi Naiman",
          "location": "TBA",
@@ -96666,7 +93019,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33840",
          "id": "33840",
          "instructor": "Avi Naiman",
          "location": "TBA",
@@ -96693,7 +93045,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "33807",
          "id": "33807",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -96720,7 +93071,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33828",
          "id": "33828",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -96747,7 +93097,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33809",
          "id": "33809",
          "instructor": "Shu Han",
          "location": "TBA",
@@ -96774,7 +93123,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "35679",
          "id": "35679",
          "instructor": "Kevin Brabazon",
          "location": "TBA",
@@ -96801,7 +93149,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35680",
          "id": "35680",
          "instructor": "Vladimir Kovtun",
          "location": "TBA",
@@ -96828,7 +93175,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33808",
          "id": "33808",
          "instructor": "Avi H. Giloni",
          "location": "TBA",
@@ -96855,7 +93201,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33833",
          "id": "33833",
          "instructor": "Avi H. Giloni",
          "location": "TBA",
@@ -96882,7 +93227,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:45",
-         "_id": "33826",
          "id": "33826",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -96909,7 +93253,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33810",
          "id": "33810",
          "instructor": "Yasar Levent Kocaga",
          "location": "TBA",
@@ -96936,7 +93279,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33837",
          "id": "33837",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -96962,7 +93304,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "33849",
          "id": "33849",
          "instructor": "Sriram Subramanian",
          "location": "TBA",
@@ -96989,7 +93330,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "35689",
          "id": "35689",
          "instructor": "Yitzchak S. Rosenthal",
          "location": "TBA",
@@ -97015,7 +93355,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "33862",
          "id": "33862",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -97041,7 +93380,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:30",
-         "_id": "33862",
          "id": "33862",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -97067,7 +93405,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "33863",
          "id": "33863",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -97093,7 +93430,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "33863",
          "id": "33863",
          "instructor": "Jacob J. Schacter",
          "location": "TBA",
@@ -97119,7 +93455,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:45",
-         "_id": "35690",
          "id": "35690",
          "instructor": "Daniel Rynhold",
          "location": "TBA",
@@ -97145,7 +93480,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "35691",
          "id": "35691",
          "instructor": "Daniel Rynhold",
          "location": "TBA",
@@ -97172,7 +93506,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "35681",
          "id": "35681",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -97199,7 +93532,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33811",
          "id": "33811",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -97226,7 +93558,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33812",
          "id": "33812",
          "instructor": "Steven M. Nissenfeld",
          "location": "TBA",
@@ -97252,7 +93583,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "21:00",
-         "_id": "35710",
          "id": "35710",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -97279,7 +93609,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33843",
          "id": "33843",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -97305,7 +93634,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "20:25",
-         "_id": "35693",
          "id": "35693",
          "instructor": "Laizer Kornwasser",
          "location": "TBA",
@@ -97332,7 +93660,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33864",
          "id": "33864",
          "instructor": "Andrew M. Geller",
          "location": "TBA",
@@ -97359,7 +93686,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33818",
          "id": "33818",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -97385,7 +93711,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:25",
-         "_id": "35692",
          "id": "35692",
          "instructor": "TBA",
          "location": "TBA",
@@ -97411,7 +93736,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:10",
-         "_id": "35683",
          "id": "35683",
          "instructor": "Richard M. Joel",
          "location": "TBA",
@@ -97438,7 +93762,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:45",
-         "_id": "33835",
          "id": "33835",
          "instructor": "Frederick Palumbo",
          "location": "TBA",
@@ -97465,7 +93788,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "33813",
          "id": "33813",
          "instructor": "Frederick Palumbo",
          "location": "TBA",
@@ -97492,7 +93814,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "35684",
          "id": "35684",
          "instructor": "Frederick Palumbo",
          "location": "TBA",
@@ -97519,7 +93840,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "35685",
          "id": "35685",
          "instructor": "Tamar Avnet",
          "location": "TBA",
@@ -97546,7 +93866,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:15",
-         "_id": "33814",
          "id": "33814",
          "instructor": "Maria Blekher",
          "location": "TBA",
@@ -97573,7 +93892,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "17:45",
-         "_id": "33846",
          "id": "33846",
          "instructor": "Robert Tufts",
          "location": "TBA",
@@ -97600,7 +93918,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33838",
          "id": "33838",
          "instructor": "Tamar Avnet",
          "location": "TBA",
@@ -97626,7 +93943,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35686",
          "id": "35686",
          "instructor": "Nurit Shaul",
          "location": "TBA",
@@ -97652,7 +93968,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "21:15",
-         "_id": "35885",
          "id": "35885",
          "instructor": "TBA",
          "location": "TBA",
@@ -97679,7 +93994,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "17:45",
-         "_id": "33823",
          "id": "33823",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -97706,7 +94020,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "20:00",
-         "_id": "33824",
          "id": "33824",
          "instructor": "Leonard Fuld",
          "location": "TBA",
@@ -97732,7 +94045,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "20:00",
-         "_id": "37533",
          "id": "37533",
          "instructor": "Michael H. Cohen",
          "location": "LEX215 LX208",
@@ -97758,7 +94070,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "22:30",
-         "_id": "37532",
          "id": "37532",
          "instructor": "Michael H. Cohen",
          "location": "LEX215 LX208",
@@ -97784,7 +94095,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "22:30",
-         "_id": "37535",
          "id": "37535",
          "instructor": "He Huang, Francine Mellors-Rothenstein ",
          "location": "LEX215 LX208",
@@ -97810,7 +94120,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:15",
-         "_id": "37534",
          "id": "37534",
          "instructor": "Leonard Fuld",
          "location": "BELFHL B430",
@@ -97836,7 +94145,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "20:00",
-         "_id": "37536",
          "id": "37536",
          "instructor": "David Wasserstrum",
          "location": "LEX215 LX208",
@@ -97865,7 +94173,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35214",
          "id": "35214",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -97894,7 +94201,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35482",
          "id": "35482",
          "instructor": "Steven J. Maybruch",
          "location": "TBA",
@@ -97923,7 +94229,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35226",
          "id": "35226",
          "instructor": "Jonathan Schachter",
          "location": "TBA",
@@ -97952,7 +94257,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35232",
          "id": "35232",
          "instructor": "Etan Schnall",
          "location": "TBA",
@@ -97981,7 +94285,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35238",
          "id": "35238",
          "instructor": "Eli Belizon",
          "location": "TBA",
@@ -98010,7 +94313,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35244",
          "id": "35244",
          "instructor": "Daniel Rapp",
          "location": "TBA",
@@ -98039,7 +94341,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35250",
          "id": "35250",
          "instructor": "Matthew Eric Weinberg",
          "location": "TBA",
@@ -98068,7 +94369,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35256",
          "id": "35256",
          "instructor": "Etan Moshe Berman",
          "location": "TBA",
@@ -98097,7 +94397,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:35",
-         "_id": "35262",
          "id": "35262",
          "instructor": "Meir Goldwicht",
          "location": "TBA",
@@ -98126,7 +94425,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35215",
          "id": "35215",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -98154,7 +94452,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35483",
          "id": "35483",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -98180,7 +94477,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:55",
-         "_id": "35483",
          "id": "35483",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G303",
@@ -98209,7 +94505,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35227",
          "id": "35227",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -98238,7 +94533,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35233",
          "id": "35233",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -98266,7 +94560,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "35239",
          "id": "35239",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -98292,7 +94585,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35239",
          "id": "35239",
          "instructor": "Eli Belizon",
          "location": "GLUECK G516",
@@ -98321,7 +94613,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35245",
          "id": "35245",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -98349,7 +94640,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "35251",
          "id": "35251",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -98375,7 +94665,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35251",
          "id": "35251",
          "instructor": "Matthew Eric Weinberg",
          "location": "GLUECK G416",
@@ -98404,7 +94693,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35257",
          "id": "35257",
          "instructor": "Etan Moshe Berman",
          "location": "ZYSMAN Z104",
@@ -98433,7 +94721,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35263",
          "id": "35263",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -98460,7 +94747,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35212",
          "id": "35212",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -98487,7 +94773,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35480",
          "id": "35480",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -98514,7 +94799,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35224",
          "id": "35224",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -98541,7 +94825,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35230",
          "id": "35230",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -98568,7 +94851,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35236",
          "id": "35236",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -98595,7 +94877,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35242",
          "id": "35242",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -98622,7 +94903,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35248",
          "id": "35248",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -98649,7 +94929,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35254",
          "id": "35254",
          "instructor": "Etan Moshe Berman",
          "location": "ZYSMAN Z104",
@@ -98676,7 +94955,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:15",
-         "_id": "35260",
          "id": "35260",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -98702,7 +94980,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35216",
          "id": "35216",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -98728,7 +95005,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35484",
          "id": "35484",
          "instructor": "Steven J. Maybruch",
          "location": "FURST F207",
@@ -98754,7 +95030,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35228",
          "id": "35228",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -98780,7 +95055,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35234",
          "id": "35234",
          "instructor": "Etan Schnall",
          "location": "TBA",
@@ -98806,7 +95080,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35240",
          "id": "35240",
          "instructor": "Eli Belizon",
          "location": "TBA",
@@ -98832,7 +95105,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35246",
          "id": "35246",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -98858,7 +95130,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35252",
          "id": "35252",
          "instructor": "Matthew Eric Weinberg",
          "location": "TBA",
@@ -98884,7 +95155,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35258",
          "id": "35258",
          "instructor": "Etan Moshe Berman",
          "location": "TBA",
@@ -98910,7 +95180,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:40",
-         "_id": "35264",
          "id": "35264",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -98937,7 +95206,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35213",
          "id": "35213",
          "instructor": "Aharon M. Ciment",
          "location": "FURST F214",
@@ -98964,7 +95232,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35481",
          "id": "35481",
          "instructor": "Steven J. Maybruch",
          "location": "GLUECK G418",
@@ -98991,7 +95258,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35225",
          "id": "35225",
          "instructor": "Jonathan Schachter",
          "location": "MUSS MU110",
@@ -99018,7 +95284,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35231",
          "id": "35231",
          "instructor": "Etan Schnall",
          "location": "ZYSMAN Z102",
@@ -99045,7 +95310,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35237",
          "id": "35237",
          "instructor": "Eli Belizon",
          "location": "ZYSMAN Z101",
@@ -99072,7 +95336,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35243",
          "id": "35243",
          "instructor": "Daniel Rapp",
          "location": "FURST F216",
@@ -99099,7 +95362,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35249",
          "id": "35249",
          "instructor": "Matthew Eric Weinberg",
          "location": "ZYSMAN Z103",
@@ -99126,7 +95388,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35255",
          "id": "35255",
          "instructor": "Etan Moshe Berman",
          "location": "ZYSMAN Z104",
@@ -99153,7 +95414,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:15",
-         "_id": "35261",
          "id": "35261",
          "instructor": "Meir Goldwicht",
          "location": "FURST F312",
@@ -99180,7 +95440,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:30",
-         "_id": "36261",
          "id": "36261",
          "instructor": "Bertram Simon",
          "location": "TBA",
@@ -99206,7 +95465,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:40",
-         "_id": "36298",
          "id": "36298",
          "instructor": "Uri Orlian",
          "location": "GLUECK ",
@@ -99232,7 +95490,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:00",
-         "_id": "36504",
          "id": "36504",
          "instructor": "J. David Bleich",
          "location": "TBA",
@@ -99260,7 +95517,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36503",
          "id": "36503",
          "instructor": "Eliyahu Ben-Haim",
          "location": "TBA",
@@ -99286,7 +95542,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36231",
          "id": "36231",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G517",
@@ -99312,7 +95567,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "11:30",
-         "_id": "36244",
          "id": "36244",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK ",
@@ -99338,7 +95592,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "16:50",
-         "_id": "36505",
          "id": "36505",
          "instructor": "J. Blau",
          "location": "FURST F301",
@@ -99364,7 +95617,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "16:50",
-         "_id": "36516",
          "id": "36516",
          "instructor": "David Horwitz",
          "location": "FURST F301",
@@ -99390,7 +95642,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:15",
-         "_id": "36232",
          "id": "36232",
          "instructor": "TBA",
          "location": "GLUECK ",
@@ -99416,7 +95667,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:30",
-         "_id": "36236",
          "id": "36236",
          "instructor": "David Pelcovitz",
          "location": "GLUECK G516",
@@ -99442,7 +95692,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:30",
-         "_id": "36237",
          "id": "36237",
          "instructor": "Norman Blumenthal",
          "location": "GLUECK G518",
@@ -99468,7 +95717,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:30",
-         "_id": "36251",
          "id": "36251",
          "instructor": "David Pelcovitz",
          "location": "GLUECK G516",
@@ -99494,7 +95742,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:30",
-         "_id": "36256",
          "id": "36256",
          "instructor": "Norman Blumenthal",
          "location": "GLUECK G518",
@@ -99520,7 +95767,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:40",
-         "_id": "36518",
          "id": "36518",
          "instructor": "Adam Miller",
          "location": "GLUECK ",
@@ -99546,7 +95792,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:30",
-         "_id": "36238",
          "id": "36238",
          "instructor": "David Pelcovitz, Laurence E. Rothwachs ",
          "location": "FURST ",
@@ -99572,7 +95817,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:45",
-         "_id": "36240",
          "id": "36240",
          "instructor": "Robert L. Gedaliah",
          "location": "GLUECK G418",
@@ -99598,7 +95842,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "36241",
          "id": "36241",
          "instructor": "Robert L. Gedaliah",
          "location": "GLUECK G418",
@@ -99624,7 +95867,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:45",
-         "_id": "36242",
          "id": "36242",
          "instructor": "Brent Baer",
          "location": "GLUECK G416",
@@ -99650,7 +95892,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:50",
-         "_id": "36252",
          "id": "36252",
          "instructor": "Brent Baer",
          "location": "GLUECK G416",
@@ -99676,7 +95917,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:15",
-         "_id": "36235",
          "id": "36235",
          "instructor": "Laurence E. Rothwachs",
          "location": "FURST ",
@@ -99702,7 +95942,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36233",
          "id": "36233",
          "instructor": "Marc E. Penner",
          "location": "FURST ",
@@ -99728,7 +95967,6 @@ if (Courses.find().count() === 0) {
             1
          ],
          "end": "13:00",
-         "_id": "36239",
          "id": "36239",
          "instructor": "Kenneth Brander",
          "location": "FURST F425",
@@ -99754,7 +95992,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:30",
-         "_id": "36304",
          "id": "36304",
          "instructor": "Laurence E. Rothwachs",
          "location": "GLUECK G516",
@@ -99780,7 +96017,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "12:15",
-         "_id": "36517",
          "id": "36517",
          "instructor": "TBA",
          "location": "TBA",
@@ -99806,7 +96042,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:55",
-         "_id": "36520",
          "id": "36520",
          "instructor": "TBA",
          "location": "TBA",
@@ -99832,7 +96067,6 @@ if (Courses.find().count() === 0) {
             5
          ],
          "end": "10:55",
-         "_id": "36253",
          "id": "36253",
          "instructor": "Leslie S. Newman, Mordechai H. Willig ",
          "location": "FURST F317",
@@ -99858,7 +96092,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "13:30",
-         "_id": "36534",
          "id": "36534",
          "instructor": "Joshua Michael Joseph",
          "location": "TBA",
@@ -99885,7 +96118,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:00",
-         "_id": "36507",
          "id": "36507",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -99912,7 +96144,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "14:30",
-         "_id": "36507",
          "id": "36507",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -99938,7 +96169,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36507",
          "id": "36507",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -99964,7 +96194,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36507",
          "id": "36507",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -99992,7 +96221,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -100019,7 +96247,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -100045,7 +96272,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -100071,7 +96297,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -100097,7 +96322,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -100123,7 +96347,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36342",
          "id": "36342",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -100151,7 +96374,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -100179,7 +96401,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -100205,7 +96426,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -100231,7 +96451,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -100257,7 +96476,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -100283,7 +96501,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36343",
          "id": "36343",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -100311,7 +96528,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36344",
          "id": "36344",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -100339,7 +96555,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36344",
          "id": "36344",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -100365,7 +96580,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36344",
          "id": "36344",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -100391,7 +96605,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36344",
          "id": "36344",
          "instructor": "TBA",
          "location": "GLUECK G307",
@@ -100417,7 +96630,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36344",
          "id": "36344",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -100443,7 +96655,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36344",
          "id": "36344",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -100471,7 +96682,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -100499,7 +96709,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -100525,7 +96734,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -100551,7 +96759,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -100577,7 +96784,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -100603,7 +96809,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36345",
          "id": "36345",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -100631,7 +96836,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -100659,7 +96863,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -100685,7 +96888,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -100711,7 +96913,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -100737,7 +96938,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -100763,7 +96963,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36346",
          "id": "36346",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -100791,7 +96990,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -100819,7 +97017,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -100845,7 +97042,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -100871,7 +97067,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -100897,7 +97092,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -100923,7 +97117,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36347",
          "id": "36347",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -100951,7 +97144,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -100979,7 +97171,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -101005,7 +97196,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -101031,7 +97221,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -101057,7 +97246,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -101083,7 +97271,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36348",
          "id": "36348",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -101111,7 +97298,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101139,7 +97325,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101165,7 +97350,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101191,7 +97375,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101217,7 +97400,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101243,7 +97425,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36352",
          "id": "36352",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -101271,7 +97452,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -101299,7 +97479,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -101325,7 +97504,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -101351,7 +97529,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -101377,7 +97554,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -101403,7 +97579,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36353",
          "id": "36353",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -101431,7 +97606,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -101459,7 +97633,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -101485,7 +97658,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -101511,7 +97683,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -101537,7 +97708,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -101563,7 +97733,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36354",
          "id": "36354",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -101591,7 +97760,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -101619,7 +97787,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -101645,7 +97812,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -101671,7 +97837,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -101697,7 +97862,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -101723,7 +97887,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36355",
          "id": "36355",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -101751,7 +97914,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -101779,7 +97941,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -101805,7 +97966,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -101831,7 +97991,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -101857,7 +98016,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -101883,7 +98041,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36384",
          "id": "36384",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -101911,7 +98068,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -101939,7 +98095,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -101965,7 +98120,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -101991,7 +98145,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -102017,7 +98170,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -102043,7 +98195,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36390",
          "id": "36390",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -102071,7 +98222,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -102099,7 +98249,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -102125,7 +98274,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -102151,7 +98299,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -102177,7 +98324,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -102203,7 +98349,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36391",
          "id": "36391",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -102231,7 +98376,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -102259,7 +98403,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -102285,7 +98428,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -102311,7 +98453,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -102337,7 +98478,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -102363,7 +98503,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36392",
          "id": "36392",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -102391,7 +98530,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -102419,7 +98557,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -102445,7 +98582,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -102471,7 +98607,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -102497,7 +98632,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -102523,7 +98657,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36393",
          "id": "36393",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -102551,7 +98684,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -102579,7 +98711,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -102605,7 +98736,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -102631,7 +98761,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -102657,7 +98786,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "13:00",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -102683,7 +98811,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36394",
          "id": "36394",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -102711,7 +98838,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -102739,7 +98865,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -102765,7 +98890,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -102791,7 +98915,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -102817,7 +98940,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -102843,7 +98965,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36395",
          "id": "36395",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -102871,7 +98992,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -102899,7 +99019,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -102925,7 +99044,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -102951,7 +99069,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -102977,7 +99094,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -103003,7 +99119,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36506",
          "id": "36506",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -103031,7 +99146,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36228",
          "id": "36228",
          "instructor": "Michael Taubes",
          "location": "TBA",
@@ -103058,7 +99172,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "12:30",
-         "_id": "36228",
          "id": "36228",
          "instructor": "Michael Taubes",
          "location": "TBA",
@@ -103084,7 +99197,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36229",
          "id": "36229",
          "instructor": "Ozer Glickman",
          "location": "GLUECK G403",
@@ -103110,7 +99222,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36230",
          "id": "36230",
          "instructor": "Menachem Genack",
          "location": "TBA",
@@ -103139,7 +99250,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "36260",
          "id": "36260",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -103165,7 +99275,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "17:30",
-         "_id": "36260",
          "id": "36260",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK BMIDRASH",
@@ -103193,7 +99302,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36523",
          "id": "36523",
          "instructor": "Ezra Y. Schwartz",
          "location": "TBA",
@@ -103221,7 +99329,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -103249,7 +99356,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -103275,7 +99381,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -103301,7 +99406,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -103327,7 +99431,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -103353,7 +99456,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36509",
          "id": "36509",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -103381,7 +99483,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -103409,7 +99510,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -103435,7 +99535,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -103461,7 +99560,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -103487,7 +99585,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -103513,7 +99610,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36508",
          "id": "36508",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -103542,7 +99638,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "36510",
          "id": "36510",
          "instructor": "Hershel Schachter, Abraham Sarfaty ",
          "location": "GLUECK BMIDRASH",
@@ -103568,7 +99663,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "17:30",
-         "_id": "36510",
          "id": "36510",
          "instructor": "Hershel Schachter, Abraham Sarfaty ",
          "location": "GLUECK BMIDRASH",
@@ -103597,7 +99691,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "36543",
          "id": "36543",
          "instructor": "Michoel Zylberman",
          "location": "TBA",
@@ -103623,7 +99716,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "17:30",
-         "_id": "36543",
          "id": "36543",
          "instructor": "Michoel Zylberman",
          "location": "TBA",
@@ -103652,7 +99744,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "18:30",
-         "_id": "36544",
          "id": "36544",
          "instructor": "David M. Hirsch, Abraham Sarfaty ",
          "location": "TBA",
@@ -103678,7 +99769,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "17:30",
-         "_id": "36544",
          "id": "36544",
          "instructor": "David M. Hirsch, Abraham Sarfaty ",
          "location": "TBA",
@@ -103707,7 +99797,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "22:00",
-         "_id": "36512",
          "id": "36512",
          "instructor": "David Horwitz",
          "location": "GLUECK G317",
@@ -103733,7 +99822,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:59",
-         "_id": "36513",
          "id": "36513",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -103759,7 +99847,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:59",
-         "_id": "36513",
          "id": "36513",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -103785,7 +99872,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "16:59",
-         "_id": "36514",
          "id": "36514",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G308",
@@ -103811,7 +99897,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:59",
-         "_id": "36514",
          "id": "36514",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G308",
@@ -103838,7 +99923,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "16:15",
-         "_id": "36515",
          "id": "36515",
          "instructor": "J. David Bleich, Yona Reiss ",
          "location": "GLUECK G503",
@@ -103866,7 +99950,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35487",
          "id": "35487",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -103894,7 +99977,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35487",
          "id": "35487",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -103920,7 +100002,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35487",
          "id": "35487",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK BMIDRASH",
@@ -103946,7 +100027,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35487",
          "id": "35487",
          "instructor": "Moses D. Tendler",
          "location": "GLUECK G403",
@@ -103974,7 +100054,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -104002,7 +100081,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -104028,7 +100106,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -104054,7 +100131,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -104080,7 +100156,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "ZYSMAN Z111",
@@ -104106,7 +100181,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35183",
          "id": "35183",
          "instructor": "Harvey B. Sobolofsky",
          "location": "GLUECK G307",
@@ -104134,7 +100208,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -104162,7 +100235,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -104188,7 +100260,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -104214,7 +100285,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -104240,7 +100310,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK BMIDRASH",
@@ -104266,7 +100335,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35185",
          "id": "35185",
          "instructor": "Elchanan A. Adler",
          "location": "GLUECK G419",
@@ -104294,7 +100362,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -104322,7 +100389,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -104348,7 +100414,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -104374,7 +100439,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -104400,7 +100464,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK BMIDRASH",
@@ -104426,7 +100489,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35188",
          "id": "35188",
          "instructor": "David M. Hirsch",
          "location": "GLUECK G518",
@@ -104454,7 +100516,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -104482,7 +100543,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -104508,7 +100568,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -104534,7 +100593,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -104560,7 +100618,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "ZYSMAN Z111",
@@ -104586,7 +100643,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35184",
          "id": "35184",
          "instructor": "Yitzchok M. Cohen",
          "location": "GLUECK G317",
@@ -104614,7 +100670,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104642,7 +100697,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104668,7 +100722,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104694,7 +100747,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104720,7 +100772,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104746,7 +100797,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35191",
          "id": "35191",
          "instructor": "Baruch Simon",
          "location": "MUSS MU113",
@@ -104774,7 +100824,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -104802,7 +100851,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -104828,7 +100876,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -104854,7 +100901,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -104880,7 +100926,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "GLUECK BMIDRASH",
@@ -104906,7 +100951,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35195",
          "id": "35195",
          "instructor": "Daniel Feldman",
          "location": "FURST F315",
@@ -104934,7 +100978,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -104962,7 +101005,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -104988,7 +101030,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -105014,7 +101055,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -105040,7 +101080,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "ZYSMAN Z111",
@@ -105066,7 +101105,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35198",
          "id": "35198",
          "instructor": "Eliyahu Ben-Haim",
          "location": "MORG 101",
@@ -105094,7 +101132,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -105122,7 +101159,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -105148,7 +101184,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -105174,7 +101209,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -105200,7 +101234,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK BMIDRASH",
@@ -105226,7 +101259,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35199",
          "id": "35199",
          "instructor": "Yaakov Neuburger",
          "location": "GLUECK G516",
@@ -105254,7 +101286,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -105282,7 +101313,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -105308,7 +101338,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -105334,7 +101363,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -105360,7 +101388,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z111",
@@ -105386,7 +101413,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35200",
          "id": "35200",
          "instructor": "Mayer Eli Twersky",
          "location": "ZYSMAN Z103",
@@ -105414,7 +101440,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -105442,7 +101467,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -105468,7 +101492,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -105494,7 +101517,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -105520,7 +101542,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "ZYSMAN Z111",
@@ -105546,7 +101567,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35201",
          "id": "35201",
          "instructor": "Harold J. Reichman",
          "location": "FURST F307",
@@ -105574,7 +101594,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -105602,7 +101621,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -105628,7 +101646,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -105654,7 +101671,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -105680,7 +101696,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "ZYSMAN Z111",
@@ -105706,7 +101721,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35202",
          "id": "35202",
          "instructor": "Eliakim Koenigsberg",
          "location": "GLUECK G418",
@@ -105734,7 +101748,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "ZYSMAN Z111",
@@ -105762,7 +101775,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "ZYSMAN Z104",
@@ -105788,7 +101800,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "ZYSMAN Z111",
@@ -105814,7 +101825,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "GLUECK G417",
@@ -105840,7 +101850,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "ZYSMAN Z111",
@@ -105866,7 +101875,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35211",
          "id": "35211",
          "instructor": "Nathaniel Wiederblank",
          "location": "ZYSMAN Z104",
@@ -105894,7 +101902,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "ZYSMAN Z111",
@@ -105922,7 +101929,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "ZYSMAN Z102",
@@ -105948,7 +101954,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "ZYSMAN Z111",
@@ -105974,7 +101979,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "GLUECK G519",
@@ -106000,7 +102004,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "ZYSMAN Z111",
@@ -106026,7 +102029,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35203",
          "id": "35203",
          "instructor": "Yehuda Willig",
          "location": "ZYSMAN Z102",
@@ -106054,7 +102056,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -106082,7 +102083,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -106108,7 +102108,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -106134,7 +102133,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -106160,7 +102158,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK BMIDRASH",
@@ -106186,7 +102183,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35204",
          "id": "35204",
          "instructor": "Eliahu Baruch Shulman",
          "location": "GLUECK G417",
@@ -106214,7 +102210,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -106242,7 +102237,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -106268,7 +102262,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -106294,7 +102287,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -106320,7 +102312,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK BMIDRASH",
@@ -106346,7 +102337,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35205",
          "id": "35205",
          "instructor": "Michael S. Rosensweig",
          "location": "GLUECK G308",
@@ -106374,7 +102364,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -106402,7 +102391,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -106428,7 +102416,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -106454,7 +102441,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -106480,7 +102466,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "ZYSMAN Z111",
@@ -106506,7 +102491,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35206",
          "id": "35206",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -106534,7 +102518,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -106562,7 +102545,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -106588,7 +102570,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -106614,7 +102595,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -106640,7 +102620,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z111",
@@ -106666,7 +102645,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35207",
          "id": "35207",
          "instructor": "Aaron Kahn",
          "location": "ZYSMAN Z101",
@@ -106694,7 +102672,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -106722,7 +102699,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -106748,7 +102724,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -106774,7 +102749,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -106800,7 +102774,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK BMIDRASH",
@@ -106826,7 +102799,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35208",
          "id": "35208",
          "instructor": "Hershel Schachter",
          "location": "GLUECK G517",
@@ -106854,7 +102826,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -106882,7 +102853,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -106908,7 +102878,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -106934,7 +102903,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -106960,7 +102928,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK BMIDRASH",
@@ -106986,7 +102953,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35209",
          "id": "35209",
          "instructor": "Daniel N. Stein",
          "location": "GLUECK G303",
@@ -107014,7 +102980,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -107042,7 +103007,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -107068,7 +103032,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -107094,7 +103057,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -107120,7 +103082,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU113",
@@ -107146,7 +103107,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35210",
          "id": "35210",
          "instructor": "Abraham Sarfaty",
          "location": "MUSS MU109",
@@ -107174,7 +103134,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -107202,7 +103161,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -107228,7 +103186,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -107254,7 +103211,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -107280,7 +103236,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "ZYSMAN Z111",
@@ -107306,7 +103261,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "36031",
          "id": "36031",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -107334,7 +103288,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:00",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -107362,7 +103315,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "14:30",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -107388,7 +103340,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:45",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -107414,7 +103365,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:15",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -107440,7 +103390,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK BMIDRASH",
@@ -107466,7 +103415,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35488",
          "id": "35488",
          "instructor": "Jeremy Wieder",
          "location": "GLUECK G416",
@@ -107494,7 +103442,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:00",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -107522,7 +103469,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "14:30",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -107548,7 +103494,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:45",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -107574,7 +103519,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -107600,7 +103544,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "11:30",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK BMIDRASH",
@@ -107626,7 +103569,6 @@ if (Courses.find().count() === 0) {
             0
          ],
          "end": "13:00",
-         "_id": "35486",
          "id": "35486",
          "instructor": "Mordechai H. Willig",
          "location": "GLUECK G519",
@@ -107653,7 +103595,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "36047",
          "id": "36047",
          "instructor": "Daniel Lerner",
          "location": "FURST F304",
@@ -107680,7 +103621,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "36055",
          "id": "36055",
          "instructor": "TBA",
          "location": "FURST F306",
@@ -107707,7 +103647,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36042",
          "id": "36042",
          "instructor": "TBA",
          "location": "FURST F311",
@@ -107736,7 +103675,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36056",
          "id": "36056",
          "instructor": "John Shippel",
          "location": "FURST F301",
@@ -107763,7 +103701,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "36056",
          "id": "36056",
          "instructor": "John Shippel",
          "location": "FURST F301",
@@ -107792,7 +103729,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36049",
          "id": "36049",
          "instructor": "Uri Orlian",
          "location": "FURST F313",
@@ -107819,7 +103755,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "36049",
          "id": "36049",
          "instructor": "Uri Orlian",
          "location": "FURST F313",
@@ -107848,7 +103783,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36043",
          "id": "36043",
          "instructor": "Mordechai Arnold Becher",
          "location": "FURST F310",
@@ -107877,7 +103811,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "34679",
          "id": "34679",
          "instructor": "Harvey Sober",
          "location": "FURST F305",
@@ -107904,7 +103837,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "11:55",
-         "_id": "34675",
          "id": "34675",
          "instructor": "Harvey Sober",
          "location": "FURST F306",
@@ -107931,7 +103863,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34676",
          "id": "34676",
          "instructor": "Harvey Sober",
          "location": "FURST F304",
@@ -107958,7 +103889,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "36041",
          "id": "36041",
          "instructor": "Harvey Sober",
          "location": "FURST F304",
@@ -107987,7 +103917,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "34685",
          "id": "34685",
          "instructor": "John Shippel",
          "location": "FURST F301",
@@ -108016,7 +103945,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34673",
          "id": "34673",
          "instructor": "Simcha Willig",
          "location": "FURST F311",
@@ -108043,7 +103971,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "36044",
          "id": "36044",
          "instructor": "Harvey Sober",
          "location": "TBA",
@@ -108070,7 +103997,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "9:55",
-         "_id": "35713",
          "id": "35713",
          "instructor": "Daniel Lerner",
          "location": "FURST F304",
@@ -108097,7 +104023,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "12:55",
-         "_id": "36046",
          "id": "36046",
          "instructor": "Daniel Lerner",
          "location": "FURST F304",
@@ -108124,7 +104049,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "10:55",
-         "_id": "36045",
          "id": "36045",
          "instructor": "Daniel Lerner",
          "location": "FURST F311",
@@ -108153,7 +104077,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34669",
          "id": "34669",
          "instructor": "Benjamin Yudin",
          "location": "FURST F305",
@@ -108182,7 +104105,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36052",
          "id": "36052",
          "instructor": "Simcha Willig",
          "location": "TBA",
@@ -108209,7 +104131,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "36051",
          "id": "36051",
          "instructor": "John Shippel",
          "location": "FURST F301",
@@ -108236,7 +104157,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34671",
          "id": "34671",
          "instructor": "Uri Orlian",
          "location": "FURST F313",
@@ -108260,7 +104180,6 @@ if (Courses.find().count() === 0) {
          },
          "dow": [],
          "end": "",
-         "_id": "34668",
          "id": "34668",
          "instructor": "TBA",
          "location": "TBA",
@@ -108289,7 +104208,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "34616",
          "id": "34616",
          "instructor": "Meir Fulda",
          "location": "FURST F504",
@@ -108318,7 +104236,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34617",
          "id": "34617",
          "instructor": "Meir Fulda",
          "location": "FURST F504",
@@ -108347,7 +104264,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "35719",
          "id": "35719",
          "instructor": "Reuven Fink",
          "location": "FURST F211",
@@ -108376,7 +104292,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "35720",
          "id": "35720",
          "instructor": "Zvi D. Romm",
          "location": "FURST F210",
@@ -108405,7 +104320,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "35721",
          "id": "35721",
          "instructor": "Meir Goldwicht",
          "location": "FURST F215",
@@ -108432,7 +104346,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:55",
-         "_id": "35999",
          "id": "35999",
          "instructor": "TBA",
          "location": "MORG 101",
@@ -108459,7 +104372,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "34636",
          "id": "34636",
          "instructor": "Shalom E. Holtz",
          "location": "FURST F213",
@@ -108486,7 +104398,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "35886",
          "id": "35886",
          "instructor": "Aaron J. Koller",
          "location": "FURST F209",
@@ -108513,7 +104424,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "35829",
          "id": "35829",
          "instructor": "Allen M. Schwartz",
          "location": "FURST F204",
@@ -108540,7 +104450,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35715",
          "id": "35715",
          "instructor": "J. Mitchell Orlian",
          "location": "FURST F209",
@@ -108567,7 +104476,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "35727",
          "id": "35727",
          "instructor": "Allen M. Schwartz",
          "location": "FURST F204",
@@ -108596,7 +104504,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34633",
          "id": "34633",
          "instructor": "Zev Reichman",
          "location": "FURST F207",
@@ -108623,7 +104530,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "34645",
          "id": "34645",
          "instructor": "Moshe M. Tessone",
          "location": "FURST F306",
@@ -108652,7 +104558,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34623",
          "id": "34623",
          "instructor": "Gabriel S. Danieli",
          "location": "FURST F217",
@@ -108679,7 +104584,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:15",
-         "_id": "35730",
          "id": "35730",
          "instructor": "Joseph L. Angel",
          "location": "FURST F212",
@@ -108706,7 +104610,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:15",
-         "_id": "35836",
          "id": "35836",
          "instructor": "Daniel Tsadik",
          "location": "FURST F212",
@@ -108733,7 +104636,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "35848",
          "id": "35848",
          "instructor": "David Horwitz",
          "location": "FURST F316",
@@ -108762,7 +104664,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "35718",
          "id": "35718",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "FURST F205",
@@ -108789,7 +104690,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "34647",
          "id": "34647",
          "instructor": "Leonard Moskowitz",
          "location": "FURST F314",
@@ -108815,7 +104715,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "21:55",
-         "_id": "34652",
          "id": "34652",
          "instructor": "Gabriel S. Danieli",
          "location": "GLUECK G303",
@@ -108842,7 +104741,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "35845",
          "id": "35845",
          "instructor": "Yosef Zvi Bronstein",
          "location": "FURST F210",
@@ -108871,7 +104769,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "34630",
          "id": "34630",
          "instructor": "Benjamin Blech",
          "location": "FURST F206",
@@ -108898,7 +104795,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34627",
          "id": "34627",
          "instructor": "Benjamin Blech",
          "location": "FURST F206",
@@ -108925,7 +104821,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "11:55",
-         "_id": "34628",
          "id": "34628",
          "instructor": "Benjamin Blech",
          "location": "FURST F206",
@@ -108954,7 +104849,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "12:55",
-         "_id": "35716",
          "id": "35716",
          "instructor": "Mordechai Arnold Becher",
          "location": "FURST F305",
@@ -108981,7 +104875,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "11:55",
-         "_id": "34649",
          "id": "34649",
          "instructor": "Allen M. Schwartz",
          "location": "FURST F204",
@@ -109010,7 +104903,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "36136",
          "id": "36136",
          "instructor": "Gabriel S. Danieli",
          "location": "FURST F217",
@@ -109039,7 +104931,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "35854",
          "id": "35854",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "RUBIN SHUL",
@@ -109068,7 +104959,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "34632",
          "id": "34632",
          "instructor": "Benjamin Shlomo Rofeh",
          "location": "RUBIN SHUL",
@@ -109097,7 +104987,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "8:55",
-         "_id": "34618",
          "id": "34618",
          "instructor": "TBA",
          "location": "MORG BSMT",
@@ -109126,7 +105015,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "34624",
          "id": "34624",
          "instructor": "Reuven Fink",
          "location": "FURST F211",
@@ -109153,7 +105041,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "36000",
          "id": "36000",
          "instructor": "Ozer Glickman",
          "location": "FURST F207",
@@ -109180,7 +105067,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "12:55",
-         "_id": "34619",
          "id": "34619",
          "instructor": "TBA",
          "location": "GLUECK BMIDRASH",
@@ -109207,7 +105093,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:44",
-         "_id": "34621",
          "id": "34621",
          "instructor": "Akiva Koenigsberg",
          "location": "FURST F301",
@@ -109236,7 +105121,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "9:55",
-         "_id": "35728",
          "id": "35728",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "FURST F212",
@@ -109263,7 +105147,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "10:55",
-         "_id": "35729",
          "id": "35729",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "FURST F212",
@@ -109290,7 +105173,6 @@ if (Courses.find().count() === 0) {
             4
          ],
          "end": "10:55",
-         "_id": "35853",
          "id": "35853",
          "instructor": "Hayyim Jeffrey V. Angel",
          "location": "FURST F212",
@@ -109316,7 +105198,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:43",
-         "_id": "36431",
          "id": "36431",
          "instructor": "D Lauer",
          "location": "TBA",
@@ -109342,7 +105223,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "36429",
          "id": "36429",
          "instructor": "D Lauer",
          "location": "TBA",
@@ -109368,7 +105248,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:43",
-         "_id": "36446",
          "id": "36446",
          "instructor": "Eric S. Freeman",
          "location": "TBA",
@@ -109394,7 +105273,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:43",
-         "_id": "36447",
          "id": "36447",
          "instructor": "Sherwood Goffin",
          "location": "TBA",
@@ -109420,7 +105298,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:43",
-         "_id": "36430",
          "id": "36430",
          "instructor": "Joseph Malovany",
          "location": "TBA",
@@ -109446,7 +105323,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:45",
-         "_id": "36432",
          "id": "36432",
          "instructor": "Sherwood Goffin",
          "location": "TBA",
@@ -109472,7 +105348,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "19:45",
-         "_id": "36441",
          "id": "36441",
          "instructor": "Eric S. Freeman",
          "location": "TBA",
@@ -109498,7 +105373,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "36442",
          "id": "36442",
          "instructor": "Joseph Malovany",
          "location": "TBA",
@@ -109524,7 +105398,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "17:40",
-         "_id": "36443",
          "id": "36443",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -109550,7 +105423,6 @@ if (Courses.find().count() === 0) {
             2
          ],
          "end": "18:43",
-         "_id": "36444",
          "id": "36444",
          "instructor": "Moshe M. Tessone",
          "location": "TBA",
@@ -109576,7 +105448,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "19:45",
-         "_id": "36433",
          "id": "36433",
          "instructor": "Shmuel Schneid",
          "location": "TBA",
@@ -109602,7 +105473,6 @@ if (Courses.find().count() === 0) {
             3
          ],
          "end": "18:43",
-         "_id": "36445",
          "id": "36445",
          "instructor": "Shmuel Schneid",
          "location": "TBA",

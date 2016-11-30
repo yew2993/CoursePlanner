@@ -16,8 +16,8 @@ Template.calendar.created = function calendarOnCreated() {
 };
 
 Template.calendar.onRendered( () => {
-  $( '#events-calendar' ).fullCalendar({
-    aspectRatio:  1.5,
+  $( '.events-calendar' ).fullCalendar({
+    // aspectRatio:  1.5,
     // buttonText: {
     //   agendaWeek: "Agenda",
     //   basicWeek:  "Overview",
@@ -59,11 +59,30 @@ Template.calendar.onRendered( () => {
       })).length > 0;
     }
   });
-
+  // properly renders modal calendar 
+  // $('#modal-calendar').openModal({
+  //   ready: function() {
+  //     $('.events-calendar').fullCalendar('render');
+  //     $('#modal-calendar').closeModal();
+  //   },
+  // });
+  $('#modal-calendar').openModal();
+  $('.events-calendar').fullCalendar('render');
+  $('#modal-calendar').closeModal();
+    
+  //responsible for modal button function
+  $('.modal-trigger').leanModal({
+    complete: function() {
+      $('.events-calendar').fullCalendar('render');
+      $('.events-calendar').fullCalendar('refetchEvents');
+    }
+  });
+  $('.events-calendar').fullCalendar('render');
+  $( '.events-calendar' ).fullCalendar('refetchEvents');
   Tracker.autorun( () => {
     Session.get('events');
-    $( '#events-calendar' ).fullCalendar('viewRender');
-    $( '#events-calendar' ).fullCalendar('refetchEvents');
+    $( '.events-calendar' ).fullCalendar('viewRender');
+    $( '.events-calendar' ).fullCalendar('refetchEvents');
   });
 });
 

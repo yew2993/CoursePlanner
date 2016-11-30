@@ -12,11 +12,16 @@
 #listing-loading {
   text-align: center;
 }
-#events-calendar {
+.events-calendar {
   position: fixed;
   margin: 15px;
-
 }
+
+#modal-calendar {
+  height: 75%;
+  max-height: 75%;
+}
+
 .department-header {
   text-align: center;
   

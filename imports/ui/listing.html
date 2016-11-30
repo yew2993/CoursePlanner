@@ -1,9 +1,14 @@
 <template name="listing">
-  <div style=" position: fixed; top: 0px; background: white; z-index: 1000000;" class="col s12 m4">
+  <div style=" position: fixed; top: 0px; background: white; z-index: 1000;" class="col s12 m4">
     <input id="omniSearch" class="search" placeholder="search">
     <input id="allow-conflicts" type="checkbox" />
     <label for="allow-conflicts">Allow course conflicts</label>
+    <!-- Modal Trigger -->
+    <div class="hide-on-med-and-up">
+      <button data-target="modal-calendar" id="modal-trigger" class="btn modal-trigger">Show Calendar</button>
+    </div>
   </div>
+  <br class="hide-on-med-and-up"><br class="hide-on-med-and-up">
   <br><br><br><br>
   <div id="listing">
     <div id="listingMain">
