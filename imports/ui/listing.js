@@ -36,6 +36,19 @@ if (Meteor.isClient) {
     },
     selected() { 
       return Session.get('events');
+    },
+    getCredits() {
+      /* From georg @ http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array*/
+      var seen = {};
+      var uniqueEvents = Session.get('events').filter(function(item) {
+          var id = item.id;
+          return seen.hasOwnProperty(id) ? false : (seen[id] = true);
+      })
+      var credits = uniqueEvents.reduce(function(sum, currentEvent) {
+        return sum + currentEvent.credits;
+      }, 0)
+      Session.set('credits', credits);
+      return credits;
     }
   });
 

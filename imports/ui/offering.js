@@ -22,25 +22,44 @@ Template.offering.events({
   'click .toggle-offering-button'(e) {
     e.preventDefault();
     var events = Session.get('events');
+
+    //returns an array of all events that do not have a crn of the selected offering.
+    //if the offering is being removed, the output array will be smaller than the input array. 
     var newEvents = events.filter(function(event) {
       return event.id !== this.crn;
     }, {crn: this.crn});
     
     if (newEvents.length !== events.length) { // remove the offering
       e.target.innerHTML = "Add";
+      $(e.target).removeClass('red lighten-2');
       Materialize.toast("Removed " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
     }
     else {  // add the offering
       if (Session.get("allowConflicts") || noConflicts(events, this.slots)) {
-        newEvents = $.merge(events, this.slots);
-        Materialize.toast("Added " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
-        e.target.innerHTML = "Remove";
+        if (Session.get("credits") + this.credits <= 17) {
+          newEvents = $.merge(events, this.slots);
+          Materialize.toast("Added " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
+          e.target.innerHTML = "Remove";
+          $(e.target).addClass('red lighten-2');
+        }
+        else {
+          e.target.innerHTML = "Credit Limit";
+          $(e.target).addClass('red darken-1');
+          Materialize.toast("You have reached the credit limit", 2500, 'red darken-2 rounded');
+          Meteor.setTimeout( () => {
+            e.target.innerHTML = "Add";
+            $(e.target).removeClass('red darken-1')
+          }, 2500)
+        }
       }
       else {
         e.target.innerHTML = "Time Conflict";
+        $(e.target).addClass('red darken-1');
         Materialize.toast(this.crn + " was not added due to time conflict", 2500, 'red darken-2 rounded');
         Meteor.setTimeout( () => {
           e.target.innerHTML = "Add"
+          $(e.target).removeClass('red darken-1')
+
         }, 2500)
       }
     }

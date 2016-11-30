@@ -6,7 +6,7 @@ import './calendar.html';
 Template.calendar.created = function calendarOnCreated() {
   Session.set({
     minTime: "08:00",
-    maxTime: "22:00",
+    maxTime: "23:00",
     fullWeek: "2016-09-11",
     ranges: [ { start: '2016-08-29', end: '2016-12-26' } ],
     events: [],
@@ -17,6 +17,7 @@ Template.calendar.created = function calendarOnCreated() {
 
 Template.calendar.onRendered( () => {
   $( '.events-calendar' ).fullCalendar({
+    allDaySlots: false,
     // aspectRatio:  1.5,
     // buttonText: {
     //   agendaWeek: "Agenda",
@@ -60,23 +61,20 @@ Template.calendar.onRendered( () => {
     }
   });
   // properly renders modal calendar 
-  // $('#modal-calendar').openModal({
-  //   ready: function() {
-  //     $('.events-calendar').fullCalendar('render');
-  //     $('#modal-calendar').closeModal();
-  //   },
-  // });
-  $('#modal-calendar').openModal();
-  $('.events-calendar').fullCalendar('render');
-  $('#modal-calendar').closeModal();
+  $('#modal-calendar').openModal({
+    ready: function() {
+      $('#modal-calendar').hide();
+      $('.events-calendar').fullCalendar('render');
+      $('#modal-calendar').closeModal();
+      $('#modal-calendar').show();
+    },
+  });
+  // $('#modal-calendar').openModal();
+  // $('.events-calendar').fullCalendar('render');
+  // $('#modal-calendar').closeModal();
     
   //responsible for modal button function
-  $('.modal-trigger').leanModal({
-    complete: function() {
-      $('.events-calendar').fullCalendar('render');
-      $('.events-calendar').fullCalendar('refetchEvents');
-    }
-  });
+  $('.modal-trigger').leanModal();
   $('.events-calendar').fullCalendar('render');
   $( '.events-calendar' ).fullCalendar('refetchEvents');
   Tracker.autorun( () => {

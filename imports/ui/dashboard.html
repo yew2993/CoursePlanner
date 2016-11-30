@@ -41,14 +41,24 @@
             <br>
             <div style="display:none" class="input-field" id="select-college-wrapper">
               <select multiple id="select-college">
-                {{#if getColleges}}  
+                <option value="" disabled selected>Select one or more college(s)</option>
+                <option value="Undergraduate Women">Undergraduate Women</option>
+                <option value="UM Yeshiva College">UM Yeshiva College</option>
+                <option value="UM Syms For Men">UM Syms For Men</option>
+                <option value="Isaac Breuer College">Isaac Breuer College</option>
+                <option value="Mazer Yeshiva Program">Mazer Yeshiva Program</option>
+                <option value="Stone Beit Midrash Program">Stone Beit Midrash Program</option>
+                <option value="James Striar School">James Striar School</option>
+                <option value="Riets">Riets</option>
+                <option value="Belz School of Jewish Music">Belz School of Jewish Music</option>
+                <!-- {{#if getColleges}}  
                   <option value="" disabled selected>Select one or more college(s)</option>
                   {{#each getColleges}}
                     <option value="{{_id}}">{{_id}}</option>
                   {{/each}}
                 {{else}}
                   <option value="" disabled selected>Loading colleges...</option>
-                {{/if}}
+                {{/if}} -->
               </select>
               <label>College</label>
             </div>

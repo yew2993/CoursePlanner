@@ -3,13 +3,15 @@
     <input id="omniSearch" class="search" placeholder="search">
     <input id="allow-conflicts" type="checkbox" />
     <label for="allow-conflicts">Allow course conflicts</label>
+    <div>Credit Count: {{getCredits}} / 17</div>
+
     <!-- Modal Trigger -->
     <div class="hide-on-med-and-up">
       <button data-target="modal-calendar" id="modal-trigger" class="btn modal-trigger">Show Calendar</button>
     </div>
   </div>
   <br class="hide-on-med-and-up"><br class="hide-on-med-and-up">
-  <br><br><br><br>
+  <br><br><br><br><br>
   <div id="listing">
     <div id="listingMain">
     {{#if getList}}
