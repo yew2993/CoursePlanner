@@ -31,9 +31,10 @@ Template.calendar.onRendered( () => {
     minTime:     Session.get('minTime'),
     maxTime:     Session.get('maxTime'),
     hiddenDays: [6],
+    titleFormat: "[Double tap/click an event to remove it from the calendar.]",
     header: {
         left:   '',//'prev,next today',
-        center: '',//'title',
+        center: 'title',
         right:  '',//'agendaWeek basicWeek month',
     },
     events( start, end, timezone, callback ) {
@@ -52,7 +53,7 @@ Template.calendar.onRendered( () => {
         }, {crn: event.id});
         Session.set('events', newEvents);
         Materialize.toast("Removed " + event.id, 2500, 'rounded blue lighten-2');
-        $('.toggle-offering-button.' + event.id).text('Add');
+        $('.toggle-offering-button.' + event.id).text('Add').removeClass('red lighten-2');
       });
       return (Session.get('ranges').filter(function(range){
           return (event.start.isBefore(range.end) &&

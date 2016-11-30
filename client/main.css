@@ -6,8 +6,9 @@
 .fc-time-grid .fc-slats td {
   height: 40px;
 }
-.fc-toolbar {
-  /*display: none;*/
+.fc-toolbar h2 {
+    margin: 0;
+    font-size: 16px;
 }
 #listing-loading {
   text-align: center;
