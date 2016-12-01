@@ -57,7 +57,10 @@ let getSemesters = () => {
 
 Template.dashboard.rendered = function() {
   getUniversities();
+
+  
   $('select').material_select();
+
 };
 Template.dashboard.helpers({
   'calendars'() {

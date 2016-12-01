@@ -16,6 +16,9 @@ if (Meteor.isClient) {
         Bert.alert( error.reason );
       } else {
         Session.set( 'list', response );
+        // properly renders modal calendar 
+        $('#modal-calendar').closeModal();
+        
         return response;
       }
     });
@@ -26,6 +29,11 @@ if (Meteor.isClient) {
   });
 
   Template.listing.onRendered( () => {
+    $('#modal-calendar').openModal({
+      ready: function() {
+        $('.events-calendar').fullCalendar('render');
+      },
+    });
     Meteor.setTimeout( () => fetchData( 'Courses.byDept', Session.get('query'), 100) ); //, Template.instance().courses );
     
   });
@@ -89,9 +97,6 @@ if (Meteor.isClient) {
     'change #allow-credits'(e) {
       Session.set('allowCredits', e.target.checked);
     },
-    'click #modal-trigger'(e) {
-      
-    }
   });
 }
 

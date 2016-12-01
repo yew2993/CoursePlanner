@@ -61,15 +61,13 @@ Template.calendar.onRendered( () => {
       })).length > 0;
     }
   });
-  // properly renders modal calendar 
-  $('#modal-calendar').openModal({
-    ready: function() {
-      $('#modal-calendar').hide();
-      $('.events-calendar').fullCalendar('render');
-      $('#modal-calendar').closeModal();
-      $('#modal-calendar').show();
-    },
-  });
+  // // properly renders modal calendar 
+  // $('#modal-calendar').openModal({
+  //   ready: function() {
+  //     $('.events-calendar').fullCalendar('render');
+  //     $('#modal-calendar').closeModal();
+  //   },
+  // });
   // $('#modal-calendar').openModal();
   // $('.events-calendar').fullCalendar('render');
   // $('#modal-calendar').closeModal();
@@ -86,6 +84,9 @@ Template.calendar.onRendered( () => {
 });
 
 Template.calendar.helpers({
+  listIsNotLoaded() {
+    return Session.get('list').length === 0;
+  },
   minTime() {
     return Session.get('minTime');
   },

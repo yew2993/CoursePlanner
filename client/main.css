@@ -18,6 +18,11 @@
   margin: 15px;
 }
 
+#dash-modal {
+  height: 80%;
+  max-height: 80%;
+}
+
 #modal-calendar {
   height: 75%;
   max-height: 75%;

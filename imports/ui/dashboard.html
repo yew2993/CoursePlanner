@@ -1,13 +1,12 @@
 <template name="dashboard">
   <br><br>
   <div class="container">
-    
     <div class="row">
-      <div class="col m6 offset-m3">
+      <div class="col s12 m6 offset-m3">
         <h4>Create a schedule</h4>
         <br>
         <form>
-          <div class="col m9">
+          <div class="s12 col m9">
             <div class="input-field" id="select-university-wrapper">
               <select id="select-university">
                 {{#if getUniversities}}
@@ -44,13 +43,13 @@
                 <option value="" disabled selected>Select one or more college(s)</option>
                 <option value="Undergraduate Women">Undergraduate Women</option>
                 <option value="UM Yeshiva College">UM Yeshiva College</option>
-                <option value="UM Syms For Men">UM Syms For Men</option>
+                <option value="UM Syms for Men">UM Syms for Men</option>
                 <option value="Isaac Breuer College">Isaac Breuer College</option>
                 <option value="Mazer Yeshiva Program">Mazer Yeshiva Program</option>
                 <option value="Stone Beit Midrash Program">Stone Beit Midrash Program</option>
                 <option value="James Striar School">James Striar School</option>
                 <option value="Riets">Riets</option>
-                <option value="Belz School of Jewish Music">Belz School of Jewish Music</option>
+                <!-- <option value="Belz School of Jewish Music">Belz School of Jewish Music</option> -->
                 <!-- {{#if getColleges}}  
                   <option value="" disabled selected>Select one or more college(s)</option>
                   {{#each getColleges}}
