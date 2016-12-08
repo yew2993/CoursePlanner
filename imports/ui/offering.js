@@ -32,13 +32,13 @@ Template.offering.events({
     if (newEvents.length !== events.length) { // remove the offering
       e.target.innerHTML = "Add";
       $(e.target).removeClass('red lighten-2');
-      Materialize.toast("Removed " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
+      Materialize.toast("Removed " + this.crn + " - " + this.slots[0].title, 2500, 'rounded blue lighten-2');
     }
     else {  // add the offering
       if (Session.get("allowConflicts") || noConflicts(events, this.slots)) {
-        if (Session.get("allowCredits") || Session.get("credits") + this.credits <= 17) {
+        if (Session.get("allowCredits") || Session.get("credits") + this.slots[0].credits <= 17) {
           newEvents = $.merge(events, this.slots);
-          Materialize.toast("Added " + this.crn + " - " + this.title, 2500, 'rounded blue lighten-2');
+          Materialize.toast("Added " + this.crn + " - " + this.slots[0].title, 2500, 'rounded blue lighten-2');
           e.target.innerHTML = "Remove";
           $(e.target).addClass('red lighten-2');
         }

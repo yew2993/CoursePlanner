@@ -1,22 +1,24 @@
 <template name="dashboard">
-  <br><br>
+  <br>
   <div class="container">
     <div class="row">
       <div class="col s12 m6 offset-m3">
-        <h4>Create a schedule</h4>
+        <h4>Create your schedule</h4>
         <br>
         <form>
           <div class="s12 col m9">
             <div class="input-field" id="select-university-wrapper">
               <select id="select-university">
-                {{#if getUniversities}}
+                <option value="" disabled selected>Select a university</option>
+                <option value="Yeshiva University">Yeshiva University</option>
+                <!-- {{#if getUniversities}}
                   <option value="" disabled selected>Select a university</option>
                   {{#each getUniversities}}
                     <option value="{{_id}}">{{_id}}</option>
                   {{/each}}
                 {{else}}
                     <option value="" disabled selected>Loading universities...</option>
-                {{/if}}
+                {{/if}} -->
               </select>
               <label>University</label>
             </div>
@@ -25,7 +27,6 @@
               <select id="select-semester">
                 <option value="" disabled selected>Select a semester</option>
                 <option value="Spring 2017">Spring 2017</option>
-                <option value="Fall 2016">Fall 2016</option>
                 <!-- {{#if getSemesters}}
                   
                   {{#each getSemesters}}
@@ -49,7 +50,10 @@
                 <option value="Stone Beit Midrash Program">Stone Beit Midrash Program</option>
                 <option value="James Striar School">James Striar School</option>
                 <option value="Riets">Riets</option>
-                <!-- <option value="Belz School of Jewish Music">Belz School of Jewish Music</option> -->
+                <!-- <option value="Azrieli Grad School of J Ed">Azrieli Grad School of J Ed</option>
+                <option value="Belz School of Jewish Music">Belz School of Jewish Music</option>
+                <option value="Bernard Revel Graduate School">Bernard Revel Graduate School</option>
+                <option value="Cardozo School of Law">Cardozo School of Law</option> -->
                 <!-- {{#if getColleges}}  
                   <option value="" disabled selected>Select one or more college(s)</option>
                   {{#each getColleges}}
@@ -62,7 +66,10 @@
               <label>College</label>
             </div>
             </div>
-          <div class="col m3">
+          <div class="hide-on-small-only">
+            <br><br><br><br><br>
+          </div>
+          <div class="col s12 m3">
             <div style="display:none" id="new-schedule-button-wrapper">
               <button class="btn waves-effect waves-light" id="new-schedule-button" type="submit" name="action">Create Schedule</button>
             </div>
@@ -70,6 +77,10 @@
         </form>
       </div>
     </div>
+    <div class="row">
+
+    </div>
   </div>
-  <p style="bottom:0px;right:0px;position:absolute;">&copy; 2016 MyCoursePlanner.com</p>
+  <p style="bottom:0px;right:0px;position:absolute;"></p>
+
 </template>

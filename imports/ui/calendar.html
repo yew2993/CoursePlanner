@@ -1,13 +1,12 @@
 <template name="calendar">
   <div id="slider"></div>
   <div class="events-calendar"></div>
-    
 	<!-- Modal Structure -->
 	<div id="modal-calendar" class="modal bottom-sheet">
 		{{#if listIsNotLoaded}}
 			<div id="listing-loading">
 			  <br>
-			  <h5>Your courses are loading...</h5>
+			  <h5>Your courses are loading... this may take a few moments.</h5>
 			  <div class="preloader-wrapper active">
 			    <div class="spinner-layer spinner-red-only">
 			      <div class="circle-clipper left">

@@ -89,7 +89,7 @@ if (Meteor.isClient) {
       else {
         $('.department, .course, .offering').show();
       }
-      $("html, body").animate({ scrollTop: "0px" });
+      window.scrollTo(0,0);
     }, 2000),
     'change #allow-conflicts'(e) {
       Session.set('allowConflicts', e.target.checked);

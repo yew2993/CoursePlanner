@@ -30,11 +30,11 @@ Template.calendar.onRendered( () => {
     editable:    false,
     minTime:     Session.get('minTime'),
     maxTime:     Session.get('maxTime'),
-    hiddenDays: [6],
-    titleFormat: "[Double tap/click an event to remove it from the calendar.]",
+    hiddenDays: [0,6],
+    titleFormat: "[To remove a class, double tap/click.]",
     header: {
-        left:   '',//'prev,next today',
-        center: 'title',
+        left:   'title',//'prev,next today',
+        center: '',//'title',
         right:  '',//'agendaWeek basicWeek month',
     },
     events( start, end, timezone, callback ) {
